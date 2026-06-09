@@ -1,0 +1,1501 @@
+﻿order_id,customer_name,email,product,category,amount,unit_price,order_date,country,status
+ORD-00001,Camila Silva,camila.silva1@example.com,laptop,electronics,3,1438.77,2025-03-13,Brazil,paid
+ORD-00002,Ethan Brown,ethan.brown2@example.com,smartphone,electronics,4,906.58,2025-02-17,United Kingdom,paid
+ORD-00003,Arjun Mehta,arjun.mehta3@example.com,tablet,electronics,5,730.15,2025-04-12,India,refunded
+ORD-00004,Priya Sharma,priya.sharma4@example.com,headphones,electronics,5,202.55,2025-01-04,India,paid
+ORD-00005,Zuzana Nováková,zuzana.novakova5@example.com,usb_hub,accessories,3,42.52,2025-06-22,Slovakia,paid
+ORD-00006,Ethan Brown,ethan.brown6@example.com,webcam,electronics,1,127.07,2025-06-26,United Kingdom,pending
+ORD-00007,Javier Martínez,javier.martinez7@example.com,docking_station,accessories,4,241.39,2025-07-13,Spain,paid
+ORD-00008,Amir Hakim,amir.hakim8@example.com,office_desk,furniture,5,573.30,2025-07-05,Malaysia,paid
+ORD-00009,Anna Müller,anna.muller9@example.com,laptop,electronics,2,1565.54,2025-02-10,Germany,paid
+ORD-00010,Emma Johnson,emma.johnson10@example.com,webcam,electronics,3,129.03,2025-07-06,United States,paid
+ORD-00011,Erik Johansen,erik.johansen11@example.com,usb_hub,accessories,2,46.23,2025-12-26,Norway,paid
+ORD-00012,Emre Kaya,emre.kaya12@example.com,tablet,electronics,2,747.45,2025-07-14,Türkiye,pending
+ORD-00013,Priya Sharma,priya.sharma13@example.com,external_ssd,storage,3,174.05,2025-01-29,India,paid
+ORD-00014,María García,maria.garcia14@example.com,mechanical_keyboard,accessories,3,142.71,2025-02-03,Spain,paid
+ORD-00015,Amina Yusuf,amina.yusuf15@example.com,mouse,accessories,4,34.42,2025-11-26,Nigeria,cancelled
+ORD-00016,Lucía Herrera,lucia.herrera16@example.com,desk_chair,furniture,2,652.43,2025-10-15,Mexico,pending
+ORD-00017,Zuzana Nováková,zuzana.novakova17@example.com,graphics_tablet,electronics,5,305.01,2025-04-23,Slovakia,paid
+ORD-00018,Noam Levi,noam.levi18@example.com,headphones,electronics,1,218.59,2025-02-26,Israel,paid
+ORD-00019,Merve Yılmaz,merve.ylmaz19@example.com,mechanical_keyboard,accessories,4,147.24,2025-07-17,Türkiye,refunded
+ORD-00020,Miguel Reyes,miguel.reyes20@example.com,tablet,electronics,3,849.54,2025-01-06,Philippines,paid
+ORD-00021,Nguyễn Minh Anh,nguyen.minh.anh21@example.com,mechanical_keyboard,accessories,3,135.99,2025-08-11,Vietnam,paid
+ORD-00022,Isabella Santos,isabella.santos22@example.com,laptop,electronics,3,1613.25,2025-04-02,Philippines,paid
+ORD-00023,Fatima Zahra,fatima.zahra23@example.com,office_desk,furniture,5,549.42,2025-03-20,Morocco,failed
+ORD-00024,Merve Yılmaz,merve.ylmaz24@example.com,tablet,electronics,5,842.90,2025-11-03,Türkiye,failed
+ORD-00025,Mia Anderson,mia.anderson25@example.com,laptop,electronics,1,1602.98,2025-06-07,Canada,paid
+ORD-00026,Étienne Moreau,etienne.moreau26@example.com,mouse,accessories,5,37.50,2025-02-13,France,cancelled
+ORD-00027,Anna Müller,anna.muller27@example.com,mechanical_keyboard,accessories,5,151.17,2025-03-07,Germany,cancelled
+ORD-00028,Emre Kaya,emre.kaya28@example.com,desk_chair,furniture,5,720.52,2025-08-05,Türkiye,paid
+ORD-00029,Andrei Ionescu,andrei.ionescu29@example.com,docking_station,accessories,3,236.12,2025-12-10,Romania,failed
+ORD-00030,Eleni Papadopoulos,eleni.papadopoulos30@example.com,graphics_tablet,electronics,5,307.59,2025-05-07,Greece,paid
+ORD-00031,Anna Müller,anna.muller31@example.com,usb_hub,accessories,1,45.64,2025-04-28,Germany,paid
+ORD-00032,Aiko Tanaka,aiko.tanaka32@example.com,monitor,electronics,1,401.78,2025-01-17,Japan,failed
+ORD-00033,Lukas Schneider,lukas.schneider33@example.com,tablet,electronics,2,762.00,2025-09-06,Germany,paid
+ORD-00034,Valentina Rojas,valentina.rojas34@example.com,docking_station,accessories,5,242.93,2025-05-05,Chile,cancelled
+ORD-00035,Ana Petrović,ana.petrovic35@example.com,mouse,accessories,1,32.74,2025-08-09,Serbia,failed
+ORD-00036,Zuzana Nováková,zuzana.novakova36@example.com,webcam,electronics,4,137.57,2025-01-28,Slovakia,paid
+ORD-00037,Étienne Moreau,etienne.moreau37@example.com,webcam,electronics,3,136.25,2025-02-25,France,paid
+ORD-00038,Elena Popescu,elena.popescu38@example.com,mouse,accessories,5,34.71,2025-08-05,Romania,paid
+ORD-00039,Trần Quốc Bảo,tran.quoc.bao39@example.com,headphones,electronics,2,222.58,2025-02-08,Vietnam,cancelled
+ORD-00040,Emma Johnson,emma.johnson40@example.com,laptop,electronics,5,1580.65,2025-02-17,United States,paid
+ORD-00041,Emre Kaya,emre.kaya41@example.com,webcam,electronics,4,129.61,2025-07-25,Türkiye,paid
+ORD-00042,Emre Kaya,emre.kaya42@example.com,webcam,electronics,1,140.09,2025-05-16,Türkiye,cancelled
+ORD-00043,Nur Aisyah,nur.aisyah43@example.com,webcam,electronics,5,133.37,2025-09-07,Malaysia,paid
+ORD-00044,Elena Popescu,elena.popescu44@example.com,desk_chair,furniture,2,731.00,2025-10-24,Romania,paid
+ORD-00045,Amina Yusuf,amina.yusuf45@example.com,laptop,electronics,1,1520.20,2025-09-15,Nigeria,paid
+ORD-00046,Étienne Moreau,etienne.moreau46@example.com,tablet,electronics,1,834.41,2025-02-05,France,paid
+ORD-00047,Mei Lin,mei.lin47@example.com,webcam,electronics,1,139.19,2025-10-19,China,paid
+ORD-00048,Javier Martínez,javier.martinez48@example.com,smartphone,electronics,1,967.33,2025-10-26,Spain,failed
+ORD-00049,Seo-yeon Park,seo.yeon.park49@example.com,mouse,accessories,3,33.54,2025-07-22,South Korea,paid
+ORD-00050,Fatima Zahra,fatima.zahra50@example.com,headphones,electronics,3,224.42,2025-02-07,Morocco,paid
+ORD-00051,Isabella Santos,isabella.santos51@example.com,smartphone,electronics,5,1057.79,2025-02-07,Philippines,paid
+ORD-00052,Maya Cohen,maya.cohen52@example.com,desk_chair,furniture,2,727.14,2025-02-05,Israel,paid
+ORD-00053,Erik Johansen,erik.johansen53@example.com,desk_chair,furniture,2,673.27,2025-10-06,Norway,pending
+ORD-00054,Kenji Sato,kenji.sato54@example.com,external_ssd,storage,5,159.70,2025-12-06,Japan,paid
+ORD-00055,Matías Fernández,matias.fernandez55@example.com,desk_chair,furniture,1,722.40,2025-10-11,Chile,paid
+ORD-00056,Nguyễn Minh Anh,nguyen.minh.anh56@example.com,desk_chair,furniture,5,648.52,2025-06-25,Vietnam,paid
+ORD-00057,Seo-yeon Park,seo.yeon.park57@example.com,tablet,electronics,4,758.54,2025-01-27,South Korea,paid
+ORD-00058,Zuzana Nováková,zuzana.novakova58@example.com,office_desk,furniture,3,500.61,2025-06-20,Slovakia,paid
+ORD-00059,Seo-yeon Park,seo.yeon.park59@example.com,keyboard,accessories,4,95.79,2025-08-07,South Korea,paid
+ORD-00060,Camila Silva,camila.silva60@example.com,monitor,electronics,2,423.06,2025-07-09,Brazil,paid
+ORD-00061,Jakub Horváth,jakub.horvath61@example.com,keyboard,accessories,1,92.09,2025-01-21,Slovakia,failed
+ORD-00062,Iryna Kovalenko,iryna.kovalenko62@example.com,external_ssd,storage,2,169.41,2025-07-01,Ukraine,refunded
+ORD-00063,Diego Ramírez,diego.ramirez63@example.com,graphics_tablet,electronics,2,328.08,2025-04-01,Mexico,refunded
+ORD-00064,Luca Bianchi,luca.bianchi64@example.com,keyboard,accessories,3,99.29,2025-07-30,Italy,paid
+ORD-00065,Nguyễn Minh Anh,nguyen.minh.anh65@example.com,keyboard,accessories,1,93.21,2025-01-20,Vietnam,cancelled
+ORD-00066,Priya Sharma,priya.sharma66@example.com,mouse,accessories,4,34.16,2025-04-27,India,paid
+ORD-00067,Luca Bianchi,luca.bianchi67@example.com,external_ssd,storage,2,162.32,2025-05-23,Italy,paid
+ORD-00068,Trần Quốc Bảo,tran.quoc.bao68@example.com,usb_hub,accessories,5,44.28,2025-10-02,Vietnam,failed
+ORD-00069,Luca Bianchi,luca.bianchi69@example.com,monitor,electronics,3,398.40,2025-05-16,Italy,paid
+ORD-00070,Noah Williams,noah.williams70@example.com,smartphone,electronics,4,955.80,2025-06-10,United States,refunded
+ORD-00071,Noam Levi,noam.levi71@example.com,monitor,electronics,4,446.85,2025-04-08,Israel,pending
+ORD-00072,Javier Martínez,javier.martinez72@example.com,docking_station,accessories,4,220.86,2025-10-03,Spain,paid
+ORD-00073,Ingrid Hansen,ingrid.hansen73@example.com,webcam,electronics,1,139.34,2025-06-19,Norway,failed
+ORD-00074,Rafael Oliveira,rafael.oliveira74@example.com,docking_station,accessories,3,240.27,2025-12-08,Brazil,refunded
+ORD-00075,Chinedu Okafor,chinedu.okafor75@example.com,webcam,electronics,3,131.13,2025-04-09,Nigeria,refunded
+ORD-00076,Freja Nielsen,freja.nielsen76@example.com,external_ssd,storage,2,168.05,2025-06-04,Denmark,refunded
+ORD-00077,Aiko Tanaka,aiko.tanaka77@example.com,desk_chair,furniture,3,648.47,2025-10-24,Japan,failed
+ORD-00078,Miguel Reyes,miguel.reyes78@example.com,headphones,electronics,4,215.90,2025-09-19,Philippines,cancelled
+ORD-00079,Emre Kaya,emre.kaya79@example.com,external_ssd,storage,1,159.29,2025-12-06,Türkiye,failed
+ORD-00080,Ethan Brown,ethan.brown80@example.com,office_desk,furniture,2,554.93,2025-04-26,United Kingdom,paid
+ORD-00081,Lucía Herrera,lucia.herrera81@example.com,laptop,electronics,1,1438.76,2025-09-01,Mexico,paid
+ORD-00082,Isabella Santos,isabella.santos82@example.com,webcam,electronics,5,123.64,2025-12-23,Philippines,refunded
+ORD-00083,Liam Tremblay,liam.tremblay83@example.com,webcam,electronics,2,122.67,2025-12-19,Canada,paid
+ORD-00084,Noah Williams,noah.williams84@example.com,mechanical_keyboard,accessories,4,138.48,2025-12-23,United States,cancelled
+ORD-00085,Claire Dubois,claire.dubois85@example.com,tablet,electronics,2,842.77,2025-03-04,France,cancelled
+ORD-00086,Matías Fernández,matias.fernandez86@example.com,mechanical_keyboard,accessories,4,148.89,2025-10-14,Chile,failed
+ORD-00087,Eleni Papadopoulos,eleni.papadopoulos87@example.com,smartphone,electronics,5,968.51,2025-10-08,Greece,cancelled
+ORD-00088,Merve Yılmaz,merve.ylmaz88@example.com,docking_station,accessories,4,238.08,2025-05-07,Türkiye,pending
+ORD-00089,Mia Anderson,mia.anderson89@example.com,external_ssd,storage,2,159.05,2025-02-09,Canada,pending
+ORD-00090,Mei Lin,mei.lin90@example.com,desk_chair,furniture,3,660.38,2025-10-04,China,paid
+ORD-00091,Matías Fernández,matias.fernandez91@example.com,keyboard,accessories,2,93.22,2025-03-20,Chile,paid
+ORD-00092,Anna Müller,anna.muller92@example.com,webcam,electronics,4,126.48,2025-08-27,Germany,refunded
+ORD-00093,Étienne Moreau,etienne.moreau93@example.com,mouse,accessories,4,34.38,2025-10-27,France,paid
+ORD-00094,Freja Nielsen,freja.nielsen94@example.com,headphones,electronics,1,224.88,2025-06-02,Denmark,refunded
+ORD-00095,Marko Jovanović,marko.jovanovic95@example.com,tablet,electronics,5,827.90,2025-04-23,Serbia,cancelled
+ORD-00096,Priya Sharma,priya.sharma96@example.com,desk_chair,furniture,4,678.44,2025-07-19,India,failed
+ORD-00097,Matti Korhonen,matti.korhonen97@example.com,docking_station,accessories,2,253.08,2025-03-07,Finland,paid
+ORD-00098,Helena Virtanen,helena.virtanen98@example.com,smartphone,electronics,5,1005.56,2025-02-12,Finland,refunded
+ORD-00099,Matías Fernández,matias.fernandez99@example.com,office_desk,furniture,4,512.50,2025-05-14,Chile,refunded
+ORD-00100,Chinedu Okafor,chinedu.okafor100@example.com,mouse,accessories,4,34.03,2025-07-14,Nigeria,pending
+ORD-00101,Marko Jovanović,marko.jovanovic101@example.com,desk_chair,furniture,1,676.77,2025-10-04,Serbia,paid
+ORD-00102,Sigríður Jónsdóttir,sigriur.jonsdottir102@example.com,mouse,accessories,1,36.57,2025-11-30,Iceland,paid
+ORD-00103,Luca Bianchi,luca.bianchi103@example.com,mouse,accessories,2,36.90,2025-11-15,Italy,paid
+ORD-00104,Mei Lin,mei.lin104@example.com,keyboard,accessories,4,97.58,2025-10-16,China,paid
+ORD-00105,Miguel Reyes,miguel.reyes105@example.com,docking_station,accessories,3,250.25,2025-03-27,Philippines,paid
+ORD-00106,Merve Yılmaz,merve.ylmaz106@example.com,desk_chair,furniture,1,688.56,2025-06-09,Türkiye,refunded
+ORD-00107,Helena Virtanen,helena.virtanen107@example.com,docking_station,accessories,2,223.72,2025-12-20,Finland,paid
+ORD-00108,Noah Williams,noah.williams108@example.com,docking_station,accessories,3,253.45,2025-11-04,United States,paid
+ORD-00109,Javier Martínez,javier.martinez109@example.com,usb_hub,accessories,5,44.48,2025-07-09,Spain,paid
+ORD-00110,Maya Cohen,maya.cohen110@example.com,external_ssd,storage,3,152.13,2025-08-04,Israel,cancelled
+ORD-00111,Noah Williams,noah.williams111@example.com,webcam,electronics,3,132.82,2025-08-24,United States,paid
+ORD-00112,Jakub Horváth,jakub.horvath112@example.com,keyboard,accessories,5,102.08,2025-05-19,Slovakia,cancelled
+ORD-00113,Miguel Reyes,miguel.reyes113@example.com,webcam,electronics,5,125.18,2025-05-06,Philippines,paid
+ORD-00114,Trần Quốc Bảo,tran.quoc.bao114@example.com,graphics_tablet,electronics,4,297.30,2025-08-26,Vietnam,refunded
+ORD-00115,Sipho Dlamini,sipho.dlamini115@example.com,laptop,electronics,4,1584.23,2025-04-04,South Africa,cancelled
+ORD-00116,Oleksandr Bondarenko,oleksandr.bondarenko116@example.com,usb_hub,accessories,3,43.85,2025-11-02,Ukraine,pending
+ORD-00117,Kenji Sato,kenji.sato117@example.com,tablet,electronics,2,737.62,2025-07-28,Japan,cancelled
+ORD-00118,Mei Lin,mei.lin118@example.com,docking_station,accessories,4,245.60,2025-09-09,China,cancelled
+ORD-00119,Sofia Rossi,sofia.rossi119@example.com,monitor,electronics,3,401.29,2025-12-21,Italy,paid
+ORD-00120,Youssef El Amrani,youssef.el.amrani120@example.com,external_ssd,storage,5,161.54,2025-10-11,Morocco,failed
+ORD-00121,Zuzana Nováková,zuzana.novakova121@example.com,docking_station,accessories,5,233.50,2025-12-26,Slovakia,cancelled
+ORD-00122,Nguyễn Minh Anh,nguyen.minh.anh122@example.com,desk_chair,furniture,3,650.68,2025-04-09,Vietnam,failed
+ORD-00123,Rafael Oliveira,rafael.oliveira123@example.com,docking_station,accessories,5,257.31,2025-12-20,Brazil,paid
+ORD-00124,Elena Popescu,elena.popescu124@example.com,mouse,accessories,4,33.75,2025-10-29,Romania,pending
+ORD-00125,Emma Johnson,emma.johnson125@example.com,office_desk,furniture,2,522.40,2025-07-04,United States,paid
+ORD-00126,Fatima Zahra,fatima.zahra126@example.com,laptop,electronics,5,1410.38,2025-01-24,Morocco,paid
+ORD-00127,Amir Hakim,amir.hakim127@example.com,docking_station,accessories,2,245.29,2025-09-09,Malaysia,paid
+ORD-00128,Kenji Sato,kenji.sato128@example.com,smartphone,electronics,3,975.20,2025-08-14,Japan,failed
+ORD-00129,Piotr Nowak,piotr.nowak129@example.com,laptop,electronics,3,1605.86,2025-09-02,Poland,paid
+ORD-00130,Anna Müller,anna.muller130@example.com,webcam,electronics,4,121.14,2025-11-19,Germany,paid
+ORD-00131,Diego Ramírez,diego.ramirez131@example.com,keyboard,accessories,5,101.83,2025-02-13,Mexico,paid
+ORD-00132,Rafael Oliveira,rafael.oliveira132@example.com,tablet,electronics,4,803.44,2025-11-13,Brazil,paid
+ORD-00133,Freja Nielsen,freja.nielsen133@example.com,headphones,electronics,4,203.19,2025-10-29,Denmark,refunded
+ORD-00134,Youssef El Amrani,youssef.el.amrani134@example.com,smartphone,electronics,5,911.04,2025-02-20,Morocco,paid
+ORD-00135,Oleksandr Bondarenko,oleksandr.bondarenko135@example.com,desk_chair,furniture,1,642.69,2025-03-30,Ukraine,paid
+ORD-00136,Merve Yılmaz,merve.ylmaz136@example.com,laptop,electronics,4,1488.12,2025-11-01,Türkiye,cancelled
+ORD-00137,Amir Hakim,amir.hakim137@example.com,laptop,electronics,2,1449.15,2025-05-25,Malaysia,cancelled
+ORD-00138,Lukas Schneider,lukas.schneider138@example.com,external_ssd,storage,2,176.19,2025-11-17,Germany,paid
+ORD-00139,Zuzana Nováková,zuzana.novakova139@example.com,monitor,electronics,5,401.51,2025-03-18,Slovakia,pending
+ORD-00140,Lucía Herrera,lucia.herrera140@example.com,monitor,electronics,1,397.55,2025-06-07,Mexico,pending
+ORD-00141,Eleni Papadopoulos,eleni.papadopoulos141@example.com,monitor,electronics,4,432.68,2025-12-25,Greece,refunded
+ORD-00142,Nguyễn Minh Anh,nguyen.minh.anh142@example.com,tablet,electronics,5,789.22,2025-02-11,Vietnam,paid
+ORD-00143,Jakub Horváth,jakub.horvath143@example.com,docking_station,accessories,3,243.98,2025-01-14,Slovakia,paid
+ORD-00144,Arjun Mehta,arjun.mehta144@example.com,external_ssd,storage,5,167.30,2025-01-11,India,pending
+ORD-00145,Javier Martínez,javier.martinez145@example.com,mechanical_keyboard,accessories,2,144.32,2025-11-30,Spain,cancelled
+ORD-00146,Trần Quốc Bảo,tran.quoc.bao146@example.com,keyboard,accessories,5,94.03,2025-09-09,Vietnam,paid
+ORD-00147,Amelia Wilson,amelia.wilson147@example.com,usb_hub,accessories,4,43.80,2025-12-10,Australia,paid
+ORD-00148,Merve Yılmaz,merve.ylmaz148@example.com,usb_hub,accessories,4,46.39,2025-05-28,Türkiye,refunded
+ORD-00149,María García,maria.garcia149@example.com,headphones,electronics,1,203.77,2025-06-15,Spain,paid
+ORD-00150,Matti Korhonen,matti.korhonen150@example.com,office_desk,furniture,5,568.07,2025-01-01,Finland,cancelled
+ORD-00151,Ana Petrović,ana.petrovic151@example.com,laptop,electronics,2,1504.43,2025-11-15,Serbia,cancelled
+ORD-00152,Eleni Papadopoulos,eleni.papadopoulos152@example.com,mechanical_keyboard,accessories,1,138.12,2025-10-09,Greece,paid
+ORD-00153,Nur Aisyah,nur.aisyah153@example.com,headphones,electronics,4,197.28,2025-11-19,Malaysia,paid
+ORD-00154,Merve Yılmaz,merve.ylmaz154@example.com,desk_chair,furniture,5,627.09,2025-07-28,Türkiye,paid
+ORD-00155,Priya Sharma,priya.sharma155@example.com,office_desk,furniture,1,536.67,2025-03-02,India,paid
+ORD-00156,Liam Tremblay,liam.tremblay156@example.com,graphics_tablet,electronics,3,310.44,2025-05-20,Canada,refunded
+ORD-00157,Jack Thompson,jack.thompson157@example.com,headphones,electronics,2,208.55,2025-03-16,Australia,refunded
+ORD-00158,Elena Popescu,elena.popescu158@example.com,graphics_tablet,electronics,5,310.41,2025-03-11,Romania,paid
+ORD-00159,Trần Quốc Bảo,tran.quoc.bao159@example.com,mechanical_keyboard,accessories,4,141.29,2025-09-17,Vietnam,pending
+ORD-00160,Aiko Tanaka,aiko.tanaka160@example.com,desk_chair,furniture,3,716.72,2025-10-24,Japan,cancelled
+ORD-00161,Diego Ramírez,diego.ramirez161@example.com,headphones,electronics,5,209.47,2025-06-20,Mexico,refunded
+ORD-00162,Isabella Santos,isabella.santos162@example.com,graphics_tablet,electronics,3,328.33,2025-12-24,Philippines,paid
+ORD-00163,Mikkel Sørensen,mikkel.srensen163@example.com,mouse,accessories,4,32.44,2025-08-31,Denmark,refunded
+ORD-00164,Mikkel Sørensen,mikkel.srensen164@example.com,external_ssd,storage,2,164.88,2025-01-19,Denmark,paid
+ORD-00165,Maya Cohen,maya.cohen165@example.com,smartphone,electronics,3,1037.97,2025-08-14,Israel,paid
+ORD-00166,Isabella Santos,isabella.santos166@example.com,laptop,electronics,2,1478.39,2025-12-02,Philippines,paid
+ORD-00167,Lukas Schneider,lukas.schneider167@example.com,headphones,electronics,3,204.58,2025-12-21,Germany,refunded
+ORD-00168,Olivia Smith,olivia.smith168@example.com,office_desk,furniture,3,570.44,2025-10-01,United Kingdom,refunded
+ORD-00169,Amina Yusuf,amina.yusuf169@example.com,external_ssd,storage,4,174.83,2025-01-19,Nigeria,paid
+ORD-00170,Mei Lin,mei.lin170@example.com,external_ssd,storage,3,178.13,2025-02-16,China,refunded
+ORD-00171,Emma Johnson,emma.johnson171@example.com,mechanical_keyboard,accessories,1,143.69,2025-12-22,United States,pending
+ORD-00172,Luca Bianchi,luca.bianchi172@example.com,laptop,electronics,3,1571.07,2025-05-31,Italy,failed
+ORD-00173,Erik Johansen,erik.johansen173@example.com,webcam,electronics,2,124.68,2025-07-30,Norway,paid
+ORD-00174,Emre Kaya,emre.kaya174@example.com,keyboard,accessories,1,96.66,2025-07-15,Türkiye,paid
+ORD-00175,Liam Tremblay,liam.tremblay175@example.com,graphics_tablet,electronics,5,292.30,2025-08-25,Canada,pending
+ORD-00176,Isabella Santos,isabella.santos176@example.com,desk_chair,furniture,1,723.40,2025-08-27,Philippines,pending
+ORD-00177,Merve Yılmaz,merve.ylmaz177@example.com,monitor,electronics,4,449.92,2025-10-28,Türkiye,pending
+ORD-00178,Zuzana Nováková,zuzana.novakova178@example.com,docking_station,accessories,3,238.34,2025-06-04,Slovakia,paid
+ORD-00179,Mikkel Sørensen,mikkel.srensen179@example.com,office_desk,furniture,4,506.01,2025-07-15,Denmark,failed
+ORD-00180,Amir Hakim,amir.hakim180@example.com,docking_station,accessories,3,221.64,2025-12-04,Malaysia,refunded
+ORD-00181,Trần Quốc Bảo,tran.quoc.bao181@example.com,laptop,electronics,5,1587.62,2025-01-26,Vietnam,cancelled
+ORD-00182,Nur Aisyah,nur.aisyah182@example.com,mechanical_keyboard,accessories,2,147.48,2025-06-30,Malaysia,paid
+ORD-00183,Elena Popescu,elena.popescu183@example.com,smartphone,electronics,3,1007.87,2025-12-04,Romania,paid
+ORD-00184,Emma Johnson,emma.johnson184@example.com,graphics_tablet,electronics,1,300.52,2025-08-14,United States,paid
+ORD-00185,Ingrid Hansen,ingrid.hansen185@example.com,docking_station,accessories,2,224.26,2025-06-01,Norway,failed
+ORD-00186,Marko Jovanović,marko.jovanovic186@example.com,keyboard,accessories,2,89.41,2025-10-04,Serbia,failed
+ORD-00187,Maya Cohen,maya.cohen187@example.com,graphics_tablet,electronics,3,326.39,2025-05-12,Israel,cancelled
+ORD-00188,Amir Hakim,amir.hakim188@example.com,docking_station,accessories,3,251.68,2025-08-28,Malaysia,paid
+ORD-00189,Lucía Herrera,lucia.herrera189@example.com,mechanical_keyboard,accessories,2,153.36,2025-12-12,Mexico,refunded
+ORD-00190,Ingrid Hansen,ingrid.hansen190@example.com,monitor,electronics,4,387.34,2025-10-02,Norway,paid
+ORD-00191,Isabella Santos,isabella.santos191@example.com,usb_hub,accessories,3,45.61,2025-11-23,Philippines,failed
+ORD-00192,Noah Williams,noah.williams192@example.com,external_ssd,storage,2,164.25,2025-11-14,United States,failed
+ORD-00193,Priya Sharma,priya.sharma193@example.com,external_ssd,storage,1,168.57,2025-08-26,India,pending
+ORD-00194,Ana Petrović,ana.petrovic194@example.com,monitor,electronics,2,389.45,2025-01-20,Serbia,pending
+ORD-00195,Liam Tremblay,liam.tremblay195@example.com,monitor,electronics,1,402.18,2025-10-03,Canada,paid
+ORD-00196,Mikkel Sørensen,mikkel.srensen196@example.com,headphones,electronics,3,215.73,2025-12-23,Denmark,refunded
+ORD-00197,Diego Ramírez,diego.ramirez197@example.com,graphics_tablet,electronics,4,317.68,2025-09-08,Mexico,refunded
+ORD-00198,Trần Quốc Bảo,tran.quoc.bao198@example.com,laptop,electronics,3,1432.14,2025-08-16,Vietnam,paid
+ORD-00199,Ingrid Hansen,ingrid.hansen199@example.com,monitor,electronics,3,422.99,2025-11-27,Norway,failed
+ORD-00200,Étienne Moreau,etienne.moreau200@example.com,webcam,electronics,3,123.55,2025-03-04,France,cancelled
+ORD-00201,Ethan Brown,ethan.brown201@example.com,external_ssd,storage,2,168.74,2025-11-02,United Kingdom,paid
+ORD-00202,Claire Dubois,claire.dubois202@example.com,mechanical_keyboard,accessories,3,139.05,2025-03-06,France,paid
+ORD-00203,Anna Müller,anna.muller203@example.com,office_desk,furniture,5,514.70,2025-04-21,Germany,paid
+ORD-00204,Thandiwe Ndlovu,thandiwe.ndlovu204@example.com,mechanical_keyboard,accessories,2,151.70,2025-11-02,South Africa,paid
+ORD-00205,Trần Quốc Bảo,tran.quoc.bao205@example.com,office_desk,furniture,2,582.12,2025-10-04,Vietnam,pending
+ORD-00206,Katarzyna Kowalska,katarzyna.kowalska206@example.com,monitor,electronics,1,395.26,2025-07-03,Poland,paid
+ORD-00207,Chinedu Okafor,chinedu.okafor207@example.com,laptop,electronics,2,1443.69,2025-03-06,Nigeria,refunded
+ORD-00208,Camila Silva,camila.silva208@example.com,docking_station,accessories,1,239.09,2025-07-05,Brazil,paid
+ORD-00209,Nikos Georgiou,nikos.georgiou209@example.com,tablet,electronics,2,846.30,2025-01-23,Greece,pending
+ORD-00210,Isabella Santos,isabella.santos210@example.com,external_ssd,storage,1,153.41,2025-09-03,Philippines,refunded
+ORD-00211,Zuzana Nováková,zuzana.novakova211@example.com,external_ssd,storage,1,164.74,2025-08-16,Slovakia,paid
+ORD-00212,Olivia Smith,olivia.smith212@example.com,usb_hub,accessories,5,42.47,2025-03-06,United Kingdom,pending
+ORD-00213,Chinedu Okafor,chinedu.okafor213@example.com,webcam,electronics,5,130.64,2025-08-21,Nigeria,refunded
+ORD-00214,Emma Johnson,emma.johnson214@example.com,mechanical_keyboard,accessories,1,153.18,2025-11-30,United States,paid
+ORD-00215,Jakub Horváth,jakub.horvath215@example.com,headphones,electronics,2,207.10,2025-08-21,Slovakia,refunded
+ORD-00216,Marko Jovanović,marko.jovanovic216@example.com,docking_station,accessories,1,232.80,2025-06-10,Serbia,pending
+ORD-00217,Erik Johansen,erik.johansen217@example.com,keyboard,accessories,4,88.42,2025-02-13,Norway,paid
+ORD-00218,Jakub Horváth,jakub.horvath218@example.com,monitor,electronics,3,440.95,2025-10-12,Slovakia,paid
+ORD-00219,Thandiwe Ndlovu,thandiwe.ndlovu219@example.com,external_ssd,storage,1,162.65,2025-12-07,South Africa,refunded
+ORD-00220,Claire Dubois,claire.dubois220@example.com,desk_chair,furniture,5,659.59,2025-02-23,France,paid
+ORD-00221,Diego Ramírez,diego.ramirez221@example.com,external_ssd,storage,4,157.72,2025-02-25,Mexico,failed
+ORD-00222,Erik Johansen,erik.johansen222@example.com,monitor,electronics,3,424.98,2025-08-08,Norway,paid
+ORD-00223,Nguyễn Minh Anh,nguyen.minh.anh223@example.com,laptop,electronics,2,1445.58,2025-06-08,Vietnam,failed
+ORD-00224,Sigríður Jónsdóttir,sigriur.jonsdottir224@example.com,laptop,electronics,2,1588.77,2025-10-17,Iceland,refunded
+ORD-00225,Anna Müller,anna.muller225@example.com,keyboard,accessories,1,88.79,2025-09-29,Germany,paid
+ORD-00226,Freja Nielsen,freja.nielsen226@example.com,webcam,electronics,4,126.69,2025-07-09,Denmark,pending
+ORD-00227,Chinedu Okafor,chinedu.okafor227@example.com,mechanical_keyboard,accessories,5,147.23,2025-01-27,Nigeria,paid
+ORD-00228,Merve Yılmaz,merve.ylmaz228@example.com,mechanical_keyboard,accessories,5,134.55,2025-02-11,Türkiye,pending
+ORD-00229,Eleni Papadopoulos,eleni.papadopoulos229@example.com,external_ssd,storage,4,164.62,2025-08-15,Greece,refunded
+ORD-00230,Nguyễn Minh Anh,nguyen.minh.anh230@example.com,mouse,accessories,5,32.84,2025-08-09,Vietnam,paid
+ORD-00231,Nur Aisyah,nur.aisyah231@example.com,external_ssd,storage,5,164.65,2025-12-08,Malaysia,pending
+ORD-00232,Javier Martínez,javier.martinez232@example.com,mouse,accessories,4,37.71,2025-01-29,Spain,paid
+ORD-00233,Iryna Kovalenko,iryna.kovalenko233@example.com,desk_chair,furniture,2,709.09,2025-05-11,Ukraine,pending
+ORD-00234,Chinedu Okafor,chinedu.okafor234@example.com,monitor,electronics,1,419.82,2025-08-09,Nigeria,paid
+ORD-00235,Valentina Rojas,valentina.rojas235@example.com,webcam,electronics,5,134.24,2025-09-14,Chile,failed
+ORD-00236,Lukas Schneider,lukas.schneider236@example.com,webcam,electronics,1,128.67,2025-08-24,Germany,paid
+ORD-00237,Amina Yusuf,amina.yusuf237@example.com,smartphone,electronics,4,991.51,2025-12-30,Nigeria,refunded
+ORD-00238,Amir Hakim,amir.hakim238@example.com,monitor,electronics,4,387.80,2025-06-16,Malaysia,paid
+ORD-00239,Isabella Santos,isabella.santos239@example.com,office_desk,furniture,3,504.41,2025-02-24,Philippines,paid
+ORD-00240,Jakub Horváth,jakub.horvath240@example.com,smartphone,electronics,4,983.76,2025-07-22,Slovakia,pending
+ORD-00241,Sipho Dlamini,sipho.dlamini241@example.com,mouse,accessories,3,36.56,2025-02-09,South Africa,paid
+ORD-00242,Noam Levi,noam.levi242@example.com,mouse,accessories,3,34.17,2025-11-27,Israel,paid
+ORD-00243,Mei Lin,mei.lin243@example.com,monitor,electronics,2,403.60,2025-03-30,China,paid
+ORD-00244,Lukas Schneider,lukas.schneider244@example.com,keyboard,accessories,4,94.45,2025-10-16,Germany,cancelled
+ORD-00245,Chinedu Okafor,chinedu.okafor245@example.com,office_desk,furniture,3,509.84,2025-02-04,Nigeria,cancelled
+ORD-00246,Eleni Papadopoulos,eleni.papadopoulos246@example.com,external_ssd,storage,3,172.82,2025-10-30,Greece,paid
+ORD-00247,Jón Einarsson,jon.einarsson247@example.com,tablet,electronics,1,766.04,2025-08-20,Iceland,paid
+ORD-00248,Étienne Moreau,etienne.moreau248@example.com,usb_hub,accessories,3,41.95,2025-02-16,France,refunded
+ORD-00249,Miguel Reyes,miguel.reyes249@example.com,smartphone,electronics,5,1051.22,2025-01-22,Philippines,cancelled
+ORD-00250,Elena Popescu,elena.popescu250@example.com,usb_hub,accessories,5,44.82,2025-03-19,Romania,paid
+ORD-00251,Nikos Georgiou,nikos.georgiou251@example.com,monitor,electronics,3,452.42,2025-02-13,Greece,paid
+ORD-00252,Javier Martínez,javier.martinez252@example.com,mouse,accessories,4,37.75,2025-09-26,Spain,paid
+ORD-00253,Ingrid Hansen,ingrid.hansen253@example.com,usb_hub,accessories,3,44.19,2025-06-23,Norway,paid
+ORD-00254,Thandiwe Ndlovu,thandiwe.ndlovu254@example.com,monitor,electronics,3,392.75,2025-12-14,South Africa,refunded
+ORD-00255,Nur Aisyah,nur.aisyah255@example.com,desk_chair,furniture,5,720.61,2025-06-20,Malaysia,paid
+ORD-00256,Lucía Herrera,lucia.herrera256@example.com,graphics_tablet,electronics,3,300.59,2025-12-02,Mexico,refunded
+ORD-00257,Valentina Rojas,valentina.rojas257@example.com,smartphone,electronics,1,950.14,2025-07-12,Chile,failed
+ORD-00258,Valentina Rojas,valentina.rojas258@example.com,external_ssd,storage,5,154.27,2025-12-10,Chile,refunded
+ORD-00259,Noam Levi,noam.levi259@example.com,usb_hub,accessories,1,44.01,2025-04-03,Israel,paid
+ORD-00260,Sipho Dlamini,sipho.dlamini260@example.com,mechanical_keyboard,accessories,4,137.85,2025-03-12,South Africa,paid
+ORD-00261,Lukas Schneider,lukas.schneider261@example.com,desk_chair,furniture,1,680.84,2025-10-04,Germany,paid
+ORD-00262,Sipho Dlamini,sipho.dlamini262@example.com,graphics_tablet,electronics,5,291.70,2025-07-12,South Africa,paid
+ORD-00263,Merve Yılmaz,merve.ylmaz263@example.com,keyboard,accessories,5,99.70,2025-03-26,Türkiye,cancelled
+ORD-00264,Javier Martínez,javier.martinez264@example.com,webcam,electronics,3,133.67,2025-05-02,Spain,cancelled
+ORD-00265,Nur Aisyah,nur.aisyah265@example.com,mechanical_keyboard,accessories,4,138.83,2025-05-03,Malaysia,pending
+ORD-00266,Amelia Wilson,amelia.wilson266@example.com,graphics_tablet,electronics,2,303.44,2025-10-20,Australia,cancelled
+ORD-00267,Miguel Reyes,miguel.reyes267@example.com,mechanical_keyboard,accessories,3,151.45,2025-09-15,Philippines,refunded
+ORD-00268,Merve Yılmaz,merve.ylmaz268@example.com,office_desk,furniture,2,566.03,2025-03-12,Türkiye,pending
+ORD-00269,Claire Dubois,claire.dubois269@example.com,external_ssd,storage,4,174.88,2025-10-11,France,paid
+ORD-00270,Rafael Oliveira,rafael.oliveira270@example.com,desk_chair,furniture,1,708.63,2025-05-20,Brazil,cancelled
+ORD-00271,Noam Levi,noam.levi271@example.com,keyboard,accessories,4,88.79,2025-04-24,Israel,cancelled
+ORD-00272,Sigríður Jónsdóttir,sigriur.jonsdottir272@example.com,graphics_tablet,electronics,1,305.78,2025-07-22,Iceland,failed
+ORD-00273,Mei Lin,mei.lin273@example.com,webcam,electronics,1,127.40,2025-01-15,China,failed
+ORD-00274,Emma Johnson,emma.johnson274@example.com,office_desk,furniture,3,565.18,2025-03-12,United States,paid
+ORD-00275,Nur Aisyah,nur.aisyah275@example.com,graphics_tablet,electronics,4,319.73,2025-03-13,Malaysia,cancelled
+ORD-00276,Nikos Georgiou,nikos.georgiou276@example.com,smartphone,electronics,1,1043.64,2025-01-10,Greece,pending
+ORD-00277,Oleksandr Bondarenko,oleksandr.bondarenko277@example.com,office_desk,furniture,2,544.22,2025-11-08,Ukraine,refunded
+ORD-00278,Camila Silva,camila.silva278@example.com,mechanical_keyboard,accessories,3,138.91,2025-03-04,Brazil,paid
+ORD-00279,Mei Lin,mei.lin279@example.com,webcam,electronics,5,129.11,2025-02-26,China,cancelled
+ORD-00280,Sofia Rossi,sofia.rossi280@example.com,external_ssd,storage,5,166.98,2025-03-15,Italy,pending
+ORD-00281,Zuzana Nováková,zuzana.novakova281@example.com,laptop,electronics,5,1464.68,2025-10-20,Slovakia,refunded
+ORD-00282,Piotr Nowak,piotr.nowak282@example.com,external_ssd,storage,1,165.62,2025-07-04,Poland,paid
+ORD-00283,Maya Cohen,maya.cohen283@example.com,mechanical_keyboard,accessories,5,146.26,2025-07-19,Israel,cancelled
+ORD-00284,Javier Martínez,javier.martinez284@example.com,external_ssd,storage,4,177.70,2025-05-10,Spain,paid
+ORD-00285,Jón Einarsson,jon.einarsson285@example.com,mechanical_keyboard,accessories,1,141.40,2025-12-03,Iceland,paid
+ORD-00286,Thandiwe Ndlovu,thandiwe.ndlovu286@example.com,keyboard,accessories,1,92.75,2025-06-23,South Africa,paid
+ORD-00287,Miguel Reyes,miguel.reyes287@example.com,docking_station,accessories,4,245.06,2025-03-11,Philippines,paid
+ORD-00288,Isabella Santos,isabella.santos288@example.com,laptop,electronics,3,1428.38,2025-04-13,Philippines,paid
+ORD-00289,Amina Yusuf,amina.yusuf289@example.com,graphics_tablet,electronics,3,310.76,2025-10-06,Nigeria,cancelled
+ORD-00290,Min-jun Kim,min.jun.kim290@example.com,laptop,electronics,2,1448.67,2025-01-25,South Korea,failed
+ORD-00291,Nguyễn Minh Anh,nguyen.minh.anh291@example.com,monitor,electronics,3,415.76,2025-07-24,Vietnam,cancelled
+ORD-00292,Mikkel Sørensen,mikkel.srensen292@example.com,usb_hub,accessories,2,44.97,2025-09-12,Denmark,failed
+ORD-00293,Nguyễn Minh Anh,nguyen.minh.anh293@example.com,mechanical_keyboard,accessories,1,150.27,2025-02-10,Vietnam,refunded
+ORD-00294,Piotr Nowak,piotr.nowak294@example.com,tablet,electronics,3,767.40,2025-02-10,Poland,failed
+ORD-00295,Amir Hakim,amir.hakim295@example.com,desk_chair,furniture,4,691.17,2025-08-07,Malaysia,paid
+ORD-00296,Eleni Papadopoulos,eleni.papadopoulos296@example.com,usb_hub,accessories,4,41.70,2025-06-30,Greece,refunded
+ORD-00297,Trần Quốc Bảo,tran.quoc.bao297@example.com,external_ssd,storage,1,153.78,2025-11-23,Vietnam,refunded
+ORD-00298,Ingrid Hansen,ingrid.hansen298@example.com,tablet,electronics,2,847.23,2025-03-15,Norway,cancelled
+ORD-00299,María García,maria.garcia299@example.com,keyboard,accessories,1,90.99,2025-11-27,Spain,failed
+ORD-00300,Ingrid Hansen,ingrid.hansen300@example.com,webcam,electronics,5,120.27,2025-03-20,Norway,cancelled
+ORD-00301,Erik Johansen,erik.johansen301@example.com,usb_hub,accessories,4,46.89,2025-10-21,Norway,paid
+ORD-00302,Ingrid Hansen,ingrid.hansen302@example.com,webcam,electronics,3,133.11,2025-05-08,Norway,paid
+ORD-00303,Luca Bianchi,luca.bianchi303@example.com,docking_station,accessories,2,239.96,2025-07-18,Italy,paid
+ORD-00304,Seo-yeon Park,seo.yeon.park304@example.com,mechanical_keyboard,accessories,3,149.73,2025-04-20,South Korea,pending
+ORD-00305,Mia Anderson,mia.anderson305@example.com,mouse,accessories,1,32.96,2025-02-07,Canada,cancelled
+ORD-00306,Katarzyna Kowalska,katarzyna.kowalska306@example.com,graphics_tablet,electronics,4,334.66,2025-12-16,Poland,failed
+ORD-00307,Sigríður Jónsdóttir,sigriur.jonsdottir307@example.com,docking_station,accessories,1,241.92,2025-05-29,Iceland,pending
+ORD-00308,Merve Yılmaz,merve.ylmaz308@example.com,docking_station,accessories,2,251.28,2025-09-18,Türkiye,paid
+ORD-00309,Rafael Oliveira,rafael.oliveira309@example.com,mouse,accessories,2,33.53,2025-09-10,Brazil,paid
+ORD-00310,Ingrid Hansen,ingrid.hansen310@example.com,tablet,electronics,5,773.43,2025-10-10,Norway,paid
+ORD-00311,Ethan Brown,ethan.brown311@example.com,monitor,electronics,3,413.16,2025-09-03,United Kingdom,refunded
+ORD-00312,Ana Petrović,ana.petrovic312@example.com,office_desk,furniture,5,503.17,2025-06-12,Serbia,paid
+ORD-00313,Nikos Georgiou,nikos.georgiou313@example.com,headphones,electronics,5,204.78,2025-10-10,Greece,paid
+ORD-00314,Valentina Rojas,valentina.rojas314@example.com,webcam,electronics,5,138.54,2025-01-29,Chile,paid
+ORD-00315,Diego Ramírez,diego.ramirez315@example.com,desk_chair,furniture,2,643.22,2025-12-30,Mexico,paid
+ORD-00316,Sigríður Jónsdóttir,sigriur.jonsdottir316@example.com,tablet,electronics,3,833.73,2025-05-09,Iceland,paid
+ORD-00317,Trần Quốc Bảo,tran.quoc.bao317@example.com,keyboard,accessories,3,96.74,2025-02-17,Vietnam,paid
+ORD-00318,Diego Ramírez,diego.ramirez318@example.com,keyboard,accessories,5,98.35,2025-11-06,Mexico,failed
+ORD-00319,Javier Martínez,javier.martinez319@example.com,office_desk,furniture,1,503.82,2025-11-25,Spain,pending
+ORD-00320,Iryna Kovalenko,iryna.kovalenko320@example.com,mechanical_keyboard,accessories,5,143.06,2025-11-24,Ukraine,paid
+ORD-00321,Liam Tremblay,liam.tremblay321@example.com,graphics_tablet,electronics,5,299.57,2025-06-04,Canada,cancelled
+ORD-00322,Wei Zhang,wei.zhang322@example.com,mechanical_keyboard,accessories,4,140.30,2025-02-07,China,paid
+ORD-00323,Merve Yılmaz,merve.ylmaz323@example.com,headphones,electronics,4,209.47,2025-04-15,Türkiye,failed
+ORD-00324,Lucía Herrera,lucia.herrera324@example.com,usb_hub,accessories,3,46.69,2025-06-26,Mexico,refunded
+ORD-00325,Valentina Rojas,valentina.rojas325@example.com,mechanical_keyboard,accessories,3,145.35,2025-02-24,Chile,failed
+ORD-00326,Mei Lin,mei.lin326@example.com,headphones,electronics,1,202.19,2025-05-07,China,paid
+ORD-00327,Emma Johnson,emma.johnson327@example.com,laptop,electronics,3,1606.89,2025-11-12,United States,refunded
+ORD-00328,Wei Zhang,wei.zhang328@example.com,office_desk,furniture,2,567.08,2025-10-23,China,failed
+ORD-00329,Elena Popescu,elena.popescu329@example.com,mechanical_keyboard,accessories,2,144.96,2025-09-21,Romania,cancelled
+ORD-00330,Liam Tremblay,liam.tremblay330@example.com,graphics_tablet,electronics,3,309.87,2025-02-16,Canada,refunded
+ORD-00331,Maya Cohen,maya.cohen331@example.com,headphones,electronics,2,200.43,2025-06-30,Israel,paid
+ORD-00332,Claire Dubois,claire.dubois332@example.com,desk_chair,furniture,4,690.61,2025-12-01,France,cancelled
+ORD-00333,Nur Aisyah,nur.aisyah333@example.com,tablet,electronics,1,833.88,2025-08-09,Malaysia,paid
+ORD-00334,Seo-yeon Park,seo.yeon.park334@example.com,docking_station,accessories,3,250.13,2025-07-07,South Korea,paid
+ORD-00335,Matti Korhonen,matti.korhonen335@example.com,laptop,electronics,5,1514.84,2025-07-05,Finland,pending
+ORD-00336,Lukas Schneider,lukas.schneider336@example.com,webcam,electronics,5,128.97,2025-10-09,Germany,pending
+ORD-00337,Rafael Oliveira,rafael.oliveira337@example.com,keyboard,accessories,1,93.39,2025-06-23,Brazil,failed
+ORD-00338,Lucía Herrera,lucia.herrera338@example.com,mouse,accessories,5,35.05,2025-09-14,Mexico,paid
+ORD-00339,Javier Martínez,javier.martinez339@example.com,laptop,electronics,2,1551.26,2025-08-31,Spain,cancelled
+ORD-00340,Diego Ramírez,diego.ramirez340@example.com,smartphone,electronics,5,923.52,2025-11-10,Mexico,failed
+ORD-00341,Merve Yılmaz,merve.ylmaz341@example.com,webcam,electronics,5,134.98,2025-06-03,Türkiye,failed
+ORD-00342,Maya Cohen,maya.cohen342@example.com,office_desk,furniture,5,542.79,2025-12-29,Israel,pending
+ORD-00343,Amelia Wilson,amelia.wilson343@example.com,office_desk,furniture,1,528.63,2025-12-11,Australia,paid
+ORD-00344,Marko Jovanović,marko.jovanovic344@example.com,smartphone,electronics,3,1026.53,2025-12-19,Serbia,paid
+ORD-00345,Amelia Wilson,amelia.wilson345@example.com,desk_chair,furniture,5,688.45,2025-01-27,Australia,cancelled
+ORD-00346,Emre Kaya,emre.kaya346@example.com,tablet,electronics,5,824.71,2025-07-14,Türkiye,paid
+ORD-00347,Wei Zhang,wei.zhang347@example.com,laptop,electronics,5,1607.57,2025-02-26,China,paid
+ORD-00348,Sofia Rossi,sofia.rossi348@example.com,headphones,electronics,3,207.27,2025-07-31,Italy,paid
+ORD-00349,Ana Petrović,ana.petrovic349@example.com,tablet,electronics,5,843.15,2025-02-01,Serbia,paid
+ORD-00350,Iryna Kovalenko,iryna.kovalenko350@example.com,tablet,electronics,3,852.96,2025-09-02,Ukraine,refunded
+ORD-00351,Amina Yusuf,amina.yusuf351@example.com,keyboard,accessories,4,101.26,2025-06-25,Nigeria,failed
+ORD-00352,Seo-yeon Park,seo.yeon.park352@example.com,smartphone,electronics,4,931.75,2025-05-07,South Korea,pending
+ORD-00353,Fatima Zahra,fatima.zahra353@example.com,mouse,accessories,3,36.52,2025-12-27,Morocco,paid
+ORD-00354,Mia Anderson,mia.anderson354@example.com,usb_hub,accessories,4,43.91,2025-05-21,Canada,pending
+ORD-00355,Rafael Oliveira,rafael.oliveira355@example.com,smartphone,electronics,5,961.14,2025-07-22,Brazil,failed
+ORD-00356,Lucía Herrera,lucia.herrera356@example.com,desk_chair,furniture,1,656.89,2025-02-10,Mexico,failed
+ORD-00357,Eleni Papadopoulos,eleni.papadopoulos357@example.com,external_ssd,storage,3,171.53,2025-04-20,Greece,paid
+ORD-00358,Nguyễn Minh Anh,nguyen.minh.anh358@example.com,graphics_tablet,electronics,5,319.73,2025-03-12,Vietnam,paid
+ORD-00359,Mei Lin,mei.lin359@example.com,mouse,accessories,1,35.95,2025-09-29,China,paid
+ORD-00360,Arjun Mehta,arjun.mehta360@example.com,laptop,electronics,1,1479.19,2025-08-30,India,paid
+ORD-00361,Matías Fernández,matias.fernandez361@example.com,laptop,electronics,5,1614.70,2025-03-22,Chile,refunded
+ORD-00362,Amelia Wilson,amelia.wilson362@example.com,headphones,electronics,2,218.60,2025-05-28,Australia,failed
+ORD-00363,Nur Aisyah,nur.aisyah363@example.com,external_ssd,storage,1,175.77,2025-02-15,Malaysia,paid
+ORD-00364,María García,maria.garcia364@example.com,graphics_tablet,electronics,2,305.93,2025-04-01,Spain,paid
+ORD-00365,Helena Virtanen,helena.virtanen365@example.com,mechanical_keyboard,accessories,4,137.72,2025-05-29,Finland,paid
+ORD-00366,Kenji Sato,kenji.sato366@example.com,desk_chair,furniture,5,691.18,2025-06-21,Japan,pending
+ORD-00367,Isabella Santos,isabella.santos367@example.com,external_ssd,storage,5,165.64,2025-03-10,Philippines,cancelled
+ORD-00368,Nguyễn Minh Anh,nguyen.minh.anh368@example.com,mouse,accessories,1,34.05,2025-08-23,Vietnam,pending
+ORD-00369,Piotr Nowak,piotr.nowak369@example.com,laptop,electronics,3,1569.78,2025-10-18,Poland,paid
+ORD-00370,Katarzyna Kowalska,katarzyna.kowalska370@example.com,smartphone,electronics,4,1031.27,2025-09-21,Poland,failed
+ORD-00371,Ethan Brown,ethan.brown371@example.com,webcam,electronics,1,123.44,2025-03-13,United Kingdom,cancelled
+ORD-00372,Chinedu Okafor,chinedu.okafor372@example.com,graphics_tablet,electronics,2,285.54,2025-07-16,Nigeria,paid
+ORD-00373,Nikos Georgiou,nikos.georgiou373@example.com,mechanical_keyboard,accessories,3,155.53,2025-06-04,Greece,paid
+ORD-00374,Seo-yeon Park,seo.yeon.park374@example.com,external_ssd,storage,3,170.09,2025-02-01,South Korea,paid
+ORD-00375,Miguel Reyes,miguel.reyes375@example.com,desk_chair,furniture,2,669.71,2025-09-15,Philippines,pending
+ORD-00376,Rafael Oliveira,rafael.oliveira376@example.com,external_ssd,storage,3,161.50,2025-04-24,Brazil,paid
+ORD-00377,Matías Fernández,matias.fernandez377@example.com,headphones,electronics,2,208.49,2025-11-07,Chile,failed
+ORD-00378,Marko Jovanović,marko.jovanovic378@example.com,docking_station,accessories,5,255.85,2025-10-03,Serbia,paid
+ORD-00379,Wei Zhang,wei.zhang379@example.com,external_ssd,storage,5,174.85,2025-02-11,China,cancelled
+ORD-00380,Ingrid Hansen,ingrid.hansen380@example.com,monitor,electronics,5,393.94,2025-10-08,Norway,paid
+ORD-00381,Diego Ramírez,diego.ramirez381@example.com,keyboard,accessories,3,100.39,2025-08-15,Mexico,paid
+ORD-00382,Iryna Kovalenko,iryna.kovalenko382@example.com,docking_station,accessories,5,239.57,2025-09-19,Ukraine,cancelled
+ORD-00383,Étienne Moreau,etienne.moreau383@example.com,headphones,electronics,2,210.45,2025-08-22,France,paid
+ORD-00384,Miguel Reyes,miguel.reyes384@example.com,external_ssd,storage,3,170.89,2025-07-22,Philippines,pending
+ORD-00385,Aiko Tanaka,aiko.tanaka385@example.com,docking_station,accessories,2,243.01,2025-01-24,Japan,refunded
+ORD-00386,Sigríður Jónsdóttir,sigriur.jonsdottir386@example.com,docking_station,accessories,1,241.58,2025-01-31,Iceland,paid
+ORD-00387,Amelia Wilson,amelia.wilson387@example.com,laptop,electronics,3,1478.13,2025-03-11,Australia,refunded
+ORD-00388,Erik Johansen,erik.johansen388@example.com,graphics_tablet,electronics,4,307.45,2025-07-13,Norway,refunded
+ORD-00389,Olivia Smith,olivia.smith389@example.com,external_ssd,storage,5,155.31,2025-06-28,United Kingdom,paid
+ORD-00390,Katarzyna Kowalska,katarzyna.kowalska390@example.com,tablet,electronics,4,793.65,2025-04-25,Poland,paid
+ORD-00391,Sofia Rossi,sofia.rossi391@example.com,desk_chair,furniture,4,698.88,2025-10-06,Italy,refunded
+ORD-00392,Freja Nielsen,freja.nielsen392@example.com,office_desk,furniture,2,518.19,2025-06-27,Denmark,paid
+ORD-00393,Trần Quốc Bảo,tran.quoc.bao393@example.com,mouse,accessories,1,32.38,2025-12-05,Vietnam,refunded
+ORD-00394,Sofia Rossi,sofia.rossi394@example.com,mouse,accessories,2,32.58,2025-11-01,Italy,paid
+ORD-00395,Nikos Georgiou,nikos.georgiou395@example.com,smartphone,electronics,1,939.97,2025-01-23,Greece,refunded
+ORD-00396,Eleni Papadopoulos,eleni.papadopoulos396@example.com,mouse,accessories,5,33.42,2025-01-29,Greece,paid
+ORD-00397,Maya Cohen,maya.cohen397@example.com,desk_chair,furniture,2,714.36,2025-10-22,Israel,failed
+ORD-00398,Chinedu Okafor,chinedu.okafor398@example.com,mouse,accessories,3,37.11,2025-12-05,Nigeria,paid
+ORD-00399,Ana Petrović,ana.petrovic399@example.com,desk_chair,furniture,3,632.23,2025-10-30,Serbia,paid
+ORD-00400,Zuzana Nováková,zuzana.novakova400@example.com,tablet,electronics,4,732.73,2025-06-26,Slovakia,refunded
+ORD-00401,Amina Yusuf,amina.yusuf401@example.com,docking_station,accessories,4,236.48,2025-06-03,Nigeria,refunded
+ORD-00402,Piotr Nowak,piotr.nowak402@example.com,mechanical_keyboard,accessories,5,144.39,2025-04-26,Poland,pending
+ORD-00403,Lucía Herrera,lucia.herrera403@example.com,mechanical_keyboard,accessories,4,154.62,2025-10-15,Mexico,refunded
+ORD-00404,Marko Jovanović,marko.jovanovic404@example.com,tablet,electronics,5,743.75,2025-05-05,Serbia,pending
+ORD-00405,Iryna Kovalenko,iryna.kovalenko405@example.com,usb_hub,accessories,1,48.04,2025-07-09,Ukraine,paid
+ORD-00406,Elena Popescu,elena.popescu406@example.com,laptop,electronics,3,1470.52,2025-11-06,Romania,paid
+ORD-00407,Lukas Schneider,lukas.schneider407@example.com,mouse,accessories,5,36.26,2025-10-14,Germany,paid
+ORD-00408,Jack Thompson,jack.thompson408@example.com,mouse,accessories,3,33.90,2025-01-08,Australia,paid
+ORD-00409,Elena Popescu,elena.popescu409@example.com,docking_station,accessories,1,249.48,2025-09-03,Romania,paid
+ORD-00410,Iryna Kovalenko,iryna.kovalenko410@example.com,webcam,electronics,2,131.08,2025-05-25,Ukraine,refunded
+ORD-00411,Miguel Reyes,miguel.reyes411@example.com,tablet,electronics,3,765.78,2025-07-04,Philippines,cancelled
+ORD-00412,Miguel Reyes,miguel.reyes412@example.com,monitor,electronics,4,437.58,2025-06-13,Philippines,paid
+ORD-00413,Erik Johansen,erik.johansen413@example.com,usb_hub,accessories,4,41.73,2025-04-24,Norway,paid
+ORD-00414,Sofia Rossi,sofia.rossi414@example.com,desk_chair,furniture,5,727.30,2025-10-24,Italy,refunded
+ORD-00415,Amir Hakim,amir.hakim415@example.com,keyboard,accessories,2,92.41,2025-07-14,Malaysia,paid
+ORD-00416,Liam Tremblay,liam.tremblay416@example.com,tablet,electronics,3,759.33,2025-09-08,Canada,cancelled
+ORD-00417,Isabella Santos,isabella.santos417@example.com,keyboard,accessories,3,89.97,2025-10-07,Philippines,cancelled
+ORD-00418,Piotr Nowak,piotr.nowak418@example.com,graphics_tablet,electronics,5,334.32,2025-01-31,Poland,paid
+ORD-00419,Lukas Schneider,lukas.schneider419@example.com,office_desk,furniture,1,562.84,2025-07-31,Germany,paid
+ORD-00420,Arjun Mehta,arjun.mehta420@example.com,monitor,electronics,2,387.01,2025-09-16,India,cancelled
+ORD-00421,Erik Johansen,erik.johansen421@example.com,laptop,electronics,5,1533.05,2025-11-12,Norway,cancelled
+ORD-00422,Mia Anderson,mia.anderson422@example.com,laptop,electronics,1,1507.73,2025-07-30,Canada,paid
+ORD-00423,Sofia Rossi,sofia.rossi423@example.com,tablet,electronics,3,794.52,2025-05-27,Italy,paid
+ORD-00424,Maya Cohen,maya.cohen424@example.com,office_desk,furniture,4,566.45,2025-04-02,Israel,paid
+ORD-00425,Emma Johnson,emma.johnson425@example.com,tablet,electronics,2,757.26,2025-11-14,United States,pending
+ORD-00426,Jón Einarsson,jon.einarsson426@example.com,desk_chair,furniture,4,634.20,2025-07-27,Iceland,cancelled
+ORD-00427,Wei Zhang,wei.zhang427@example.com,docking_station,accessories,2,232.32,2025-02-11,China,paid
+ORD-00428,Ethan Brown,ethan.brown428@example.com,webcam,electronics,4,127.45,2025-09-01,United Kingdom,paid
+ORD-00429,Kenji Sato,kenji.sato429@example.com,docking_station,accessories,2,223.98,2025-08-11,Japan,failed
+ORD-00430,Emma Johnson,emma.johnson430@example.com,graphics_tablet,electronics,5,330.79,2025-04-28,United States,paid
+ORD-00431,Amelia Wilson,amelia.wilson431@example.com,desk_chair,furniture,1,726.15,2025-12-17,Australia,pending
+ORD-00432,María García,maria.garcia432@example.com,keyboard,accessories,3,87.64,2025-04-17,Spain,paid
+ORD-00433,Helena Virtanen,helena.virtanen433@example.com,graphics_tablet,electronics,1,300.04,2025-10-16,Finland,paid
+ORD-00434,Mikkel Sørensen,mikkel.srensen434@example.com,external_ssd,storage,5,160.56,2025-03-13,Denmark,paid
+ORD-00435,Maya Cohen,maya.cohen435@example.com,docking_station,accessories,3,222.86,2025-08-12,Israel,paid
+ORD-00436,Lukas Schneider,lukas.schneider436@example.com,usb_hub,accessories,5,46.94,2025-11-01,Germany,refunded
+ORD-00437,Chinedu Okafor,chinedu.okafor437@example.com,laptop,electronics,3,1568.05,2025-08-19,Nigeria,cancelled
+ORD-00438,Arjun Mehta,arjun.mehta438@example.com,usb_hub,accessories,5,48.18,2025-08-10,India,paid
+ORD-00439,Freja Nielsen,freja.nielsen439@example.com,monitor,electronics,5,406.25,2025-05-07,Denmark,paid
+ORD-00440,Olivia Smith,olivia.smith440@example.com,desk_chair,furniture,2,666.94,2025-11-21,United Kingdom,paid
+ORD-00441,Mikkel Sørensen,mikkel.srensen441@example.com,usb_hub,accessories,3,42.17,2025-01-03,Denmark,pending
+ORD-00442,Eleni Papadopoulos,eleni.papadopoulos442@example.com,usb_hub,accessories,3,42.14,2025-02-14,Greece,paid
+ORD-00443,Jakub Horváth,jakub.horvath443@example.com,headphones,electronics,5,211.84,2025-07-28,Slovakia,paid
+ORD-00444,Luca Bianchi,luca.bianchi444@example.com,monitor,electronics,3,423.64,2025-11-02,Italy,failed
+ORD-00445,Mikkel Sørensen,mikkel.srensen445@example.com,laptop,electronics,3,1479.31,2025-02-13,Denmark,paid
+ORD-00446,Emre Kaya,emre.kaya446@example.com,external_ssd,storage,4,156.27,2025-05-18,Türkiye,pending
+ORD-00447,Nguyễn Minh Anh,nguyen.minh.anh447@example.com,headphones,electronics,2,195.33,2025-08-11,Vietnam,pending
+ORD-00448,Marko Jovanović,marko.jovanovic448@example.com,desk_chair,furniture,4,710.75,2025-07-04,Serbia,pending
+ORD-00449,Wei Zhang,wei.zhang449@example.com,docking_station,accessories,4,243.60,2025-04-11,China,cancelled
+ORD-00450,Noah Williams,noah.williams450@example.com,keyboard,accessories,3,87.50,2025-07-22,United States,failed
+ORD-00451,Freja Nielsen,freja.nielsen451@example.com,mechanical_keyboard,accessories,3,143.61,2025-08-09,Denmark,paid
+ORD-00452,Fatima Zahra,fatima.zahra452@example.com,usb_hub,accessories,5,48.22,2025-04-13,Morocco,cancelled
+ORD-00453,Amina Yusuf,amina.yusuf453@example.com,keyboard,accessories,4,102.12,2025-05-30,Nigeria,cancelled
+ORD-00454,Wei Zhang,wei.zhang454@example.com,usb_hub,accessories,4,43.42,2025-07-21,China,failed
+ORD-00455,Camila Silva,camila.silva455@example.com,graphics_tablet,electronics,5,295.11,2025-10-07,Brazil,paid
+ORD-00456,Luca Bianchi,luca.bianchi456@example.com,docking_station,accessories,4,257.01,2025-04-18,Italy,cancelled
+ORD-00457,Amir Hakim,amir.hakim457@example.com,office_desk,furniture,1,567.56,2025-07-29,Malaysia,cancelled
+ORD-00458,Matías Fernández,matias.fernandez458@example.com,external_ssd,storage,3,158.19,2025-12-04,Chile,paid
+ORD-00459,Zuzana Nováková,zuzana.novakova459@example.com,mechanical_keyboard,accessories,4,135.12,2025-11-03,Slovakia,cancelled
+ORD-00460,Matti Korhonen,matti.korhonen460@example.com,tablet,electronics,5,843.53,2025-12-21,Finland,refunded
+ORD-00461,María García,maria.garcia461@example.com,mechanical_keyboard,accessories,3,149.68,2025-10-02,Spain,paid
+ORD-00462,Noah Williams,noah.williams462@example.com,mechanical_keyboard,accessories,2,148.66,2025-07-01,United States,paid
+ORD-00463,Javier Martínez,javier.martinez463@example.com,smartphone,electronics,4,1053.20,2025-06-19,Spain,refunded
+ORD-00464,Noah Williams,noah.williams464@example.com,laptop,electronics,1,1442.10,2025-09-19,United States,paid
+ORD-00465,Nikos Georgiou,nikos.georgiou465@example.com,usb_hub,accessories,4,44.73,2025-12-14,Greece,paid
+ORD-00466,Sigríður Jónsdóttir,sigriur.jonsdottir466@example.com,laptop,electronics,4,1405.09,2025-08-01,Iceland,paid
+ORD-00467,Camila Silva,camila.silva467@example.com,office_desk,furniture,2,526.90,2025-06-25,Brazil,cancelled
+ORD-00468,Iryna Kovalenko,iryna.kovalenko468@example.com,tablet,electronics,4,770.83,2025-02-19,Ukraine,cancelled
+ORD-00469,Nikos Georgiou,nikos.georgiou469@example.com,usb_hub,accessories,1,43.56,2025-12-30,Greece,paid
+ORD-00470,Sofia Rossi,sofia.rossi470@example.com,office_desk,furniture,3,552.78,2025-12-13,Italy,paid
+ORD-00471,Wei Zhang,wei.zhang471@example.com,tablet,electronics,2,796.56,2025-06-19,China,refunded
+ORD-00472,Miguel Reyes,miguel.reyes472@example.com,mouse,accessories,4,35.73,2025-04-06,Philippines,refunded
+ORD-00473,Helena Virtanen,helena.virtanen473@example.com,laptop,electronics,5,1591.94,2025-08-19,Finland,refunded
+ORD-00474,Mikkel Sørensen,mikkel.srensen474@example.com,laptop,electronics,2,1429.39,2025-12-27,Denmark,paid
+ORD-00475,Noah Williams,noah.williams475@example.com,mechanical_keyboard,accessories,5,137.74,2025-06-16,United States,paid
+ORD-00476,Isabella Santos,isabella.santos476@example.com,monitor,electronics,3,431.47,2025-09-08,Philippines,failed
+ORD-00477,Mikkel Sørensen,mikkel.srensen477@example.com,smartphone,electronics,4,993.64,2025-06-28,Denmark,failed
+ORD-00478,Isabella Santos,isabella.santos478@example.com,smartphone,electronics,2,1029.19,2025-12-28,Philippines,pending
+ORD-00479,Olivia Smith,olivia.smith479@example.com,external_ssd,storage,2,160.07,2025-05-03,United Kingdom,pending
+ORD-00480,Camila Silva,camila.silva480@example.com,keyboard,accessories,3,97.94,2025-09-19,Brazil,refunded
+ORD-00481,Marko Jovanović,marko.jovanovic481@example.com,smartphone,electronics,2,991.73,2025-08-05,Serbia,paid
+ORD-00482,Mia Anderson,mia.anderson482@example.com,external_ssd,storage,5,170.11,2025-11-27,Canada,paid
+ORD-00483,Emre Kaya,emre.kaya483@example.com,headphones,electronics,3,197.91,2025-06-11,Türkiye,cancelled
+ORD-00484,Claire Dubois,claire.dubois484@example.com,office_desk,furniture,3,579.04,2025-09-06,France,paid
+ORD-00485,Elena Popescu,elena.popescu485@example.com,office_desk,furniture,4,580.07,2025-09-16,Romania,cancelled
+ORD-00486,Ana Petrović,ana.petrovic486@example.com,external_ssd,storage,4,162.77,2025-08-16,Serbia,cancelled
+ORD-00487,Emre Kaya,emre.kaya487@example.com,monitor,electronics,5,388.47,2025-04-23,Türkiye,pending
+ORD-00488,María García,maria.garcia488@example.com,desk_chair,furniture,2,684.09,2025-03-28,Spain,cancelled
+ORD-00489,Liam Tremblay,liam.tremblay489@example.com,tablet,electronics,5,741.11,2025-02-28,Canada,pending
+ORD-00490,Ingrid Hansen,ingrid.hansen490@example.com,tablet,electronics,1,822.86,2025-08-14,Norway,paid
+ORD-00491,Zuzana Nováková,zuzana.novakova491@example.com,monitor,electronics,2,406.41,2025-01-17,Slovakia,cancelled
+ORD-00492,Seo-yeon Park,seo.yeon.park492@example.com,usb_hub,accessories,1,44.56,2025-03-02,South Korea,paid
+ORD-00493,Iryna Kovalenko,iryna.kovalenko493@example.com,mechanical_keyboard,accessories,5,149.39,2025-12-30,Ukraine,refunded
+ORD-00494,Emre Kaya,emre.kaya494@example.com,smartphone,electronics,2,1024.66,2025-04-16,Türkiye,paid
+ORD-00495,Sigríður Jónsdóttir,sigriur.jonsdottir495@example.com,tablet,electronics,3,802.24,2025-03-28,Iceland,failed
+ORD-00496,Amir Hakim,amir.hakim496@example.com,desk_chair,furniture,5,654.69,2025-09-21,Malaysia,paid
+ORD-00497,Matías Fernández,matias.fernandez497@example.com,mechanical_keyboard,accessories,4,154.72,2025-05-22,Chile,paid
+ORD-00498,Valentina Rojas,valentina.rojas498@example.com,mouse,accessories,2,36.18,2025-05-07,Chile,refunded
+ORD-00499,Mia Anderson,mia.anderson499@example.com,keyboard,accessories,5,97.01,2025-11-18,Canada,refunded
+ORD-00500,Freja Nielsen,freja.nielsen500@example.com,headphones,electronics,1,214.49,2025-02-17,Denmark,refunded
+ORD-00501,Noam Levi,noam.levi501@example.com,docking_station,accessories,3,247.48,2025-07-08,Israel,cancelled
+ORD-00502,Mia Anderson,mia.anderson502@example.com,usb_hub,accessories,5,41.42,2025-02-17,Canada,cancelled
+ORD-00503,Jón Einarsson,jon.einarsson503@example.com,office_desk,furniture,1,565.55,2025-07-23,Iceland,paid
+ORD-00504,Zuzana Nováková,zuzana.novakova504@example.com,office_desk,furniture,2,539.54,2025-06-15,Slovakia,pending
+ORD-00505,Sipho Dlamini,sipho.dlamini505@example.com,tablet,electronics,5,743.31,2025-09-06,South Africa,failed
+ORD-00506,Claire Dubois,claire.dubois506@example.com,laptop,electronics,1,1530.28,2025-08-24,France,paid
+ORD-00507,Rafael Oliveira,rafael.oliveira507@example.com,graphics_tablet,electronics,2,307.09,2025-01-01,Brazil,refunded
+ORD-00508,Andrei Ionescu,andrei.ionescu508@example.com,docking_station,accessories,2,254.67,2025-06-04,Romania,paid
+ORD-00509,Trần Quốc Bảo,tran.quoc.bao509@example.com,monitor,electronics,3,403.23,2025-07-10,Vietnam,paid
+ORD-00510,Claire Dubois,claire.dubois510@example.com,webcam,electronics,3,134.70,2025-04-30,France,refunded
+ORD-00511,Ethan Brown,ethan.brown511@example.com,docking_station,accessories,1,220.84,2025-09-02,United Kingdom,paid
+ORD-00512,Valentina Rojas,valentina.rojas512@example.com,smartphone,electronics,2,983.05,2025-08-16,Chile,paid
+ORD-00513,Kenji Sato,kenji.sato513@example.com,docking_station,accessories,3,252.18,2025-08-05,Japan,paid
+ORD-00514,Jack Thompson,jack.thompson514@example.com,monitor,electronics,2,412.14,2025-02-22,Australia,paid
+ORD-00515,Amina Yusuf,amina.yusuf515@example.com,usb_hub,accessories,3,42.39,2025-03-10,Nigeria,paid
+ORD-00516,Anna Müller,anna.muller516@example.com,tablet,electronics,5,727.87,2025-11-29,Germany,paid
+ORD-00517,Eleni Papadopoulos,eleni.papadopoulos517@example.com,usb_hub,accessories,2,45.92,2025-03-19,Greece,refunded
+ORD-00518,Eleni Papadopoulos,eleni.papadopoulos518@example.com,office_desk,furniture,2,504.29,2025-02-21,Greece,paid
+ORD-00519,Rafael Oliveira,rafael.oliveira519@example.com,smartphone,electronics,4,956.72,2025-08-08,Brazil,failed
+ORD-00520,Matías Fernández,matias.fernandez520@example.com,mouse,accessories,3,35.81,2025-05-08,Chile,pending
+ORD-00521,Luca Bianchi,luca.bianchi521@example.com,office_desk,furniture,3,514.55,2025-11-07,Italy,paid
+ORD-00522,Helena Virtanen,helena.virtanen522@example.com,desk_chair,furniture,1,710.88,2025-05-03,Finland,cancelled
+ORD-00523,Mikkel Sørensen,mikkel.srensen523@example.com,monitor,electronics,2,419.97,2025-11-01,Denmark,paid
+ORD-00524,Kenji Sato,kenji.sato524@example.com,usb_hub,accessories,3,42.35,2025-10-19,Japan,refunded
+ORD-00525,Ingrid Hansen,ingrid.hansen525@example.com,tablet,electronics,2,823.21,2025-02-07,Norway,paid
+ORD-00526,Anna Müller,anna.muller526@example.com,laptop,electronics,3,1431.78,2025-01-31,Germany,refunded
+ORD-00527,Maya Cohen,maya.cohen527@example.com,desk_chair,furniture,5,709.06,2025-08-05,Israel,refunded
+ORD-00528,Olivia Smith,olivia.smith528@example.com,external_ssd,storage,5,165.99,2025-03-20,United Kingdom,pending
+ORD-00529,Olivia Smith,olivia.smith529@example.com,desk_chair,furniture,1,681.23,2025-04-15,United Kingdom,paid
+ORD-00530,Chinedu Okafor,chinedu.okafor530@example.com,webcam,electronics,5,132.79,2025-11-29,Nigeria,paid
+ORD-00531,Youssef El Amrani,youssef.el.amrani531@example.com,docking_station,accessories,4,248.83,2025-05-03,Morocco,paid
+ORD-00532,Wei Zhang,wei.zhang532@example.com,monitor,electronics,4,394.19,2025-11-10,China,paid
+ORD-00533,Youssef El Amrani,youssef.el.amrani533@example.com,external_ssd,storage,2,154.95,2025-12-29,Morocco,paid
+ORD-00534,Kenji Sato,kenji.sato534@example.com,keyboard,accessories,4,101.89,2025-09-25,Japan,pending
+ORD-00535,Emre Kaya,emre.kaya535@example.com,usb_hub,accessories,2,46.80,2025-05-18,Türkiye,paid
+ORD-00536,Luca Bianchi,luca.bianchi536@example.com,usb_hub,accessories,4,43.36,2025-02-02,Italy,pending
+ORD-00537,Lukas Schneider,lukas.schneider537@example.com,headphones,electronics,4,210.36,2025-01-29,Germany,cancelled
+ORD-00538,Emre Kaya,emre.kaya538@example.com,usb_hub,accessories,2,43.24,2025-02-22,Türkiye,paid
+ORD-00539,Arjun Mehta,arjun.mehta539@example.com,docking_station,accessories,5,220.90,2025-01-07,India,paid
+ORD-00540,Javier Martínez,javier.martinez540@example.com,headphones,electronics,3,206.07,2025-03-18,Spain,paid
+ORD-00541,María García,maria.garcia541@example.com,tablet,electronics,4,755.18,2025-05-08,Spain,refunded
+ORD-00542,Amina Yusuf,amina.yusuf542@example.com,desk_chair,furniture,1,687.78,2025-03-03,Nigeria,paid
+ORD-00543,Katarzyna Kowalska,katarzyna.kowalska543@example.com,mouse,accessories,5,37.70,2025-07-25,Poland,paid
+ORD-00544,Miguel Reyes,miguel.reyes544@example.com,office_desk,furniture,3,563.63,2025-06-09,Philippines,failed
+ORD-00545,Ethan Brown,ethan.brown545@example.com,tablet,electronics,4,727.81,2025-04-13,United Kingdom,pending
+ORD-00546,Fatima Zahra,fatima.zahra546@example.com,docking_station,accessories,5,230.12,2025-07-08,Morocco,cancelled
+ORD-00547,Andrei Ionescu,andrei.ionescu547@example.com,docking_station,accessories,5,250.00,2025-05-06,Romania,paid
+ORD-00548,Aiko Tanaka,aiko.tanaka548@example.com,graphics_tablet,electronics,4,286.39,2025-10-05,Japan,failed
+ORD-00549,Kenji Sato,kenji.sato549@example.com,usb_hub,accessories,1,46.86,2025-07-12,Japan,pending
+ORD-00550,Noah Williams,noah.williams550@example.com,mouse,accessories,5,37.71,2025-08-03,United States,cancelled
+ORD-00551,Étienne Moreau,etienne.moreau551@example.com,keyboard,accessories,3,88.81,2025-04-29,France,refunded
+ORD-00552,Erik Johansen,erik.johansen552@example.com,headphones,electronics,1,212.71,2025-09-16,Norway,paid
+ORD-00553,Helena Virtanen,helena.virtanen553@example.com,monitor,electronics,5,424.56,2025-08-11,Finland,paid
+ORD-00554,Mei Lin,mei.lin554@example.com,desk_chair,furniture,3,718.18,2025-07-21,China,failed
+ORD-00555,Amina Yusuf,amina.yusuf555@example.com,headphones,electronics,3,201.05,2025-04-14,Nigeria,paid
+ORD-00556,Noah Williams,noah.williams556@example.com,keyboard,accessories,1,89.90,2025-08-27,United States,failed
+ORD-00557,Ana Petrović,ana.petrovic557@example.com,monitor,electronics,5,410.48,2025-04-17,Serbia,cancelled
+ORD-00558,Youssef El Amrani,youssef.el.amrani558@example.com,headphones,electronics,3,221.84,2025-02-16,Morocco,paid
+ORD-00559,Fatima Zahra,fatima.zahra559@example.com,office_desk,furniture,5,500.28,2025-06-17,Morocco,paid
+ORD-00560,Ethan Brown,ethan.brown560@example.com,docking_station,accessories,2,257.99,2025-07-22,United Kingdom,paid
+ORD-00561,Fatima Zahra,fatima.zahra561@example.com,desk_chair,furniture,2,628.98,2025-07-27,Morocco,cancelled
+ORD-00562,Wei Zhang,wei.zhang562@example.com,monitor,electronics,4,393.25,2025-03-13,China,paid
+ORD-00563,Kenji Sato,kenji.sato563@example.com,laptop,electronics,2,1411.37,2025-07-25,Japan,failed
+ORD-00564,Olivia Smith,olivia.smith564@example.com,smartphone,electronics,5,942.18,2025-02-08,United Kingdom,paid
+ORD-00565,Anna Müller,anna.muller565@example.com,mouse,accessories,4,36.73,2025-02-17,Germany,failed
+ORD-00566,Rafael Oliveira,rafael.oliveira566@example.com,laptop,electronics,4,1392.15,2025-10-21,Brazil,refunded
+ORD-00567,Helena Virtanen,helena.virtanen567@example.com,headphones,electronics,1,206.06,2025-08-07,Finland,paid
+ORD-00568,Jón Einarsson,jon.einarsson568@example.com,mouse,accessories,2,33.74,2025-08-17,Iceland,paid
+ORD-00569,María García,maria.garcia569@example.com,smartphone,electronics,5,998.34,2025-11-28,Spain,pending
+ORD-00570,Liam Tremblay,liam.tremblay570@example.com,webcam,electronics,5,129.56,2025-02-14,Canada,pending
+ORD-00571,Mikkel Sørensen,mikkel.srensen571@example.com,keyboard,accessories,4,90.43,2025-09-27,Denmark,paid
+ORD-00572,Sofia Rossi,sofia.rossi572@example.com,webcam,electronics,3,129.58,2025-09-06,Italy,failed
+ORD-00573,Maya Cohen,maya.cohen573@example.com,usb_hub,accessories,4,43.35,2025-01-14,Israel,failed
+ORD-00574,Priya Sharma,priya.sharma574@example.com,laptop,electronics,3,1394.06,2025-08-30,India,failed
+ORD-00575,Arjun Mehta,arjun.mehta575@example.com,keyboard,accessories,1,91.17,2025-05-04,India,pending
+ORD-00576,Étienne Moreau,etienne.moreau576@example.com,mechanical_keyboard,accessories,2,146.76,2025-07-18,France,failed
+ORD-00577,Katarzyna Kowalska,katarzyna.kowalska577@example.com,keyboard,accessories,2,96.41,2025-12-24,Poland,failed
+ORD-00578,Luca Bianchi,luca.bianchi578@example.com,docking_station,accessories,3,257.19,2025-10-16,Italy,paid
+ORD-00579,Elena Popescu,elena.popescu579@example.com,office_desk,furniture,4,543.64,2025-03-31,Romania,cancelled
+ORD-00580,María García,maria.garcia580@example.com,monitor,electronics,1,402.03,2025-04-23,Spain,paid
+ORD-00581,Jack Thompson,jack.thompson581@example.com,laptop,electronics,3,1600.30,2025-04-14,Australia,paid
+ORD-00582,Sipho Dlamini,sipho.dlamini582@example.com,docking_station,accessories,2,256.08,2025-06-15,South Africa,paid
+ORD-00583,Sofia Rossi,sofia.rossi583@example.com,keyboard,accessories,5,98.11,2025-03-14,Italy,paid
+ORD-00584,Ingrid Hansen,ingrid.hansen584@example.com,monitor,electronics,3,433.74,2025-12-06,Norway,refunded
+ORD-00585,Emma Johnson,emma.johnson585@example.com,usb_hub,accessories,3,43.72,2025-03-22,United States,refunded
+ORD-00586,Mia Anderson,mia.anderson586@example.com,external_ssd,storage,3,156.40,2025-10-15,Canada,failed
+ORD-00587,Priya Sharma,priya.sharma587@example.com,external_ssd,storage,5,173.30,2025-07-13,India,pending
+ORD-00588,Amir Hakim,amir.hakim588@example.com,keyboard,accessories,2,98.48,2025-12-26,Malaysia,refunded
+ORD-00589,María García,maria.garcia589@example.com,keyboard,accessories,5,92.24,2025-11-10,Spain,paid
+ORD-00590,Noah Williams,noah.williams590@example.com,graphics_tablet,electronics,4,292.18,2025-02-09,United States,paid
+ORD-00591,Sigríður Jónsdóttir,sigriur.jonsdottir591@example.com,usb_hub,accessories,2,45.98,2025-02-15,Iceland,failed
+ORD-00592,Nikos Georgiou,nikos.georgiou592@example.com,laptop,electronics,3,1430.32,2025-12-21,Greece,paid
+ORD-00593,Sigríður Jónsdóttir,sigriur.jonsdottir593@example.com,desk_chair,furniture,1,703.98,2025-01-25,Iceland,refunded
+ORD-00594,Eleni Papadopoulos,eleni.papadopoulos594@example.com,docking_station,accessories,4,258.01,2025-07-31,Greece,cancelled
+ORD-00595,Freja Nielsen,freja.nielsen595@example.com,usb_hub,accessories,5,44.10,2025-09-03,Denmark,paid
+ORD-00596,Merve Yılmaz,merve.ylmaz596@example.com,headphones,electronics,1,220.05,2025-01-18,Türkiye,pending
+ORD-00597,Sofia Rossi,sofia.rossi597@example.com,usb_hub,accessories,3,48.25,2025-02-07,Italy,failed
+ORD-00598,Emre Kaya,emre.kaya598@example.com,graphics_tablet,electronics,4,293.18,2025-02-08,Türkiye,paid
+ORD-00599,Sipho Dlamini,sipho.dlamini599@example.com,smartphone,electronics,5,1041.66,2025-12-27,South Africa,paid
+ORD-00600,Jakub Horváth,jakub.horvath600@example.com,external_ssd,storage,2,167.83,2025-08-11,Slovakia,paid
+ORD-00601,Claire Dubois,claire.dubois601@example.com,monitor,electronics,3,400.21,2025-04-08,France,refunded
+ORD-00602,Seo-yeon Park,seo.yeon.park602@example.com,external_ssd,storage,3,159.65,2025-02-19,South Korea,paid
+ORD-00603,Helena Virtanen,helena.virtanen603@example.com,smartphone,electronics,5,1033.29,2025-03-20,Finland,paid
+ORD-00604,Ingrid Hansen,ingrid.hansen604@example.com,laptop,electronics,4,1401.03,2025-12-05,Norway,cancelled
+ORD-00605,Andrei Ionescu,andrei.ionescu605@example.com,monitor,electronics,1,400.31,2025-11-23,Romania,pending
+ORD-00606,Olivia Smith,olivia.smith606@example.com,headphones,electronics,1,203.56,2025-07-23,United Kingdom,cancelled
+ORD-00607,Mia Anderson,mia.anderson607@example.com,graphics_tablet,electronics,3,289.72,2025-10-06,Canada,refunded
+ORD-00608,Piotr Nowak,piotr.nowak608@example.com,usb_hub,accessories,4,44.06,2025-08-17,Poland,paid
+ORD-00609,Seo-yeon Park,seo.yeon.park609@example.com,headphones,electronics,4,202.05,2025-05-18,South Korea,paid
+ORD-00610,Diego Ramírez,diego.ramirez610@example.com,mechanical_keyboard,accessories,1,135.39,2025-06-26,Mexico,refunded
+ORD-00611,Arjun Mehta,arjun.mehta611@example.com,tablet,electronics,1,833.08,2025-09-25,India,refunded
+ORD-00612,Amelia Wilson,amelia.wilson612@example.com,smartphone,electronics,2,976.28,2025-02-10,Australia,refunded
+ORD-00613,María García,maria.garcia613@example.com,tablet,electronics,5,840.62,2025-10-20,Spain,paid
+ORD-00614,Rafael Oliveira,rafael.oliveira614@example.com,mechanical_keyboard,accessories,4,137.41,2025-03-27,Brazil,paid
+ORD-00615,Elena Popescu,elena.popescu615@example.com,keyboard,accessories,1,93.84,2025-12-16,Romania,refunded
+ORD-00616,Andrei Ionescu,andrei.ionescu616@example.com,office_desk,furniture,2,568.87,2025-05-13,Romania,failed
+ORD-00617,Anna Müller,anna.muller617@example.com,monitor,electronics,4,423.79,2025-10-10,Germany,failed
+ORD-00618,Trần Quốc Bảo,tran.quoc.bao618@example.com,tablet,electronics,4,842.73,2025-01-07,Vietnam,refunded
+ORD-00619,Camila Silva,camila.silva619@example.com,webcam,electronics,2,122.68,2025-10-29,Brazil,paid
+ORD-00620,Noah Williams,noah.williams620@example.com,smartphone,electronics,1,1024.80,2025-10-02,United States,failed
+ORD-00621,Ana Petrović,ana.petrovic621@example.com,desk_chair,furniture,4,696.84,2025-10-20,Serbia,cancelled
+ORD-00622,María García,maria.garcia622@example.com,keyboard,accessories,3,93.53,2025-11-13,Spain,refunded
+ORD-00623,María García,maria.garcia623@example.com,webcam,electronics,3,133.96,2025-01-26,Spain,cancelled
+ORD-00624,Nguyễn Minh Anh,nguyen.minh.anh624@example.com,graphics_tablet,electronics,3,286.20,2025-06-05,Vietnam,pending
+ORD-00625,Trần Quốc Bảo,tran.quoc.bao625@example.com,office_desk,furniture,4,570.95,2025-12-17,Vietnam,paid
+ORD-00626,Arjun Mehta,arjun.mehta626@example.com,keyboard,accessories,3,102.21,2025-08-15,India,failed
+ORD-00627,Nguyễn Minh Anh,nguyen.minh.anh627@example.com,docking_station,accessories,4,244.03,2025-02-15,Vietnam,paid
+ORD-00628,Eleni Papadopoulos,eleni.papadopoulos628@example.com,mouse,accessories,4,36.35,2025-09-22,Greece,failed
+ORD-00629,Étienne Moreau,etienne.moreau629@example.com,tablet,electronics,2,735.09,2025-12-30,France,refunded
+ORD-00630,Matías Fernández,matias.fernandez630@example.com,mechanical_keyboard,accessories,5,153.80,2025-01-15,Chile,paid
+ORD-00631,Elena Popescu,elena.popescu631@example.com,graphics_tablet,electronics,2,326.71,2025-05-08,Romania,paid
+ORD-00632,Isabella Santos,isabella.santos632@example.com,laptop,electronics,3,1549.11,2025-05-21,Philippines,failed
+ORD-00633,Miguel Reyes,miguel.reyes633@example.com,tablet,electronics,4,807.12,2025-03-05,Philippines,paid
+ORD-00634,Mei Lin,mei.lin634@example.com,usb_hub,accessories,4,45.68,2025-04-01,China,cancelled
+ORD-00635,Sigríður Jónsdóttir,sigriur.jonsdottir635@example.com,usb_hub,accessories,2,47.43,2025-05-13,Iceland,paid
+ORD-00636,Nur Aisyah,nur.aisyah636@example.com,laptop,electronics,4,1391.92,2025-10-20,Malaysia,paid
+ORD-00637,Priya Sharma,priya.sharma637@example.com,external_ssd,storage,2,169.69,2025-05-18,India,refunded
+ORD-00638,Noam Levi,noam.levi638@example.com,laptop,electronics,1,1493.78,2025-03-09,Israel,paid
+ORD-00639,Kenji Sato,kenji.sato639@example.com,mouse,accessories,3,35.61,2025-06-06,Japan,pending
+ORD-00640,Zuzana Nováková,zuzana.novakova640@example.com,graphics_tablet,electronics,4,327.44,2025-08-24,Slovakia,pending
+ORD-00641,Oleksandr Bondarenko,oleksandr.bondarenko641@example.com,headphones,electronics,3,215.95,2025-11-16,Ukraine,refunded
+ORD-00642,Noah Williams,noah.williams642@example.com,laptop,electronics,5,1619.86,2025-07-11,United States,pending
+ORD-00643,Fatima Zahra,fatima.zahra643@example.com,external_ssd,storage,1,164.52,2025-06-22,Morocco,pending
+ORD-00644,Chinedu Okafor,chinedu.okafor644@example.com,office_desk,furniture,3,519.36,2025-12-31,Nigeria,pending
+ORD-00645,Elena Popescu,elena.popescu645@example.com,keyboard,accessories,5,99.04,2025-01-30,Romania,refunded
+ORD-00646,Amina Yusuf,amina.yusuf646@example.com,external_ssd,storage,2,170.84,2025-12-02,Nigeria,cancelled
+ORD-00647,Amir Hakim,amir.hakim647@example.com,desk_chair,furniture,4,669.62,2025-01-19,Malaysia,paid
+ORD-00648,Sipho Dlamini,sipho.dlamini648@example.com,docking_station,accessories,2,247.15,2025-11-23,South Africa,cancelled
+ORD-00649,Jón Einarsson,jon.einarsson649@example.com,tablet,electronics,3,833.66,2025-12-03,Iceland,paid
+ORD-00650,Amir Hakim,amir.hakim650@example.com,monitor,electronics,4,395.00,2025-05-13,Malaysia,paid
+ORD-00651,Thandiwe Ndlovu,thandiwe.ndlovu651@example.com,external_ssd,storage,1,157.67,2025-04-25,South Africa,pending
+ORD-00652,Marko Jovanović,marko.jovanovic652@example.com,mechanical_keyboard,accessories,3,142.02,2025-10-27,Serbia,pending
+ORD-00653,Miguel Reyes,miguel.reyes653@example.com,office_desk,furniture,1,537.45,2025-11-21,Philippines,paid
+ORD-00654,Amelia Wilson,amelia.wilson654@example.com,graphics_tablet,electronics,2,310.02,2025-12-15,Australia,refunded
+ORD-00655,Fatima Zahra,fatima.zahra655@example.com,webcam,electronics,1,137.71,2025-03-19,Morocco,paid
+ORD-00656,Andrei Ionescu,andrei.ionescu656@example.com,usb_hub,accessories,4,48.51,2025-08-23,Romania,paid
+ORD-00657,Amina Yusuf,amina.yusuf657@example.com,office_desk,furniture,2,564.10,2025-09-07,Nigeria,failed
+ORD-00658,Katarzyna Kowalska,katarzyna.kowalska658@example.com,usb_hub,accessories,1,41.43,2025-05-21,Poland,paid
+ORD-00659,Emre Kaya,emre.kaya659@example.com,smartphone,electronics,2,978.37,2025-02-15,Türkiye,paid
+ORD-00660,Jakub Horváth,jakub.horvath660@example.com,external_ssd,storage,4,162.45,2025-09-02,Slovakia,refunded
+ORD-00661,Aiko Tanaka,aiko.tanaka661@example.com,laptop,electronics,5,1427.86,2025-07-11,Japan,paid
+ORD-00662,Chinedu Okafor,chinedu.okafor662@example.com,mechanical_keyboard,accessories,5,137.82,2025-12-13,Nigeria,paid
+ORD-00663,Wei Zhang,wei.zhang663@example.com,mouse,accessories,3,33.95,2025-02-22,China,refunded
+ORD-00664,Maya Cohen,maya.cohen664@example.com,smartphone,electronics,3,927.79,2025-01-24,Israel,pending
+ORD-00665,Amir Hakim,amir.hakim665@example.com,headphones,electronics,5,213.24,2025-06-22,Malaysia,refunded
+ORD-00666,Matías Fernández,matias.fernandez666@example.com,usb_hub,accessories,4,43.99,2025-04-07,Chile,paid
+ORD-00667,Matti Korhonen,matti.korhonen667@example.com,laptop,electronics,2,1433.84,2025-03-09,Finland,paid
+ORD-00668,Sofia Rossi,sofia.rossi668@example.com,smartphone,electronics,5,928.10,2025-07-07,Italy,paid
+ORD-00669,Freja Nielsen,freja.nielsen669@example.com,graphics_tablet,electronics,3,323.45,2025-11-16,Denmark,paid
+ORD-00670,Claire Dubois,claire.dubois670@example.com,external_ssd,storage,1,169.05,2025-01-11,France,paid
+ORD-00671,Camila Silva,camila.silva671@example.com,webcam,electronics,4,127.51,2025-10-08,Brazil,pending
+ORD-00672,Amelia Wilson,amelia.wilson672@example.com,docking_station,accessories,2,228.69,2025-12-18,Australia,paid
+ORD-00673,Fatima Zahra,fatima.zahra673@example.com,webcam,electronics,1,133.38,2025-05-19,Morocco,paid
+ORD-00674,Marko Jovanović,marko.jovanovic674@example.com,office_desk,furniture,1,541.00,2025-11-13,Serbia,paid
+ORD-00675,Nur Aisyah,nur.aisyah675@example.com,monitor,electronics,1,419.85,2025-11-08,Malaysia,paid
+ORD-00676,Seo-yeon Park,seo.yeon.park676@example.com,office_desk,furniture,5,580.88,2025-07-03,South Korea,refunded
+ORD-00677,Amir Hakim,amir.hakim677@example.com,keyboard,accessories,1,95.73,2025-04-17,Malaysia,cancelled
+ORD-00678,Thandiwe Ndlovu,thandiwe.ndlovu678@example.com,mouse,accessories,1,32.27,2025-02-15,South Africa,paid
+ORD-00679,Liam Tremblay,liam.tremblay679@example.com,keyboard,accessories,1,99.25,2025-02-08,Canada,paid
+ORD-00680,Min-jun Kim,min.jun.kim680@example.com,external_ssd,storage,2,163.86,2025-06-01,South Korea,pending
+ORD-00681,Miguel Reyes,miguel.reyes681@example.com,laptop,electronics,1,1575.16,2025-01-21,Philippines,pending
+ORD-00682,Ingrid Hansen,ingrid.hansen682@example.com,mechanical_keyboard,accessories,3,143.28,2025-03-01,Norway,paid
+ORD-00683,Javier Martínez,javier.martinez683@example.com,laptop,electronics,2,1539.21,2025-03-29,Spain,failed
+ORD-00684,Jón Einarsson,jon.einarsson684@example.com,graphics_tablet,electronics,4,332.57,2025-05-18,Iceland,paid
+ORD-00685,Erik Johansen,erik.johansen685@example.com,office_desk,furniture,3,512.60,2025-07-25,Norway,refunded
+ORD-00686,Isabella Santos,isabella.santos686@example.com,desk_chair,furniture,4,700.66,2025-09-02,Philippines,refunded
+ORD-00687,Emre Kaya,emre.kaya687@example.com,monitor,electronics,2,433.18,2025-01-31,Türkiye,paid
+ORD-00688,Noah Williams,noah.williams688@example.com,webcam,electronics,5,129.64,2025-10-19,United States,cancelled
+ORD-00689,Piotr Nowak,piotr.nowak689@example.com,smartphone,electronics,4,1023.77,2025-11-10,Poland,paid
+ORD-00690,Valentina Rojas,valentina.rojas690@example.com,headphones,electronics,4,196.99,2025-07-30,Chile,cancelled
+ORD-00691,Javier Martínez,javier.martinez691@example.com,monitor,electronics,3,430.41,2025-01-07,Spain,paid
+ORD-00692,Sipho Dlamini,sipho.dlamini692@example.com,tablet,electronics,5,813.79,2025-11-13,South Africa,paid
+ORD-00693,Jakub Horváth,jakub.horvath693@example.com,external_ssd,storage,2,164.52,2025-12-06,Slovakia,refunded
+ORD-00694,Diego Ramírez,diego.ramirez694@example.com,office_desk,furniture,5,573.87,2025-11-10,Mexico,paid
+ORD-00695,Kenji Sato,kenji.sato695@example.com,external_ssd,storage,2,165.15,2025-08-29,Japan,cancelled
+ORD-00696,Emre Kaya,emre.kaya696@example.com,monitor,electronics,4,407.95,2025-06-19,Türkiye,pending
+ORD-00697,Claire Dubois,claire.dubois697@example.com,tablet,electronics,2,796.38,2025-07-13,France,refunded
+ORD-00698,Mei Lin,mei.lin698@example.com,monitor,electronics,4,416.25,2025-10-21,China,cancelled
+ORD-00699,Ethan Brown,ethan.brown699@example.com,office_desk,furniture,4,535.43,2025-03-02,United Kingdom,cancelled
+ORD-00700,Sofia Rossi,sofia.rossi700@example.com,monitor,electronics,4,414.11,2025-10-13,Italy,paid
+ORD-00701,Ethan Brown,ethan.brown701@example.com,mechanical_keyboard,accessories,5,155.75,2025-11-23,United Kingdom,pending
+ORD-00702,Noam Levi,noam.levi702@example.com,tablet,electronics,2,809.54,2025-08-22,Israel,failed
+ORD-00703,Ingrid Hansen,ingrid.hansen703@example.com,office_desk,furniture,1,567.35,2025-08-21,Norway,failed
+ORD-00704,Amelia Wilson,amelia.wilson704@example.com,docking_station,accessories,3,248.29,2025-02-28,Australia,paid
+ORD-00705,Priya Sharma,priya.sharma705@example.com,laptop,electronics,3,1465.23,2025-11-21,India,pending
+ORD-00706,Erik Johansen,erik.johansen706@example.com,docking_station,accessories,1,222.56,2025-03-26,Norway,cancelled
+ORD-00707,Matías Fernández,matias.fernandez707@example.com,office_desk,furniture,4,506.04,2025-11-09,Chile,paid
+ORD-00708,Elena Popescu,elena.popescu708@example.com,monitor,electronics,4,400.89,2025-04-08,Romania,failed
+ORD-00709,Noah Williams,noah.williams709@example.com,mechanical_keyboard,accessories,4,134.48,2025-11-21,United States,paid
+ORD-00710,Nikos Georgiou,nikos.georgiou710@example.com,headphones,electronics,5,225.33,2025-03-10,Greece,cancelled
+ORD-00711,Aiko Tanaka,aiko.tanaka711@example.com,tablet,electronics,1,796.73,2025-08-10,Japan,cancelled
+ORD-00712,Noam Levi,noam.levi712@example.com,mechanical_keyboard,accessories,2,149.45,2025-03-30,Israel,paid
+ORD-00713,Noah Williams,noah.williams713@example.com,webcam,electronics,5,132.21,2025-06-14,United States,refunded
+ORD-00714,Marko Jovanović,marko.jovanovic714@example.com,smartphone,electronics,2,944.50,2025-06-25,Serbia,pending
+ORD-00715,Nikos Georgiou,nikos.georgiou715@example.com,mechanical_keyboard,accessories,2,136.61,2025-11-05,Greece,pending
+ORD-00716,Amina Yusuf,amina.yusuf716@example.com,docking_station,accessories,5,245.09,2025-04-13,Nigeria,paid
+ORD-00717,Amir Hakim,amir.hakim717@example.com,external_ssd,storage,3,176.12,2025-03-09,Malaysia,paid
+ORD-00718,Maya Cohen,maya.cohen718@example.com,tablet,electronics,3,816.59,2025-06-30,Israel,cancelled
+ORD-00719,Marko Jovanović,marko.jovanovic719@example.com,external_ssd,storage,5,159.35,2025-08-05,Serbia,paid
+ORD-00720,Noah Williams,noah.williams720@example.com,laptop,electronics,4,1414.88,2025-12-10,United States,paid
+ORD-00721,Andrei Ionescu,andrei.ionescu721@example.com,desk_chair,furniture,2,732.61,2025-12-16,Romania,pending
+ORD-00722,Lucía Herrera,lucia.herrera722@example.com,office_desk,furniture,1,556.47,2025-06-01,Mexico,paid
+ORD-00723,María García,maria.garcia723@example.com,usb_hub,accessories,4,42.14,2025-12-12,Spain,paid
+ORD-00724,Mikkel Sørensen,mikkel.srensen724@example.com,mouse,accessories,5,36.59,2025-12-23,Denmark,pending
+ORD-00725,Claire Dubois,claire.dubois725@example.com,graphics_tablet,electronics,4,304.42,2025-12-17,France,failed
+ORD-00726,Claire Dubois,claire.dubois726@example.com,laptop,electronics,3,1428.74,2025-08-15,France,paid
+ORD-00727,Erik Johansen,erik.johansen727@example.com,mechanical_keyboard,accessories,5,146.08,2025-11-05,Norway,paid
+ORD-00728,Elena Popescu,elena.popescu728@example.com,desk_chair,furniture,4,644.90,2025-12-16,Romania,paid
+ORD-00729,Piotr Nowak,piotr.nowak729@example.com,keyboard,accessories,5,89.21,2025-01-21,Poland,refunded
+ORD-00730,Trần Quốc Bảo,tran.quoc.bao730@example.com,tablet,electronics,3,743.24,2025-10-27,Vietnam,pending
+ORD-00731,Aiko Tanaka,aiko.tanaka731@example.com,usb_hub,accessories,4,46.51,2025-03-21,Japan,paid
+ORD-00732,Diego Ramírez,diego.ramirez732@example.com,graphics_tablet,electronics,3,314.81,2025-11-17,Mexico,pending
+ORD-00733,Mia Anderson,mia.anderson733@example.com,mechanical_keyboard,accessories,5,146.16,2025-02-07,Canada,failed
+ORD-00734,Priya Sharma,priya.sharma734@example.com,keyboard,accessories,5,88.44,2025-09-16,India,paid
+ORD-00735,Marko Jovanović,marko.jovanovic735@example.com,tablet,electronics,5,777.79,2025-06-28,Serbia,paid
+ORD-00736,Oleksandr Bondarenko,oleksandr.bondarenko736@example.com,external_ssd,storage,3,160.54,2025-05-31,Ukraine,paid
+ORD-00737,Amelia Wilson,amelia.wilson737@example.com,tablet,electronics,1,741.30,2025-06-27,Australia,cancelled
+ORD-00738,Mei Lin,mei.lin738@example.com,graphics_tablet,electronics,5,330.76,2025-05-05,China,paid
+ORD-00739,Chinedu Okafor,chinedu.okafor739@example.com,webcam,electronics,1,127.63,2025-10-04,Nigeria,pending
+ORD-00740,Luca Bianchi,luca.bianchi740@example.com,graphics_tablet,electronics,5,325.98,2025-07-11,Italy,cancelled
+ORD-00741,Mia Anderson,mia.anderson741@example.com,laptop,electronics,3,1595.59,2025-04-09,Canada,failed
+ORD-00742,Noam Levi,noam.levi742@example.com,monitor,electronics,1,397.65,2025-10-03,Israel,paid
+ORD-00743,Anna Müller,anna.muller743@example.com,mouse,accessories,2,37.04,2025-08-06,Germany,paid
+ORD-00744,Iryna Kovalenko,iryna.kovalenko744@example.com,tablet,electronics,4,808.53,2025-02-06,Ukraine,paid
+ORD-00745,Luca Bianchi,luca.bianchi745@example.com,headphones,electronics,3,194.47,2025-02-07,Italy,paid
+ORD-00746,Katarzyna Kowalska,katarzyna.kowalska746@example.com,mechanical_keyboard,accessories,3,146.35,2025-10-22,Poland,paid
+ORD-00747,Seo-yeon Park,seo.yeon.park747@example.com,webcam,electronics,4,128.98,2025-07-27,South Korea,refunded
+ORD-00748,Amina Yusuf,amina.yusuf748@example.com,laptop,electronics,4,1541.59,2025-10-01,Nigeria,paid
+ORD-00749,Anna Müller,anna.muller749@example.com,mechanical_keyboard,accessories,5,134.46,2025-02-07,Germany,failed
+ORD-00750,Maya Cohen,maya.cohen750@example.com,monitor,electronics,3,439.28,2025-06-04,Israel,paid
+ORD-00751,Nur Aisyah,nur.aisyah751@example.com,mechanical_keyboard,accessories,4,142.25,2025-12-05,Malaysia,paid
+ORD-00752,Amelia Wilson,amelia.wilson752@example.com,keyboard,accessories,5,90.74,2025-07-20,Australia,pending
+ORD-00753,Lucía Herrera,lucia.herrera753@example.com,desk_chair,furniture,3,729.76,2025-01-06,Mexico,paid
+ORD-00754,Rafael Oliveira,rafael.oliveira754@example.com,laptop,electronics,1,1517.45,2025-07-21,Brazil,paid
+ORD-00755,Youssef El Amrani,youssef.el.amrani755@example.com,mouse,accessories,3,33.39,2025-11-27,Morocco,paid
+ORD-00756,Merve Yılmaz,merve.ylmaz756@example.com,keyboard,accessories,2,96.78,2025-05-10,Türkiye,paid
+ORD-00757,Camila Silva,camila.silva757@example.com,keyboard,accessories,5,100.35,2025-10-09,Brazil,cancelled
+ORD-00758,Lukas Schneider,lukas.schneider758@example.com,desk_chair,furniture,1,652.87,2025-04-12,Germany,cancelled
+ORD-00759,Thandiwe Ndlovu,thandiwe.ndlovu759@example.com,usb_hub,accessories,2,46.23,2025-05-01,South Africa,paid
+ORD-00760,Nur Aisyah,nur.aisyah760@example.com,smartphone,electronics,1,1042.74,2025-06-12,Malaysia,cancelled
+ORD-00761,Nikos Georgiou,nikos.georgiou761@example.com,usb_hub,accessories,5,46.15,2025-12-22,Greece,paid
+ORD-00762,Ingrid Hansen,ingrid.hansen762@example.com,mechanical_keyboard,accessories,3,155.64,2025-03-28,Norway,paid
+ORD-00763,Amina Yusuf,amina.yusuf763@example.com,mouse,accessories,2,36.19,2025-11-25,Nigeria,refunded
+ORD-00764,Trần Quốc Bảo,tran.quoc.bao764@example.com,office_desk,furniture,3,508.40,2025-06-19,Vietnam,cancelled
+ORD-00765,Miguel Reyes,miguel.reyes765@example.com,headphones,electronics,3,219.23,2025-09-07,Philippines,paid
+ORD-00766,Katarzyna Kowalska,katarzyna.kowalska766@example.com,external_ssd,storage,5,153.96,2025-05-24,Poland,paid
+ORD-00767,Andrei Ionescu,andrei.ionescu767@example.com,desk_chair,furniture,1,704.74,2025-01-10,Romania,paid
+ORD-00768,Matti Korhonen,matti.korhonen768@example.com,mechanical_keyboard,accessories,5,138.34,2025-01-19,Finland,pending
+ORD-00769,Amelia Wilson,amelia.wilson769@example.com,external_ssd,storage,2,161.46,2025-04-25,Australia,pending
+ORD-00770,Matías Fernández,matias.fernandez770@example.com,headphones,electronics,5,210.35,2025-07-23,Chile,failed
+ORD-00771,Maya Cohen,maya.cohen771@example.com,laptop,electronics,2,1583.52,2025-11-11,Israel,paid
+ORD-00772,Noam Levi,noam.levi772@example.com,keyboard,accessories,4,89.82,2025-10-17,Israel,paid
+ORD-00773,Jack Thompson,jack.thompson773@example.com,usb_hub,accessories,1,42.98,2025-09-07,Australia,paid
+ORD-00774,Anna Müller,anna.muller774@example.com,desk_chair,furniture,3,651.06,2025-12-09,Germany,paid
+ORD-00775,Ingrid Hansen,ingrid.hansen775@example.com,webcam,electronics,4,138.69,2025-01-24,Norway,paid
+ORD-00776,Chinedu Okafor,chinedu.okafor776@example.com,monitor,electronics,5,428.98,2025-05-21,Nigeria,pending
+ORD-00777,Katarzyna Kowalska,katarzyna.kowalska777@example.com,webcam,electronics,4,127.20,2025-12-01,Poland,paid
+ORD-00778,Min-jun Kim,min.jun.kim778@example.com,webcam,electronics,2,130.34,2025-06-30,South Korea,failed
+ORD-00779,Mia Anderson,mia.anderson779@example.com,mechanical_keyboard,accessories,4,153.98,2025-01-04,Canada,paid
+ORD-00780,Eleni Papadopoulos,eleni.papadopoulos780@example.com,keyboard,accessories,2,88.57,2025-11-26,Greece,pending
+ORD-00781,Oleksandr Bondarenko,oleksandr.bondarenko781@example.com,keyboard,accessories,2,89.79,2025-11-05,Ukraine,paid
+ORD-00782,Arjun Mehta,arjun.mehta782@example.com,webcam,electronics,3,134.58,2025-09-04,India,cancelled
+ORD-00783,Jack Thompson,jack.thompson783@example.com,mouse,accessories,5,33.10,2025-07-30,Australia,paid
+ORD-00784,Wei Zhang,wei.zhang784@example.com,laptop,electronics,2,1517.64,2025-03-24,China,paid
+ORD-00785,Noam Levi,noam.levi785@example.com,laptop,electronics,5,1415.25,2025-03-27,Israel,pending
+ORD-00786,Piotr Nowak,piotr.nowak786@example.com,tablet,electronics,4,802.56,2025-10-16,Poland,paid
+ORD-00787,Nur Aisyah,nur.aisyah787@example.com,monitor,electronics,2,416.59,2025-08-30,Malaysia,cancelled
+ORD-00788,Emre Kaya,emre.kaya788@example.com,mouse,accessories,4,35.56,2025-10-26,Türkiye,paid
+ORD-00789,Noam Levi,noam.levi789@example.com,desk_chair,furniture,2,704.39,2025-06-25,Israel,cancelled
+ORD-00790,Anna Müller,anna.muller790@example.com,mouse,accessories,4,34.36,2025-02-25,Germany,paid
+ORD-00791,Andrei Ionescu,andrei.ionescu791@example.com,tablet,electronics,5,813.30,2025-03-18,Romania,paid
+ORD-00792,Katarzyna Kowalska,katarzyna.kowalska792@example.com,headphones,electronics,5,213.35,2025-09-30,Poland,paid
+ORD-00793,Ethan Brown,ethan.brown793@example.com,headphones,electronics,2,223.51,2025-10-04,United Kingdom,paid
+ORD-00794,Jakub Horváth,jakub.horvath794@example.com,tablet,electronics,4,773.62,2025-01-23,Slovakia,refunded
+ORD-00795,Arjun Mehta,arjun.mehta795@example.com,mechanical_keyboard,accessories,4,151.72,2025-07-15,India,failed
+ORD-00796,Emma Johnson,emma.johnson796@example.com,webcam,electronics,2,124.89,2025-04-30,United States,paid
+ORD-00797,Nur Aisyah,nur.aisyah797@example.com,smartphone,electronics,5,965.68,2025-04-07,Malaysia,paid
+ORD-00798,Aiko Tanaka,aiko.tanaka798@example.com,smartphone,electronics,5,920.08,2025-01-04,Japan,refunded
+ORD-00799,Iryna Kovalenko,iryna.kovalenko799@example.com,docking_station,accessories,3,236.50,2025-02-24,Ukraine,paid
+ORD-00800,Zuzana Nováková,zuzana.novakova800@example.com,external_ssd,storage,5,158.50,2025-10-02,Slovakia,refunded
+ORD-00801,Ingrid Hansen,ingrid.hansen801@example.com,smartphone,electronics,3,1057.11,2025-07-23,Norway,paid
+ORD-00802,Ana Petrović,ana.petrovic802@example.com,tablet,electronics,5,787.78,2025-07-09,Serbia,cancelled
+ORD-00803,Min-jun Kim,min.jun.kim803@example.com,desk_chair,furniture,5,663.07,2025-12-28,South Korea,refunded
+ORD-00804,Matías Fernández,matias.fernandez804@example.com,office_desk,furniture,1,561.41,2025-08-17,Chile,paid
+ORD-00805,Emma Johnson,emma.johnson805@example.com,mouse,accessories,5,34.44,2025-06-23,United States,paid
+ORD-00806,Merve Yılmaz,merve.ylmaz806@example.com,webcam,electronics,1,136.33,2025-03-16,Türkiye,cancelled
+ORD-00807,Jakub Horváth,jakub.horvath807@example.com,monitor,electronics,1,404.08,2025-07-09,Slovakia,paid
+ORD-00808,María García,maria.garcia808@example.com,docking_station,accessories,4,256.54,2025-07-25,Spain,pending
+ORD-00809,Étienne Moreau,etienne.moreau809@example.com,mechanical_keyboard,accessories,2,148.25,2025-08-13,France,paid
+ORD-00810,Andrei Ionescu,andrei.ionescu810@example.com,office_desk,furniture,5,521.51,2025-01-18,Romania,paid
+ORD-00811,Emre Kaya,emre.kaya811@example.com,external_ssd,storage,1,161.30,2025-12-02,Türkiye,paid
+ORD-00812,Merve Yılmaz,merve.ylmaz812@example.com,monitor,electronics,3,438.79,2025-06-30,Türkiye,refunded
+ORD-00813,Matti Korhonen,matti.korhonen813@example.com,smartphone,electronics,2,982.78,2025-12-27,Finland,paid
+ORD-00814,Ethan Brown,ethan.brown814@example.com,tablet,electronics,3,818.58,2025-10-14,United Kingdom,failed
+ORD-00815,Sigríður Jónsdóttir,sigriur.jonsdottir815@example.com,office_desk,furniture,3,516.35,2025-04-10,Iceland,cancelled
+ORD-00816,Matti Korhonen,matti.korhonen816@example.com,smartphone,electronics,1,942.54,2025-07-28,Finland,paid
+ORD-00817,Lukas Schneider,lukas.schneider817@example.com,tablet,electronics,3,769.77,2025-03-01,Germany,pending
+ORD-00818,Min-jun Kim,min.jun.kim818@example.com,docking_station,accessories,4,257.90,2025-10-16,South Korea,cancelled
+ORD-00819,Wei Zhang,wei.zhang819@example.com,mechanical_keyboard,accessories,3,155.70,2025-08-23,China,cancelled
+ORD-00820,Luca Bianchi,luca.bianchi820@example.com,headphones,electronics,1,201.86,2025-07-15,Italy,paid
+ORD-00821,Arjun Mehta,arjun.mehta821@example.com,mechanical_keyboard,accessories,3,142.97,2025-06-30,India,paid
+ORD-00822,Seo-yeon Park,seo.yeon.park822@example.com,mouse,accessories,3,32.72,2025-12-11,South Korea,failed
+ORD-00823,Lukas Schneider,lukas.schneider823@example.com,tablet,electronics,2,787.04,2025-07-01,Germany,paid
+ORD-00824,Nguyễn Minh Anh,nguyen.minh.anh824@example.com,keyboard,accessories,2,94.98,2025-04-13,Vietnam,paid
+ORD-00825,Mei Lin,mei.lin825@example.com,office_desk,furniture,3,514.67,2025-04-14,China,paid
+ORD-00826,Jón Einarsson,jon.einarsson826@example.com,keyboard,accessories,1,89.22,2025-02-10,Iceland,cancelled
+ORD-00827,Aiko Tanaka,aiko.tanaka827@example.com,mechanical_keyboard,accessories,5,155.63,2025-09-04,Japan,failed
+ORD-00828,Amina Yusuf,amina.yusuf828@example.com,headphones,electronics,5,222.39,2025-09-09,Nigeria,paid
+ORD-00829,Noam Levi,noam.levi829@example.com,desk_chair,furniture,4,649.76,2025-10-23,Israel,paid
+ORD-00830,Claire Dubois,claire.dubois830@example.com,tablet,electronics,4,787.26,2025-10-04,France,paid
+ORD-00831,Maya Cohen,maya.cohen831@example.com,usb_hub,accessories,4,47.59,2025-03-31,Israel,cancelled
+ORD-00832,Rafael Oliveira,rafael.oliveira832@example.com,docking_station,accessories,5,238.47,2025-12-19,Brazil,paid
+ORD-00833,Kenji Sato,kenji.sato833@example.com,external_ssd,storage,2,161.82,2025-02-21,Japan,failed
+ORD-00834,Ingrid Hansen,ingrid.hansen834@example.com,smartphone,electronics,3,930.95,2025-05-15,Norway,paid
+ORD-00835,Nguyễn Minh Anh,nguyen.minh.anh835@example.com,headphones,electronics,5,204.73,2025-04-05,Vietnam,cancelled
+ORD-00836,Zuzana Nováková,zuzana.novakova836@example.com,mouse,accessories,4,36.12,2025-07-10,Slovakia,failed
+ORD-00837,Matti Korhonen,matti.korhonen837@example.com,desk_chair,furniture,4,645.17,2025-03-09,Finland,paid
+ORD-00838,Emma Johnson,emma.johnson838@example.com,docking_station,accessories,3,251.68,2025-10-12,United States,refunded
+ORD-00839,Freja Nielsen,freja.nielsen839@example.com,mouse,accessories,2,36.68,2025-03-18,Denmark,cancelled
+ORD-00840,Kenji Sato,kenji.sato840@example.com,keyboard,accessories,4,94.99,2025-11-19,Japan,failed
+ORD-00841,Mia Anderson,mia.anderson841@example.com,desk_chair,furniture,3,686.76,2025-10-18,Canada,paid
+ORD-00842,Helena Virtanen,helena.virtanen842@example.com,monitor,electronics,2,390.43,2025-05-11,Finland,cancelled
+ORD-00843,Emma Johnson,emma.johnson843@example.com,headphones,electronics,3,201.93,2025-07-04,United States,pending
+ORD-00844,Sigríður Jónsdóttir,sigriur.jonsdottir844@example.com,laptop,electronics,4,1409.10,2025-12-14,Iceland,paid
+ORD-00845,Katarzyna Kowalska,katarzyna.kowalska845@example.com,mechanical_keyboard,accessories,3,141.64,2025-12-11,Poland,cancelled
+ORD-00846,Nikos Georgiou,nikos.georgiou846@example.com,graphics_tablet,electronics,1,304.10,2025-05-27,Greece,cancelled
+ORD-00847,Lucía Herrera,lucia.herrera847@example.com,office_desk,furniture,2,552.15,2025-06-22,Mexico,refunded
+ORD-00848,Matti Korhonen,matti.korhonen848@example.com,office_desk,furniture,1,503.64,2025-06-25,Finland,paid
+ORD-00849,Amina Yusuf,amina.yusuf849@example.com,usb_hub,accessories,3,46.52,2025-11-06,Nigeria,refunded
+ORD-00850,Nguyễn Minh Anh,nguyen.minh.anh850@example.com,graphics_tablet,electronics,4,323.94,2025-07-05,Vietnam,cancelled
+ORD-00851,Ana Petrović,ana.petrovic851@example.com,keyboard,accessories,2,100.38,2025-03-06,Serbia,paid
+ORD-00852,Min-jun Kim,min.jun.kim852@example.com,docking_station,accessories,1,228.89,2025-07-23,South Korea,paid
+ORD-00853,Emma Johnson,emma.johnson853@example.com,monitor,electronics,4,423.25,2025-01-14,United States,refunded
+ORD-00854,Olivia Smith,olivia.smith854@example.com,monitor,electronics,3,427.94,2025-02-13,United Kingdom,refunded
+ORD-00855,Youssef El Amrani,youssef.el.amrani855@example.com,mouse,accessories,2,36.33,2025-08-15,Morocco,paid
+ORD-00856,Valentina Rojas,valentina.rojas856@example.com,tablet,electronics,2,730.41,2025-12-06,Chile,failed
+ORD-00857,Chinedu Okafor,chinedu.okafor857@example.com,office_desk,furniture,4,537.17,2025-10-04,Nigeria,pending
+ORD-00858,Eleni Papadopoulos,eleni.papadopoulos858@example.com,keyboard,accessories,5,90.09,2025-11-02,Greece,cancelled
+ORD-00859,Jakub Horváth,jakub.horvath859@example.com,tablet,electronics,5,765.94,2025-06-27,Slovakia,cancelled
+ORD-00860,Arjun Mehta,arjun.mehta860@example.com,mechanical_keyboard,accessories,1,143.65,2025-07-07,India,refunded
+ORD-00861,Seo-yeon Park,seo.yeon.park861@example.com,keyboard,accessories,3,87.56,2025-09-25,South Korea,paid
+ORD-00862,Sigríður Jónsdóttir,sigriur.jonsdottir862@example.com,desk_chair,furniture,4,683.82,2025-12-19,Iceland,cancelled
+ORD-00863,Jack Thompson,jack.thompson863@example.com,desk_chair,furniture,1,708.93,2025-05-30,Australia,paid
+ORD-00864,Aiko Tanaka,aiko.tanaka864@example.com,tablet,electronics,3,750.64,2025-10-15,Japan,refunded
+ORD-00865,Helena Virtanen,helena.virtanen865@example.com,mouse,accessories,2,36.20,2025-11-27,Finland,refunded
+ORD-00866,Freja Nielsen,freja.nielsen866@example.com,mouse,accessories,3,32.64,2025-11-17,Denmark,paid
+ORD-00867,Nguyễn Minh Anh,nguyen.minh.anh867@example.com,desk_chair,furniture,5,713.60,2025-07-31,Vietnam,paid
+ORD-00868,Anna Müller,anna.muller868@example.com,keyboard,accessories,2,91.80,2025-11-23,Germany,cancelled
+ORD-00869,Nikos Georgiou,nikos.georgiou869@example.com,desk_chair,furniture,5,679.13,2025-06-14,Greece,paid
+ORD-00870,Diego Ramírez,diego.ramirez870@example.com,laptop,electronics,5,1385.31,2025-02-22,Mexico,pending
+ORD-00871,Nguyễn Minh Anh,nguyen.minh.anh871@example.com,keyboard,accessories,4,98.45,2025-04-30,Vietnam,paid
+ORD-00872,Diego Ramírez,diego.ramirez872@example.com,laptop,electronics,4,1432.13,2025-08-04,Mexico,pending
+ORD-00873,Liam Tremblay,liam.tremblay873@example.com,usb_hub,accessories,4,46.42,2025-01-17,Canada,failed
+ORD-00874,Olivia Smith,olivia.smith874@example.com,office_desk,furniture,2,501.64,2025-07-20,United Kingdom,paid
+ORD-00875,Amelia Wilson,amelia.wilson875@example.com,keyboard,accessories,2,101.01,2025-05-09,Australia,refunded
+ORD-00876,Kenji Sato,kenji.sato876@example.com,monitor,electronics,2,412.26,2025-08-15,Japan,paid
+ORD-00877,María García,maria.garcia877@example.com,mouse,accessories,4,36.32,2025-02-18,Spain,paid
+ORD-00878,Amelia Wilson,amelia.wilson878@example.com,webcam,electronics,3,139.07,2025-03-23,Australia,paid
+ORD-00879,Rafael Oliveira,rafael.oliveira879@example.com,desk_chair,furniture,4,695.07,2025-04-12,Brazil,failed
+ORD-00880,Claire Dubois,claire.dubois880@example.com,office_desk,furniture,2,580.89,2025-05-01,France,refunded
+ORD-00881,Chinedu Okafor,chinedu.okafor881@example.com,laptop,electronics,2,1570.65,2025-10-27,Nigeria,paid
+ORD-00882,Helena Virtanen,helena.virtanen882@example.com,mechanical_keyboard,accessories,2,133.61,2025-01-22,Finland,cancelled
+ORD-00883,Diego Ramírez,diego.ramirez883@example.com,usb_hub,accessories,1,43.19,2025-09-13,Mexico,paid
+ORD-00884,Sipho Dlamini,sipho.dlamini884@example.com,graphics_tablet,electronics,1,288.16,2025-11-27,South Africa,paid
+ORD-00885,Noah Williams,noah.williams885@example.com,keyboard,accessories,4,90.94,2025-10-13,United States,failed
+ORD-00886,Eleni Papadopoulos,eleni.papadopoulos886@example.com,docking_station,accessories,2,221.62,2025-07-13,Greece,failed
+ORD-00887,Matías Fernández,matias.fernandez887@example.com,desk_chair,furniture,1,678.40,2025-08-13,Chile,pending
+ORD-00888,Mia Anderson,mia.anderson888@example.com,mouse,accessories,5,33.25,2025-06-28,Canada,failed
+ORD-00889,Miguel Reyes,miguel.reyes889@example.com,desk_chair,furniture,5,725.09,2025-10-11,Philippines,paid
+ORD-00890,Anna Müller,anna.muller890@example.com,tablet,electronics,2,783.60,2025-05-15,Germany,failed
+ORD-00891,Isabella Santos,isabella.santos891@example.com,laptop,electronics,5,1470.97,2025-04-05,Philippines,paid
+ORD-00892,Ingrid Hansen,ingrid.hansen892@example.com,mechanical_keyboard,accessories,5,138.94,2025-02-02,Norway,refunded
+ORD-00893,Elena Popescu,elena.popescu893@example.com,tablet,electronics,4,823.59,2025-03-20,Romania,pending
+ORD-00894,Chinedu Okafor,chinedu.okafor894@example.com,webcam,electronics,3,121.90,2025-09-25,Nigeria,paid
+ORD-00895,Javier Martínez,javier.martinez895@example.com,office_desk,furniture,2,512.23,2025-01-17,Spain,paid
+ORD-00896,Noah Williams,noah.williams896@example.com,headphones,electronics,2,196.52,2025-10-20,United States,refunded
+ORD-00897,Mia Anderson,mia.anderson897@example.com,tablet,electronics,5,815.45,2025-05-12,Canada,paid
+ORD-00898,Ingrid Hansen,ingrid.hansen898@example.com,mouse,accessories,5,36.22,2025-01-07,Norway,paid
+ORD-00899,Mia Anderson,mia.anderson899@example.com,graphics_tablet,electronics,1,308.42,2025-11-24,Canada,paid
+ORD-00900,Ingrid Hansen,ingrid.hansen900@example.com,tablet,electronics,4,830.70,2025-12-29,Norway,paid
+ORD-00901,Nguyễn Minh Anh,nguyen.minh.anh901@example.com,tablet,electronics,1,819.62,2025-06-05,Vietnam,paid
+ORD-00902,Oleksandr Bondarenko,oleksandr.bondarenko902@example.com,tablet,electronics,1,739.59,2025-04-29,Ukraine,refunded
+ORD-00903,Elena Popescu,elena.popescu903@example.com,mouse,accessories,5,35.88,2025-10-19,Romania,paid
+ORD-00904,Marko Jovanović,marko.jovanovic904@example.com,docking_station,accessories,1,250.23,2025-10-23,Serbia,failed
+ORD-00905,Isabella Santos,isabella.santos905@example.com,docking_station,accessories,4,254.70,2025-03-27,Philippines,paid
+ORD-00906,Matti Korhonen,matti.korhonen906@example.com,tablet,electronics,3,809.91,2025-10-01,Finland,cancelled
+ORD-00907,Jón Einarsson,jon.einarsson907@example.com,graphics_tablet,electronics,3,312.48,2025-06-16,Iceland,failed
+ORD-00908,Ana Petrović,ana.petrovic908@example.com,mechanical_keyboard,accessories,4,152.57,2025-06-15,Serbia,paid
+ORD-00909,Oleksandr Bondarenko,oleksandr.bondarenko909@example.com,webcam,electronics,5,138.86,2025-05-11,Ukraine,failed
+ORD-00910,Nikos Georgiou,nikos.georgiou910@example.com,headphones,electronics,4,193.21,2025-01-18,Greece,pending
+ORD-00911,Sofia Rossi,sofia.rossi911@example.com,tablet,electronics,2,852.37,2025-06-04,Italy,paid
+ORD-00912,Fatima Zahra,fatima.zahra912@example.com,mouse,accessories,2,36.99,2025-01-12,Morocco,pending
+ORD-00913,Noam Levi,noam.levi913@example.com,tablet,electronics,5,843.84,2025-03-21,Israel,paid
+ORD-00914,María García,maria.garcia914@example.com,headphones,electronics,3,198.45,2025-05-16,Spain,failed
+ORD-00915,Wei Zhang,wei.zhang915@example.com,mouse,accessories,3,36.74,2025-02-17,China,refunded
+ORD-00916,Oleksandr Bondarenko,oleksandr.bondarenko916@example.com,docking_station,accessories,1,248.59,2025-09-05,Ukraine,paid
+ORD-00917,Mia Anderson,mia.anderson917@example.com,office_desk,furniture,5,567.61,2025-02-18,Canada,pending
+ORD-00918,María García,maria.garcia918@example.com,docking_station,accessories,5,235.45,2025-01-29,Spain,failed
+ORD-00919,Sigríður Jónsdóttir,sigriur.jonsdottir919@example.com,graphics_tablet,electronics,4,305.86,2025-03-03,Iceland,paid
+ORD-00920,Kenji Sato,kenji.sato920@example.com,external_ssd,storage,4,153.23,2025-09-26,Japan,paid
+ORD-00921,Amina Yusuf,amina.yusuf921@example.com,tablet,electronics,5,745.71,2025-09-15,Nigeria,paid
+ORD-00922,Diego Ramírez,diego.ramirez922@example.com,laptop,electronics,4,1613.05,2025-11-01,Mexico,paid
+ORD-00923,Priya Sharma,priya.sharma923@example.com,webcam,electronics,3,135.96,2025-03-17,India,paid
+ORD-00924,Sipho Dlamini,sipho.dlamini924@example.com,monitor,electronics,4,424.80,2025-01-26,South Africa,refunded
+ORD-00925,Seo-yeon Park,seo.yeon.park925@example.com,monitor,electronics,4,420.12,2025-12-24,South Korea,paid
+ORD-00926,Matías Fernández,matias.fernandez926@example.com,headphones,electronics,5,199.86,2025-07-22,Chile,paid
+ORD-00927,Wei Zhang,wei.zhang927@example.com,mouse,accessories,1,33.69,2025-08-09,China,failed
+ORD-00928,Ethan Brown,ethan.brown928@example.com,monitor,electronics,4,414.86,2025-06-28,United Kingdom,paid
+ORD-00929,Chinedu Okafor,chinedu.okafor929@example.com,usb_hub,accessories,5,46.12,2025-06-06,Nigeria,paid
+ORD-00930,Sigríður Jónsdóttir,sigriur.jonsdottir930@example.com,smartphone,electronics,4,999.31,2025-08-14,Iceland,paid
+ORD-00931,Arjun Mehta,arjun.mehta931@example.com,mouse,accessories,3,33.07,2025-02-13,India,paid
+ORD-00932,Claire Dubois,claire.dubois932@example.com,mouse,accessories,5,37.39,2025-05-28,France,paid
+ORD-00933,Sipho Dlamini,sipho.dlamini933@example.com,docking_station,accessories,1,232.52,2025-08-30,South Africa,paid
+ORD-00934,Thandiwe Ndlovu,thandiwe.ndlovu934@example.com,mouse,accessories,5,33.39,2025-10-07,South Africa,pending
+ORD-00935,Jack Thompson,jack.thompson935@example.com,smartphone,electronics,2,1010.59,2025-12-09,Australia,paid
+ORD-00936,Freja Nielsen,freja.nielsen936@example.com,smartphone,electronics,5,908.42,2025-03-29,Denmark,paid
+ORD-00937,Nur Aisyah,nur.aisyah937@example.com,mouse,accessories,5,33.72,2025-08-27,Malaysia,paid
+ORD-00938,Anna Müller,anna.muller938@example.com,webcam,electronics,3,133.39,2025-12-04,Germany,failed
+ORD-00939,Noah Williams,noah.williams939@example.com,laptop,electronics,3,1588.18,2025-11-29,United States,refunded
+ORD-00940,Arjun Mehta,arjun.mehta940@example.com,webcam,electronics,5,139.91,2025-02-20,India,failed
+ORD-00941,Mia Anderson,mia.anderson941@example.com,office_desk,furniture,5,542.73,2025-04-06,Canada,paid
+ORD-00942,Maya Cohen,maya.cohen942@example.com,headphones,electronics,5,224.33,2025-01-12,Israel,paid
+ORD-00943,Wei Zhang,wei.zhang943@example.com,graphics_tablet,electronics,5,300.32,2025-09-08,China,refunded
+ORD-00944,Merve Yılmaz,merve.ylmaz944@example.com,laptop,electronics,3,1544.23,2025-07-01,Türkiye,pending
+ORD-00945,Mei Lin,mei.lin945@example.com,tablet,electronics,3,829.42,2025-11-17,China,pending
+ORD-00946,Mikkel Sørensen,mikkel.srensen946@example.com,graphics_tablet,electronics,1,332.03,2025-05-24,Denmark,paid
+ORD-00947,Diego Ramírez,diego.ramirez947@example.com,usb_hub,accessories,4,46.13,2025-02-14,Mexico,refunded
+ORD-00948,Arjun Mehta,arjun.mehta948@example.com,webcam,electronics,2,131.52,2025-08-07,India,pending
+ORD-00949,Thandiwe Ndlovu,thandiwe.ndlovu949@example.com,headphones,electronics,5,197.63,2025-12-01,South Africa,paid
+ORD-00950,Andrei Ionescu,andrei.ionescu950@example.com,office_desk,furniture,2,523.50,2025-12-28,Romania,paid
+ORD-00951,Jakub Horváth,jakub.horvath951@example.com,graphics_tablet,electronics,2,317.75,2025-10-17,Slovakia,paid
+ORD-00952,Amina Yusuf,amina.yusuf952@example.com,monitor,electronics,5,422.22,2025-03-02,Nigeria,paid
+ORD-00953,Amina Yusuf,amina.yusuf953@example.com,office_desk,furniture,2,559.62,2025-06-13,Nigeria,refunded
+ORD-00954,Ana Petrović,ana.petrovic954@example.com,desk_chair,furniture,4,706.72,2025-11-23,Serbia,pending
+ORD-00955,Diego Ramírez,diego.ramirez955@example.com,mechanical_keyboard,accessories,2,135.88,2025-04-05,Mexico,paid
+ORD-00956,Nguyễn Minh Anh,nguyen.minh.anh956@example.com,smartphone,electronics,5,997.62,2025-11-02,Vietnam,paid
+ORD-00957,Arjun Mehta,arjun.mehta957@example.com,external_ssd,storage,1,161.28,2025-12-19,India,cancelled
+ORD-00958,Matías Fernández,matias.fernandez958@example.com,tablet,electronics,5,786.05,2025-11-29,Chile,failed
+ORD-00959,Piotr Nowak,piotr.nowak959@example.com,office_desk,furniture,4,539.26,2025-03-12,Poland,paid
+ORD-00960,Elena Popescu,elena.popescu960@example.com,mouse,accessories,1,34.49,2025-01-08,Romania,pending
+ORD-00961,Ana Petrović,ana.petrovic961@example.com,mouse,accessories,2,36.44,2025-02-03,Serbia,paid
+ORD-00962,Eleni Papadopoulos,eleni.papadopoulos962@example.com,office_desk,furniture,5,539.13,2025-06-16,Greece,cancelled
+ORD-00963,Wei Zhang,wei.zhang963@example.com,webcam,electronics,4,135.75,2025-11-08,China,refunded
+ORD-00964,Amina Yusuf,amina.yusuf964@example.com,webcam,electronics,5,139.13,2025-10-20,Nigeria,paid
+ORD-00965,Noah Williams,noah.williams965@example.com,headphones,electronics,4,220.99,2025-01-22,United States,paid
+ORD-00966,Helena Virtanen,helena.virtanen966@example.com,docking_station,accessories,1,242.22,2025-09-22,Finland,paid
+ORD-00967,Elena Popescu,elena.popescu967@example.com,desk_chair,furniture,4,668.91,2025-06-05,Romania,pending
+ORD-00968,Miguel Reyes,miguel.reyes968@example.com,keyboard,accessories,4,91.88,2025-01-28,Philippines,paid
+ORD-00969,Miguel Reyes,miguel.reyes969@example.com,office_desk,furniture,4,504.61,2025-09-14,Philippines,paid
+ORD-00970,Piotr Nowak,piotr.nowak970@example.com,mechanical_keyboard,accessories,5,155.16,2025-12-23,Poland,paid
+ORD-00971,Helena Virtanen,helena.virtanen971@example.com,webcam,electronics,3,128.98,2025-04-02,Finland,cancelled
+ORD-00972,Andrei Ionescu,andrei.ionescu972@example.com,graphics_tablet,electronics,4,289.67,2025-06-15,Romania,paid
+ORD-00973,Rafael Oliveira,rafael.oliveira973@example.com,monitor,electronics,1,433.86,2025-11-21,Brazil,failed
+ORD-00974,Olivia Smith,olivia.smith974@example.com,tablet,electronics,4,818.68,2025-09-19,United Kingdom,paid
+ORD-00975,Freja Nielsen,freja.nielsen975@example.com,tablet,electronics,4,732.35,2025-03-29,Denmark,failed
+ORD-00976,Diego Ramírez,diego.ramirez976@example.com,keyboard,accessories,2,90.12,2025-12-31,Mexico,paid
+ORD-00977,Marko Jovanović,marko.jovanovic977@example.com,desk_chair,furniture,3,705.04,2025-08-17,Serbia,pending
+ORD-00978,Piotr Nowak,piotr.nowak978@example.com,monitor,electronics,2,450.94,2025-01-02,Poland,pending
+ORD-00979,Kenji Sato,kenji.sato979@example.com,headphones,electronics,4,221.94,2025-10-06,Japan,paid
+ORD-00980,Liam Tremblay,liam.tremblay980@example.com,mouse,accessories,2,35.50,2025-09-01,Canada,cancelled
+ORD-00981,Ana Petrović,ana.petrovic981@example.com,headphones,electronics,1,213.40,2025-01-04,Serbia,paid
+ORD-00982,Trần Quốc Bảo,tran.quoc.bao982@example.com,smartphone,electronics,5,1030.20,2025-04-17,Vietnam,paid
+ORD-00983,Piotr Nowak,piotr.nowak983@example.com,keyboard,accessories,1,97.33,2025-01-19,Poland,paid
+ORD-00984,María García,maria.garcia984@example.com,external_ssd,storage,5,173.92,2025-06-02,Spain,failed
+ORD-00985,Ethan Brown,ethan.brown985@example.com,laptop,electronics,1,1480.07,2025-04-02,United Kingdom,paid
+ORD-00986,Nur Aisyah,nur.aisyah986@example.com,smartphone,electronics,5,991.33,2025-10-15,Malaysia,paid
+ORD-00987,Isabella Santos,isabella.santos987@example.com,docking_station,accessories,5,234.63,2025-01-19,Philippines,paid
+ORD-00988,Fatima Zahra,fatima.zahra988@example.com,usb_hub,accessories,3,47.86,2025-02-04,Morocco,refunded
+ORD-00989,Anna Müller,anna.muller989@example.com,desk_chair,furniture,4,640.24,2025-12-22,Germany,pending
+ORD-00990,Thandiwe Ndlovu,thandiwe.ndlovu990@example.com,tablet,electronics,4,793.12,2025-12-23,South Africa,paid
+ORD-00991,Étienne Moreau,etienne.moreau991@example.com,monitor,electronics,5,435.44,2025-11-19,France,paid
+ORD-00992,Jack Thompson,jack.thompson992@example.com,docking_station,accessories,5,256.66,2025-12-28,Australia,pending
+ORD-00993,Zuzana Nováková,zuzana.novakova993@example.com,smartphone,electronics,3,942.31,2025-10-22,Slovakia,failed
+ORD-00994,Valentina Rojas,valentina.rojas994@example.com,smartphone,electronics,5,979.44,2025-11-20,Chile,cancelled
+ORD-00995,Liam Tremblay,liam.tremblay995@example.com,mechanical_keyboard,accessories,2,153.90,2025-04-30,Canada,pending
+ORD-00996,Elena Popescu,elena.popescu996@example.com,laptop,electronics,1,1385.76,2025-11-17,Romania,paid
+ORD-00997,Iryna Kovalenko,iryna.kovalenko997@example.com,mechanical_keyboard,accessories,5,156.58,2025-07-31,Ukraine,paid
+ORD-00998,Thandiwe Ndlovu,thandiwe.ndlovu998@example.com,usb_hub,accessories,5,47.20,2025-04-19,South Africa,paid
+ORD-00999,Andrei Ionescu,andrei.ionescu999@example.com,docking_station,accessories,3,230.57,2025-02-04,Romania,pending
+ORD-01000,Fatima Zahra,fatima.zahra1000@example.com,tablet,electronics,5,767.74,2025-01-04,Morocco,paid
+ORD-01001,Thandiwe Ndlovu,thandiwe.ndlovu1001@example.com,usb_hub,accessories,4,46.62,2025-11-12,South Africa,paid
+ORD-01002,Katarzyna Kowalska,katarzyna.kowalska1002@example.com,mouse,accessories,3,36.87,2025-12-11,Poland,cancelled
+ORD-01003,Amelia Wilson,amelia.wilson1003@example.com,mechanical_keyboard,accessories,1,148.38,2025-09-04,Australia,paid
+ORD-01004,Isabella Santos,isabella.santos1004@example.com,graphics_tablet,electronics,5,329.64,2025-08-25,Philippines,refunded
+ORD-01005,Étienne Moreau,etienne.moreau1005@example.com,office_desk,furniture,5,522.66,2025-12-14,France,failed
+ORD-01006,Sofia Rossi,sofia.rossi1006@example.com,mouse,accessories,5,36.04,2025-07-01,Italy,paid
+ORD-01007,Diego Ramírez,diego.ramirez1007@example.com,desk_chair,furniture,1,662.50,2025-07-12,Mexico,paid
+ORD-01008,Mikkel Sørensen,mikkel.srensen1008@example.com,keyboard,accessories,5,89.18,2025-06-07,Denmark,failed
+ORD-01009,María García,maria.garcia1009@example.com,desk_chair,furniture,4,635.04,2025-05-02,Spain,failed
+ORD-01010,Nikos Georgiou,nikos.georgiou1010@example.com,office_desk,furniture,3,515.47,2025-06-04,Greece,paid
+ORD-01011,Camila Silva,camila.silva1011@example.com,usb_hub,accessories,1,47.00,2025-02-17,Brazil,cancelled
+ORD-01012,Maya Cohen,maya.cohen1012@example.com,laptop,electronics,4,1597.19,2025-03-20,Israel,paid
+ORD-01013,Sipho Dlamini,sipho.dlamini1013@example.com,graphics_tablet,electronics,4,321.53,2025-09-26,South Africa,pending
+ORD-01014,Chinedu Okafor,chinedu.okafor1014@example.com,keyboard,accessories,1,99.90,2025-09-22,Nigeria,paid
+ORD-01015,Iryna Kovalenko,iryna.kovalenko1015@example.com,docking_station,accessories,1,238.44,2025-09-25,Ukraine,paid
+ORD-01016,Aiko Tanaka,aiko.tanaka1016@example.com,desk_chair,furniture,1,700.35,2025-11-01,Japan,paid
+ORD-01017,Thandiwe Ndlovu,thandiwe.ndlovu1017@example.com,headphones,electronics,1,196.66,2025-12-04,South Africa,pending
+ORD-01018,Sofia Rossi,sofia.rossi1018@example.com,smartphone,electronics,3,1001.77,2025-04-18,Italy,failed
+ORD-01019,Andrei Ionescu,andrei.ionescu1019@example.com,mouse,accessories,3,33.75,2025-06-13,Romania,cancelled
+ORD-01020,Rafael Oliveira,rafael.oliveira1020@example.com,desk_chair,furniture,2,642.74,2025-02-28,Brazil,paid
+ORD-01021,Noam Levi,noam.levi1021@example.com,monitor,electronics,2,422.86,2025-10-09,Israel,failed
+ORD-01022,Nguyễn Minh Anh,nguyen.minh.anh1022@example.com,keyboard,accessories,3,96.13,2025-03-29,Vietnam,paid
+ORD-01023,Youssef El Amrani,youssef.el.amrani1023@example.com,smartphone,electronics,3,986.36,2025-01-26,Morocco,paid
+ORD-01024,Luca Bianchi,luca.bianchi1024@example.com,headphones,electronics,1,196.76,2025-01-28,Italy,paid
+ORD-01025,Zuzana Nováková,zuzana.novakova1025@example.com,webcam,electronics,2,134.26,2025-10-31,Slovakia,cancelled
+ORD-01026,Jón Einarsson,jon.einarsson1026@example.com,desk_chair,furniture,3,714.54,2025-12-10,Iceland,paid
+ORD-01027,Miguel Reyes,miguel.reyes1027@example.com,smartphone,electronics,2,916.17,2025-12-24,Philippines,cancelled
+ORD-01028,Emma Johnson,emma.johnson1028@example.com,headphones,electronics,3,216.20,2025-12-30,United States,cancelled
+ORD-01029,Amelia Wilson,amelia.wilson1029@example.com,mouse,accessories,2,33.00,2025-11-12,Australia,pending
+ORD-01030,Ingrid Hansen,ingrid.hansen1030@example.com,webcam,electronics,2,134.15,2025-12-07,Norway,failed
+ORD-01031,Chinedu Okafor,chinedu.okafor1031@example.com,headphones,electronics,4,194.22,2025-09-01,Nigeria,paid
+ORD-01032,Sigríður Jónsdóttir,sigriur.jonsdottir1032@example.com,headphones,electronics,4,221.62,2025-05-25,Iceland,failed
+ORD-01033,Valentina Rojas,valentina.rojas1033@example.com,tablet,electronics,1,778.08,2025-02-24,Chile,failed
+ORD-01034,Lukas Schneider,lukas.schneider1034@example.com,mechanical_keyboard,accessories,3,145.76,2025-07-25,Germany,refunded
+ORD-01035,Mei Lin,mei.lin1035@example.com,smartphone,electronics,2,987.52,2025-09-04,China,refunded
+ORD-01036,Anna Müller,anna.muller1036@example.com,usb_hub,accessories,2,47.26,2025-10-30,Germany,refunded
+ORD-01037,Jakub Horváth,jakub.horvath1037@example.com,smartphone,electronics,3,986.98,2025-05-01,Slovakia,paid
+ORD-01038,Lukas Schneider,lukas.schneider1038@example.com,docking_station,accessories,5,252.93,2025-02-28,Germany,cancelled
+ORD-01039,Chinedu Okafor,chinedu.okafor1039@example.com,tablet,electronics,1,830.70,2025-04-01,Nigeria,pending
+ORD-01040,Matti Korhonen,matti.korhonen1040@example.com,monitor,electronics,5,393.71,2025-11-02,Finland,refunded
+ORD-01041,Chinedu Okafor,chinedu.okafor1041@example.com,headphones,electronics,1,196.24,2025-03-13,Nigeria,paid
+ORD-01042,Lucía Herrera,lucia.herrera1042@example.com,external_ssd,storage,2,163.76,2025-05-30,Mexico,refunded
+ORD-01043,Nikos Georgiou,nikos.georgiou1043@example.com,mouse,accessories,2,36.02,2025-06-12,Greece,pending
+ORD-01044,Fatima Zahra,fatima.zahra1044@example.com,graphics_tablet,electronics,4,320.80,2025-06-26,Morocco,paid
+ORD-01045,Kenji Sato,kenji.sato1045@example.com,smartphone,electronics,5,964.98,2025-03-07,Japan,pending
+ORD-01046,Étienne Moreau,etienne.moreau1046@example.com,usb_hub,accessories,5,48.37,2025-01-01,France,failed
+ORD-01047,Camila Silva,camila.silva1047@example.com,office_desk,furniture,3,571.59,2025-05-01,Brazil,refunded
+ORD-01048,Helena Virtanen,helena.virtanen1048@example.com,external_ssd,storage,3,170.59,2025-07-27,Finland,refunded
+ORD-01049,Jakub Horváth,jakub.horvath1049@example.com,tablet,electronics,2,810.54,2025-09-01,Slovakia,paid
+ORD-01050,Elena Popescu,elena.popescu1050@example.com,tablet,electronics,4,833.40,2025-07-04,Romania,refunded
+ORD-01051,Diego Ramírez,diego.ramirez1051@example.com,desk_chair,furniture,2,640.21,2025-02-06,Mexico,paid
+ORD-01052,Lucía Herrera,lucia.herrera1052@example.com,docking_station,accessories,4,246.06,2025-03-11,Mexico,paid
+ORD-01053,Matías Fernández,matias.fernandez1053@example.com,external_ssd,storage,4,174.51,2025-12-23,Chile,refunded
+ORD-01054,Piotr Nowak,piotr.nowak1054@example.com,headphones,electronics,5,207.45,2025-08-19,Poland,refunded
+ORD-01055,Jón Einarsson,jon.einarsson1055@example.com,mouse,accessories,2,34.58,2025-01-04,Iceland,cancelled
+ORD-01056,Mei Lin,mei.lin1056@example.com,docking_station,accessories,5,231.14,2025-10-07,China,failed
+ORD-01057,María García,maria.garcia1057@example.com,laptop,electronics,5,1495.98,2025-07-08,Spain,paid
+ORD-01058,Jack Thompson,jack.thompson1058@example.com,docking_station,accessories,1,226.26,2025-09-27,Australia,pending
+ORD-01059,Miguel Reyes,miguel.reyes1059@example.com,tablet,electronics,1,792.95,2025-11-09,Philippines,paid
+ORD-01060,Wei Zhang,wei.zhang1060@example.com,headphones,electronics,1,216.18,2025-10-04,China,pending
+ORD-01061,Claire Dubois,claire.dubois1061@example.com,graphics_tablet,electronics,3,311.74,2025-01-06,France,cancelled
+ORD-01062,Isabella Santos,isabella.santos1062@example.com,tablet,electronics,4,799.35,2025-06-19,Philippines,refunded
+ORD-01063,Jón Einarsson,jon.einarsson1063@example.com,mechanical_keyboard,accessories,3,140.11,2025-01-19,Iceland,pending
+ORD-01064,Seo-yeon Park,seo.yeon.park1064@example.com,laptop,electronics,4,1518.75,2025-10-21,South Korea,paid
+ORD-01065,Amir Hakim,amir.hakim1065@example.com,mechanical_keyboard,accessories,5,134.03,2025-09-06,Malaysia,paid
+ORD-01066,Valentina Rojas,valentina.rojas1066@example.com,tablet,electronics,1,834.42,2025-05-23,Chile,pending
+ORD-01067,Valentina Rojas,valentina.rojas1067@example.com,smartphone,electronics,3,944.75,2025-05-12,Chile,paid
+ORD-01068,Camila Silva,camila.silva1068@example.com,smartphone,electronics,2,1044.31,2025-03-19,Brazil,cancelled
+ORD-01069,Erik Johansen,erik.johansen1069@example.com,mechanical_keyboard,accessories,2,139.46,2025-12-25,Norway,paid
+ORD-01070,Mia Anderson,mia.anderson1070@example.com,keyboard,accessories,5,100.50,2025-06-25,Canada,paid
+ORD-01071,Lucía Herrera,lucia.herrera1071@example.com,smartphone,electronics,2,1032.94,2025-07-31,Mexico,refunded
+ORD-01072,Mei Lin,mei.lin1072@example.com,external_ssd,storage,4,170.97,2025-03-27,China,paid
+ORD-01073,Sigríður Jónsdóttir,sigriur.jonsdottir1073@example.com,laptop,electronics,3,1561.32,2025-03-01,Iceland,paid
+ORD-01074,Emre Kaya,emre.kaya1074@example.com,headphones,electronics,4,209.20,2025-09-01,Türkiye,paid
+ORD-01075,Freja Nielsen,freja.nielsen1075@example.com,external_ssd,storage,4,164.33,2025-03-16,Denmark,refunded
+ORD-01076,Kenji Sato,kenji.sato1076@example.com,desk_chair,furniture,4,667.16,2025-06-11,Japan,paid
+ORD-01077,Emma Johnson,emma.johnson1077@example.com,graphics_tablet,electronics,5,316.82,2025-08-10,United States,pending
+ORD-01078,Thandiwe Ndlovu,thandiwe.ndlovu1078@example.com,desk_chair,furniture,3,712.89,2025-05-11,South Africa,refunded
+ORD-01079,Miguel Reyes,miguel.reyes1079@example.com,mechanical_keyboard,accessories,2,150.44,2025-10-29,Philippines,paid
+ORD-01080,Sipho Dlamini,sipho.dlamini1080@example.com,external_ssd,storage,2,160.07,2025-01-06,South Africa,paid
+ORD-01081,Anna Müller,anna.muller1081@example.com,laptop,electronics,4,1403.45,2025-02-23,Germany,cancelled
+ORD-01082,Sigríður Jónsdóttir,sigriur.jonsdottir1082@example.com,mouse,accessories,3,33.61,2025-01-18,Iceland,paid
+ORD-01083,Ethan Brown,ethan.brown1083@example.com,laptop,electronics,5,1537.59,2025-04-22,United Kingdom,paid
+ORD-01084,Rafael Oliveira,rafael.oliveira1084@example.com,monitor,electronics,5,395.13,2025-12-03,Brazil,paid
+ORD-01085,Camila Silva,camila.silva1085@example.com,docking_station,accessories,2,230.53,2025-08-28,Brazil,paid
+ORD-01086,Isabella Santos,isabella.santos1086@example.com,graphics_tablet,electronics,3,323.36,2025-12-21,Philippines,failed
+ORD-01087,Min-jun Kim,min.jun.kim1087@example.com,keyboard,accessories,1,91.61,2025-02-01,South Korea,refunded
+ORD-01088,Mikkel Sørensen,mikkel.srensen1088@example.com,usb_hub,accessories,1,43.26,2025-05-16,Denmark,paid
+ORD-01089,Eleni Papadopoulos,eleni.papadopoulos1089@example.com,monitor,electronics,4,452.22,2025-04-13,Greece,refunded
+ORD-01090,Katarzyna Kowalska,katarzyna.kowalska1090@example.com,external_ssd,storage,4,154.66,2025-10-04,Poland,refunded
+ORD-01091,Oleksandr Bondarenko,oleksandr.bondarenko1091@example.com,smartphone,electronics,1,1044.70,2025-05-13,Ukraine,paid
+ORD-01092,María García,maria.garcia1092@example.com,monitor,electronics,1,424.79,2025-05-09,Spain,cancelled
+ORD-01093,Sofia Rossi,sofia.rossi1093@example.com,graphics_tablet,electronics,4,292.58,2025-11-24,Italy,paid
+ORD-01094,María García,maria.garcia1094@example.com,external_ssd,storage,4,158.83,2025-12-25,Spain,failed
+ORD-01095,Helena Virtanen,helena.virtanen1095@example.com,smartphone,electronics,1,982.41,2025-09-09,Finland,cancelled
+ORD-01096,Jakub Horváth,jakub.horvath1096@example.com,webcam,electronics,1,130.83,2025-01-02,Slovakia,refunded
+ORD-01097,Jack Thompson,jack.thompson1097@example.com,monitor,electronics,5,422.37,2025-07-03,Australia,failed
+ORD-01098,Fatima Zahra,fatima.zahra1098@example.com,webcam,electronics,1,132.75,2025-11-28,Morocco,paid
+ORD-01099,Ingrid Hansen,ingrid.hansen1099@example.com,tablet,electronics,3,736.97,2025-08-24,Norway,pending
+ORD-01100,Andrei Ionescu,andrei.ionescu1100@example.com,keyboard,accessories,5,88.00,2025-07-16,Romania,paid
+ORD-01101,Fatima Zahra,fatima.zahra1101@example.com,docking_station,accessories,4,255.22,2025-11-19,Morocco,failed
+ORD-01102,Mia Anderson,mia.anderson1102@example.com,monitor,electronics,4,435.81,2025-03-13,Canada,paid
+ORD-01103,Elena Popescu,elena.popescu1103@example.com,laptop,electronics,5,1437.24,2025-07-19,Romania,paid
+ORD-01104,Youssef El Amrani,youssef.el.amrani1104@example.com,headphones,electronics,5,225.62,2025-08-19,Morocco,paid
+ORD-01105,María García,maria.garcia1105@example.com,usb_hub,accessories,1,43.83,2025-01-22,Spain,refunded
+ORD-01106,Rafael Oliveira,rafael.oliveira1106@example.com,mouse,accessories,5,34.77,2025-12-14,Brazil,paid
+ORD-01107,Arjun Mehta,arjun.mehta1107@example.com,graphics_tablet,electronics,1,287.03,2025-03-14,India,cancelled
+ORD-01108,Sofia Rossi,sofia.rossi1108@example.com,headphones,electronics,5,194.74,2025-12-26,Italy,paid
+ORD-01109,Kenji Sato,kenji.sato1109@example.com,keyboard,accessories,1,101.15,2025-02-19,Japan,cancelled
+ORD-01110,Emre Kaya,emre.kaya1110@example.com,office_desk,furniture,5,502.33,2025-02-24,Türkiye,paid
+ORD-01111,Liam Tremblay,liam.tremblay1111@example.com,smartphone,electronics,5,936.19,2025-04-14,Canada,refunded
+ORD-01112,Sipho Dlamini,sipho.dlamini1112@example.com,mechanical_keyboard,accessories,4,140.92,2025-12-17,South Africa,paid
+ORD-01113,Chinedu Okafor,chinedu.okafor1113@example.com,office_desk,furniture,2,562.83,2025-10-31,Nigeria,paid
+ORD-01114,Thandiwe Ndlovu,thandiwe.ndlovu1114@example.com,monitor,electronics,1,404.81,2025-08-01,South Africa,paid
+ORD-01115,Erik Johansen,erik.johansen1115@example.com,tablet,electronics,2,782.25,2025-10-25,Norway,paid
+ORD-01116,Matías Fernández,matias.fernandez1116@example.com,monitor,electronics,5,411.68,2025-03-22,Chile,paid
+ORD-01117,Mia Anderson,mia.anderson1117@example.com,monitor,electronics,1,386.89,2025-02-15,Canada,pending
+ORD-01118,Marko Jovanović,marko.jovanovic1118@example.com,docking_station,accessories,4,247.39,2025-04-16,Serbia,paid
+ORD-01119,Nguyễn Minh Anh,nguyen.minh.anh1119@example.com,tablet,electronics,4,778.88,2025-03-31,Vietnam,paid
+ORD-01120,Piotr Nowak,piotr.nowak1120@example.com,docking_station,accessories,4,244.30,2025-02-15,Poland,pending
+ORD-01121,Sigríður Jónsdóttir,sigriur.jonsdottir1121@example.com,webcam,electronics,1,131.20,2025-04-09,Iceland,paid
+ORD-01122,Emma Johnson,emma.johnson1122@example.com,smartphone,electronics,3,1036.88,2025-10-04,United States,paid
+ORD-01123,Miguel Reyes,miguel.reyes1123@example.com,mechanical_keyboard,accessories,2,139.81,2025-04-10,Philippines,paid
+ORD-01124,Diego Ramírez,diego.ramirez1124@example.com,external_ssd,storage,4,164.93,2025-03-23,Mexico,paid
+ORD-01125,Claire Dubois,claire.dubois1125@example.com,external_ssd,storage,3,159.33,2025-08-11,France,pending
+ORD-01126,Thandiwe Ndlovu,thandiwe.ndlovu1126@example.com,smartphone,electronics,4,908.39,2025-01-27,South Africa,paid
+ORD-01127,Merve Yılmaz,merve.ylmaz1127@example.com,mechanical_keyboard,accessories,1,144.65,2025-03-01,Türkiye,paid
+ORD-01128,Mei Lin,mei.lin1128@example.com,docking_station,accessories,4,243.56,2025-06-16,China,refunded
+ORD-01129,Andrei Ionescu,andrei.ionescu1129@example.com,docking_station,accessories,3,229.63,2025-02-26,Romania,failed
+ORD-01130,Arjun Mehta,arjun.mehta1130@example.com,monitor,electronics,2,435.98,2025-04-13,India,refunded
+ORD-01131,Priya Sharma,priya.sharma1131@example.com,monitor,electronics,4,425.72,2025-01-28,India,refunded
+ORD-01132,Lucía Herrera,lucia.herrera1132@example.com,mouse,accessories,5,34.75,2025-07-18,Mexico,failed
+ORD-01133,Matías Fernández,matias.fernandez1133@example.com,headphones,electronics,2,214.44,2025-05-19,Chile,paid
+ORD-01134,Thandiwe Ndlovu,thandiwe.ndlovu1134@example.com,keyboard,accessories,1,97.92,2025-01-31,South Africa,pending
+ORD-01135,Matías Fernández,matias.fernandez1135@example.com,monitor,electronics,4,417.22,2025-03-29,Chile,failed
+ORD-01136,Priya Sharma,priya.sharma1136@example.com,graphics_tablet,electronics,3,315.14,2025-11-23,India,paid
+ORD-01137,Arjun Mehta,arjun.mehta1137@example.com,monitor,electronics,4,443.99,2025-09-08,India,paid
+ORD-01138,Amelia Wilson,amelia.wilson1138@example.com,office_desk,furniture,4,520.92,2025-08-08,Australia,paid
+ORD-01139,Wei Zhang,wei.zhang1139@example.com,usb_hub,accessories,4,45.57,2025-10-30,China,paid
+ORD-01140,Aiko Tanaka,aiko.tanaka1140@example.com,webcam,electronics,1,120.43,2025-08-29,Japan,paid
+ORD-01141,Zuzana Nováková,zuzana.novakova1141@example.com,tablet,electronics,4,787.38,2025-12-23,Slovakia,paid
+ORD-01142,Nikos Georgiou,nikos.georgiou1142@example.com,headphones,electronics,2,195.99,2025-01-07,Greece,refunded
+ORD-01143,Oleksandr Bondarenko,oleksandr.bondarenko1143@example.com,keyboard,accessories,3,91.90,2025-11-28,Ukraine,paid
+ORD-01144,Sofia Rossi,sofia.rossi1144@example.com,headphones,electronics,3,198.64,2025-08-24,Italy,paid
+ORD-01145,Isabella Santos,isabella.santos1145@example.com,headphones,electronics,2,222.57,2025-07-27,Philippines,paid
+ORD-01146,Erik Johansen,erik.johansen1146@example.com,external_ssd,storage,4,170.38,2025-01-01,Norway,paid
+ORD-01147,Mikkel Sørensen,mikkel.srensen1147@example.com,graphics_tablet,electronics,3,311.53,2025-06-01,Denmark,refunded
+ORD-01148,Nguyễn Minh Anh,nguyen.minh.anh1148@example.com,docking_station,accessories,5,241.63,2025-04-17,Vietnam,paid
+ORD-01149,Thandiwe Ndlovu,thandiwe.ndlovu1149@example.com,docking_station,accessories,1,240.57,2025-12-12,South Africa,failed
+ORD-01150,Claire Dubois,claire.dubois1150@example.com,monitor,electronics,4,410.97,2025-11-13,France,paid
+ORD-01151,Ingrid Hansen,ingrid.hansen1151@example.com,usb_hub,accessories,2,46.07,2025-12-27,Norway,paid
+ORD-01152,Iryna Kovalenko,iryna.kovalenko1152@example.com,keyboard,accessories,3,91.03,2025-02-28,Ukraine,cancelled
+ORD-01153,Iryna Kovalenko,iryna.kovalenko1153@example.com,mechanical_keyboard,accessories,2,140.83,2025-05-17,Ukraine,refunded
+ORD-01154,Trần Quốc Bảo,tran.quoc.bao1154@example.com,laptop,electronics,1,1469.48,2025-08-20,Vietnam,cancelled
+ORD-01155,Maya Cohen,maya.cohen1155@example.com,tablet,electronics,1,786.23,2025-09-30,Israel,pending
+ORD-01156,Nikos Georgiou,nikos.georgiou1156@example.com,smartphone,electronics,3,1027.02,2025-12-21,Greece,paid
+ORD-01157,Elena Popescu,elena.popescu1157@example.com,graphics_tablet,electronics,4,289.53,2025-07-20,Romania,paid
+ORD-01158,Nur Aisyah,nur.aisyah1158@example.com,monitor,electronics,1,397.47,2025-02-27,Malaysia,paid
+ORD-01159,Liam Tremblay,liam.tremblay1159@example.com,keyboard,accessories,2,95.31,2025-11-18,Canada,paid
+ORD-01160,Amir Hakim,amir.hakim1160@example.com,webcam,electronics,5,138.98,2025-08-31,Malaysia,failed
+ORD-01161,Marko Jovanović,marko.jovanovic1161@example.com,headphones,electronics,1,202.99,2025-02-02,Serbia,paid
+ORD-01162,Arjun Mehta,arjun.mehta1162@example.com,office_desk,furniture,5,552.50,2025-07-30,India,failed
+ORD-01163,Chinedu Okafor,chinedu.okafor1163@example.com,headphones,electronics,5,215.57,2025-09-29,Nigeria,cancelled
+ORD-01164,Isabella Santos,isabella.santos1164@example.com,desk_chair,furniture,5,639.96,2025-06-06,Philippines,paid
+ORD-01165,Seo-yeon Park,seo.yeon.park1165@example.com,mouse,accessories,4,34.28,2025-05-28,South Korea,paid
+ORD-01166,Lucía Herrera,lucia.herrera1166@example.com,usb_hub,accessories,3,44.68,2025-03-27,Mexico,paid
+ORD-01167,Nur Aisyah,nur.aisyah1167@example.com,keyboard,accessories,2,100.16,2025-12-21,Malaysia,paid
+ORD-01168,Merve Yılmaz,merve.ylmaz1168@example.com,mouse,accessories,1,32.43,2025-06-12,Türkiye,paid
+ORD-01169,Eleni Papadopoulos,eleni.papadopoulos1169@example.com,desk_chair,furniture,3,645.67,2025-10-15,Greece,paid
+ORD-01170,Amina Yusuf,amina.yusuf1170@example.com,usb_hub,accessories,2,44.08,2025-10-04,Nigeria,paid
+ORD-01171,Fatima Zahra,fatima.zahra1171@example.com,monitor,electronics,1,413.59,2025-09-13,Morocco,paid
+ORD-01172,Isabella Santos,isabella.santos1172@example.com,graphics_tablet,electronics,3,292.94,2025-10-07,Philippines,failed
+ORD-01173,Amir Hakim,amir.hakim1173@example.com,headphones,electronics,3,225.78,2025-10-21,Malaysia,paid
+ORD-01174,Eleni Papadopoulos,eleni.papadopoulos1174@example.com,usb_hub,accessories,1,46.67,2025-01-21,Greece,paid
+ORD-01175,Camila Silva,camila.silva1175@example.com,desk_chair,furniture,1,669.30,2025-04-23,Brazil,cancelled
+ORD-01176,Jón Einarsson,jon.einarsson1176@example.com,monitor,electronics,3,390.10,2025-11-25,Iceland,paid
+ORD-01177,Priya Sharma,priya.sharma1177@example.com,mechanical_keyboard,accessories,3,137.94,2025-02-12,India,cancelled
+ORD-01178,Ethan Brown,ethan.brown1178@example.com,tablet,electronics,4,751.38,2025-06-12,United Kingdom,paid
+ORD-01179,Ingrid Hansen,ingrid.hansen1179@example.com,webcam,electronics,2,134.49,2025-08-07,Norway,failed
+ORD-01180,Mikkel Sørensen,mikkel.srensen1180@example.com,usb_hub,accessories,1,43.45,2025-06-29,Denmark,pending
+ORD-01181,Nikos Georgiou,nikos.georgiou1181@example.com,office_desk,furniture,5,504.37,2025-08-16,Greece,refunded
+ORD-01182,Eleni Papadopoulos,eleni.papadopoulos1182@example.com,desk_chair,furniture,2,713.26,2025-08-06,Greece,refunded
+ORD-01183,Matías Fernández,matias.fernandez1183@example.com,office_desk,furniture,5,548.46,2025-03-15,Chile,paid
+ORD-01184,Fatima Zahra,fatima.zahra1184@example.com,headphones,electronics,5,226.35,2025-02-03,Morocco,refunded
+ORD-01185,Ethan Brown,ethan.brown1185@example.com,laptop,electronics,4,1533.31,2025-05-20,United Kingdom,refunded
+ORD-01186,Katarzyna Kowalska,katarzyna.kowalska1186@example.com,tablet,electronics,4,816.58,2025-03-12,Poland,paid
+ORD-01187,Piotr Nowak,piotr.nowak1187@example.com,office_desk,furniture,4,521.81,2025-09-09,Poland,paid
+ORD-01188,Fatima Zahra,fatima.zahra1188@example.com,office_desk,furniture,5,523.06,2025-10-14,Morocco,cancelled
+ORD-01189,Priya Sharma,priya.sharma1189@example.com,laptop,electronics,1,1416.97,2025-06-03,India,cancelled
+ORD-01190,Rafael Oliveira,rafael.oliveira1190@example.com,external_ssd,storage,3,162.81,2025-09-09,Brazil,paid
+ORD-01191,Luca Bianchi,luca.bianchi1191@example.com,monitor,electronics,3,419.53,2025-02-04,Italy,failed
+ORD-01192,Jack Thompson,jack.thompson1192@example.com,smartphone,electronics,4,1037.76,2025-11-18,Australia,cancelled
+ORD-01193,Rafael Oliveira,rafael.oliveira1193@example.com,usb_hub,accessories,5,46.68,2025-01-09,Brazil,pending
+ORD-01194,Merve Yılmaz,merve.ylmaz1194@example.com,smartphone,electronics,1,924.51,2025-08-25,Türkiye,paid
+ORD-01195,Jón Einarsson,jon.einarsson1195@example.com,keyboard,accessories,1,91.54,2025-08-03,Iceland,failed
+ORD-01196,Claire Dubois,claire.dubois1196@example.com,desk_chair,furniture,3,683.22,2025-02-09,France,paid
+ORD-01197,Piotr Nowak,piotr.nowak1197@example.com,mechanical_keyboard,accessories,1,147.29,2025-03-27,Poland,failed
+ORD-01198,Amina Yusuf,amina.yusuf1198@example.com,office_desk,furniture,3,520.25,2025-12-24,Nigeria,failed
+ORD-01199,Emma Johnson,emma.johnson1199@example.com,tablet,electronics,5,771.25,2025-03-15,United States,paid
+ORD-01200,Matías Fernández,matias.fernandez1200@example.com,tablet,electronics,3,773.95,2025-09-06,Chile,refunded
+ORD-01201,Sipho Dlamini,sipho.dlamini1201@example.com,graphics_tablet,electronics,2,290.28,2025-03-21,South Africa,paid
+ORD-01202,Elena Popescu,elena.popescu1202@example.com,mechanical_keyboard,accessories,5,147.63,2025-09-27,Romania,paid
+ORD-01203,Marko Jovanović,marko.jovanovic1203@example.com,headphones,electronics,1,197.12,2025-03-09,Serbia,paid
+ORD-01204,Jack Thompson,jack.thompson1204@example.com,usb_hub,accessories,3,46.38,2025-03-13,Australia,cancelled
+ORD-01205,Sipho Dlamini,sipho.dlamini1205@example.com,keyboard,accessories,3,87.84,2025-03-02,South Africa,paid
+ORD-01206,Valentina Rojas,valentina.rojas1206@example.com,office_desk,furniture,2,556.25,2025-06-07,Chile,paid
+ORD-01207,Iryna Kovalenko,iryna.kovalenko1207@example.com,keyboard,accessories,1,93.86,2025-02-27,Ukraine,paid
+ORD-01208,Sofia Rossi,sofia.rossi1208@example.com,mechanical_keyboard,accessories,4,150.97,2025-01-22,Italy,paid
+ORD-01209,Noah Williams,noah.williams1209@example.com,laptop,electronics,5,1522.36,2025-08-29,United States,paid
+ORD-01210,Min-jun Kim,min.jun.kim1210@example.com,laptop,electronics,1,1452.39,2025-01-06,South Korea,paid
+ORD-01211,Rafael Oliveira,rafael.oliveira1211@example.com,graphics_tablet,electronics,5,295.39,2025-04-13,Brazil,paid
+ORD-01212,Sigríður Jónsdóttir,sigriur.jonsdottir1212@example.com,laptop,electronics,1,1414.93,2025-05-23,Iceland,failed
+ORD-01213,Jón Einarsson,jon.einarsson1213@example.com,keyboard,accessories,5,99.27,2025-11-10,Iceland,paid
+ORD-01214,Maya Cohen,maya.cohen1214@example.com,smartphone,electronics,1,917.14,2025-10-24,Israel,paid
+ORD-01215,Oleksandr Bondarenko,oleksandr.bondarenko1215@example.com,docking_station,accessories,2,257.83,2025-03-29,Ukraine,paid
+ORD-01216,Emma Johnson,emma.johnson1216@example.com,graphics_tablet,electronics,2,330.86,2025-12-29,United States,cancelled
+ORD-01217,Ingrid Hansen,ingrid.hansen1217@example.com,docking_station,accessories,5,227.91,2025-12-11,Norway,paid
+ORD-01218,Piotr Nowak,piotr.nowak1218@example.com,office_desk,furniture,3,581.58,2025-08-06,Poland,paid
+ORD-01219,Noam Levi,noam.levi1219@example.com,mouse,accessories,4,32.83,2025-06-10,Israel,paid
+ORD-01220,Miguel Reyes,miguel.reyes1220@example.com,monitor,electronics,5,395.53,2025-07-04,Philippines,pending
+ORD-01221,Javier Martínez,javier.martinez1221@example.com,monitor,electronics,3,419.58,2025-07-17,Spain,pending
+ORD-01222,Isabella Santos,isabella.santos1222@example.com,smartphone,electronics,3,1009.33,2025-08-16,Philippines,paid
+ORD-01223,Ana Petrović,ana.petrovic1223@example.com,desk_chair,furniture,4,646.14,2025-02-05,Serbia,cancelled
+ORD-01224,Erik Johansen,erik.johansen1224@example.com,keyboard,accessories,1,102.58,2025-09-09,Norway,paid
+ORD-01225,Helena Virtanen,helena.virtanen1225@example.com,headphones,electronics,5,215.33,2025-02-13,Finland,paid
+ORD-01226,Lucía Herrera,lucia.herrera1226@example.com,webcam,electronics,4,134.06,2025-02-22,Mexico,paid
+ORD-01227,Anna Müller,anna.muller1227@example.com,usb_hub,accessories,2,43.84,2025-11-01,Germany,refunded
+ORD-01228,Rafael Oliveira,rafael.oliveira1228@example.com,mouse,accessories,4,36.26,2025-05-23,Brazil,pending
+ORD-01229,Matti Korhonen,matti.korhonen1229@example.com,usb_hub,accessories,4,46.20,2025-07-27,Finland,cancelled
+ORD-01230,Noam Levi,noam.levi1230@example.com,desk_chair,furniture,2,709.16,2025-02-25,Israel,paid
+ORD-01231,Min-jun Kim,min.jun.kim1231@example.com,headphones,electronics,4,200.96,2025-03-10,South Korea,paid
+ORD-01232,Emma Johnson,emma.johnson1232@example.com,docking_station,accessories,1,252.68,2025-09-13,United States,paid
+ORD-01233,Katarzyna Kowalska,katarzyna.kowalska1233@example.com,webcam,electronics,5,133.73,2025-03-20,Poland,pending
+ORD-01234,Emma Johnson,emma.johnson1234@example.com,mechanical_keyboard,accessories,1,148.74,2025-09-24,United States,cancelled
+ORD-01235,Miguel Reyes,miguel.reyes1235@example.com,mouse,accessories,3,35.91,2025-09-09,Philippines,pending
+ORD-01236,Sipho Dlamini,sipho.dlamini1236@example.com,mechanical_keyboard,accessories,5,146.08,2025-01-17,South Africa,refunded
+ORD-01237,Rafael Oliveira,rafael.oliveira1237@example.com,webcam,electronics,4,126.14,2025-07-12,Brazil,cancelled
+ORD-01238,Isabella Santos,isabella.santos1238@example.com,laptop,electronics,1,1422.45,2025-12-04,Philippines,pending
+ORD-01239,Emre Kaya,emre.kaya1239@example.com,headphones,electronics,4,197.72,2025-07-19,Türkiye,cancelled
+ORD-01240,Camila Silva,camila.silva1240@example.com,smartphone,electronics,4,1005.10,2025-12-17,Brazil,cancelled
+ORD-01241,Amelia Wilson,amelia.wilson1241@example.com,tablet,electronics,2,790.84,2025-07-20,Australia,pending
+ORD-01242,Liam Tremblay,liam.tremblay1242@example.com,smartphone,electronics,4,998.34,2025-06-30,Canada,pending
+ORD-01243,Chinedu Okafor,chinedu.okafor1243@example.com,laptop,electronics,1,1521.71,2025-03-07,Nigeria,failed
+ORD-01244,Sigríður Jónsdóttir,sigriur.jonsdottir1244@example.com,mechanical_keyboard,accessories,5,134.02,2025-11-17,Iceland,failed
+ORD-01245,Freja Nielsen,freja.nielsen1245@example.com,monitor,electronics,4,409.59,2025-07-02,Denmark,refunded
+ORD-01246,Sigríður Jónsdóttir,sigriur.jonsdottir1246@example.com,laptop,electronics,2,1439.43,2025-11-28,Iceland,pending
+ORD-01247,Olivia Smith,olivia.smith1247@example.com,graphics_tablet,electronics,1,328.30,2025-02-28,United Kingdom,failed
+ORD-01248,Emre Kaya,emre.kaya1248@example.com,laptop,electronics,5,1458.27,2025-08-24,Türkiye,refunded
+ORD-01249,Noam Levi,noam.levi1249@example.com,graphics_tablet,electronics,4,298.42,2025-12-23,Israel,cancelled
+ORD-01250,Sofia Rossi,sofia.rossi1250@example.com,usb_hub,accessories,4,45.51,2025-06-15,Italy,paid
+ORD-01251,Mia Anderson,mia.anderson1251@example.com,monitor,electronics,2,408.98,2025-09-15,Canada,failed
+ORD-01252,Emre Kaya,emre.kaya1252@example.com,smartphone,electronics,3,958.57,2025-08-12,Türkiye,paid
+ORD-01253,Liam Tremblay,liam.tremblay1253@example.com,external_ssd,storage,1,173.99,2025-10-02,Canada,paid
+ORD-01254,Nur Aisyah,nur.aisyah1254@example.com,desk_chair,furniture,1,657.95,2025-10-21,Malaysia,refunded
+ORD-01255,Priya Sharma,priya.sharma1255@example.com,smartphone,electronics,1,1014.14,2025-10-24,India,paid
+ORD-01256,Sipho Dlamini,sipho.dlamini1256@example.com,desk_chair,furniture,1,687.23,2025-09-29,South Africa,cancelled
+ORD-01257,Zuzana Nováková,zuzana.novakova1257@example.com,mouse,accessories,3,36.66,2025-11-30,Slovakia,pending
+ORD-01258,Maya Cohen,maya.cohen1258@example.com,mechanical_keyboard,accessories,3,143.44,2025-10-04,Israel,failed
+ORD-01259,Andrei Ionescu,andrei.ionescu1259@example.com,webcam,electronics,4,124.83,2025-09-21,Romania,cancelled
+ORD-01260,Piotr Nowak,piotr.nowak1260@example.com,graphics_tablet,electronics,1,316.34,2025-09-22,Poland,paid
+ORD-01261,Liam Tremblay,liam.tremblay1261@example.com,mouse,accessories,4,33.70,2025-11-23,Canada,refunded
+ORD-01262,Étienne Moreau,etienne.moreau1262@example.com,tablet,electronics,2,772.84,2025-03-17,France,paid
+ORD-01263,Diego Ramírez,diego.ramirez1263@example.com,docking_station,accessories,3,253.21,2025-07-30,Mexico,failed
+ORD-01264,Anna Müller,anna.muller1264@example.com,external_ssd,storage,2,174.13,2025-05-17,Germany,pending
+ORD-01265,Merve Yılmaz,merve.ylmaz1265@example.com,desk_chair,furniture,5,651.29,2025-05-03,Türkiye,paid
+ORD-01266,Diego Ramírez,diego.ramirez1266@example.com,mouse,accessories,1,33.58,2025-06-08,Mexico,cancelled
+ORD-01267,Mia Anderson,mia.anderson1267@example.com,tablet,electronics,4,780.14,2025-01-19,Canada,paid
+ORD-01268,Merve Yılmaz,merve.ylmaz1268@example.com,desk_chair,furniture,2,628.77,2025-05-23,Türkiye,paid
+ORD-01269,Javier Martínez,javier.martinez1269@example.com,docking_station,accessories,4,250.84,2025-01-29,Spain,paid
+ORD-01270,Amina Yusuf,amina.yusuf1270@example.com,smartphone,electronics,3,1037.57,2025-07-28,Nigeria,failed
+ORD-01271,Ethan Brown,ethan.brown1271@example.com,webcam,electronics,2,124.51,2025-10-20,United Kingdom,paid
+ORD-01272,Min-jun Kim,min.jun.kim1272@example.com,headphones,electronics,1,201.20,2025-03-04,South Korea,failed
+ORD-01273,Thandiwe Ndlovu,thandiwe.ndlovu1273@example.com,office_desk,furniture,5,560.50,2025-05-01,South Africa,refunded
+ORD-01274,Oleksandr Bondarenko,oleksandr.bondarenko1274@example.com,keyboard,accessories,1,90.06,2025-05-21,Ukraine,cancelled
+ORD-01275,Ana Petrović,ana.petrovic1275@example.com,desk_chair,furniture,5,631.68,2025-10-01,Serbia,failed
+ORD-01276,Camila Silva,camila.silva1276@example.com,usb_hub,accessories,5,44.45,2025-12-16,Brazil,paid
+ORD-01277,Trần Quốc Bảo,tran.quoc.bao1277@example.com,graphics_tablet,electronics,2,303.20,2025-07-08,Vietnam,pending
+ORD-01278,Sofia Rossi,sofia.rossi1278@example.com,external_ssd,storage,5,152.72,2025-12-06,Italy,paid
+ORD-01279,Mei Lin,mei.lin1279@example.com,desk_chair,furniture,5,667.45,2025-11-24,China,failed
+ORD-01280,Rafael Oliveira,rafael.oliveira1280@example.com,tablet,electronics,2,835.21,2025-07-18,Brazil,paid
+ORD-01281,Helena Virtanen,helena.virtanen1281@example.com,graphics_tablet,electronics,3,300.12,2025-05-01,Finland,pending
+ORD-01282,Iryna Kovalenko,iryna.kovalenko1282@example.com,office_desk,furniture,2,575.93,2025-11-20,Ukraine,failed
+ORD-01283,Ana Petrović,ana.petrovic1283@example.com,mechanical_keyboard,accessories,1,139.76,2025-02-11,Serbia,cancelled
+ORD-01284,Amelia Wilson,amelia.wilson1284@example.com,docking_station,accessories,4,256.38,2025-06-20,Australia,refunded
+ORD-01285,Emma Johnson,emma.johnson1285@example.com,office_desk,furniture,2,557.15,2025-09-17,United States,paid
+ORD-01286,Jón Einarsson,jon.einarsson1286@example.com,webcam,electronics,5,134.77,2025-10-08,Iceland,failed
+ORD-01287,Isabella Santos,isabella.santos1287@example.com,docking_station,accessories,1,250.06,2025-11-25,Philippines,paid
+ORD-01288,Eleni Papadopoulos,eleni.papadopoulos1288@example.com,mechanical_keyboard,accessories,2,133.47,2025-04-13,Greece,pending
+ORD-01289,Amina Yusuf,amina.yusuf1289@example.com,smartphone,electronics,1,918.98,2025-05-08,Nigeria,paid
+ORD-01290,Ana Petrović,ana.petrovic1290@example.com,mechanical_keyboard,accessories,3,143.87,2025-03-10,Serbia,pending
+ORD-01291,Katarzyna Kowalska,katarzyna.kowalska1291@example.com,external_ssd,storage,5,173.63,2025-05-25,Poland,paid
+ORD-01292,Olivia Smith,olivia.smith1292@example.com,webcam,electronics,3,123.38,2025-07-13,United Kingdom,paid
+ORD-01293,Sofia Rossi,sofia.rossi1293@example.com,laptop,electronics,5,1535.31,2025-11-17,Italy,paid
+ORD-01294,Ethan Brown,ethan.brown1294@example.com,headphones,electronics,2,202.00,2025-03-28,United Kingdom,paid
+ORD-01295,Matti Korhonen,matti.korhonen1295@example.com,smartphone,electronics,4,995.74,2025-03-18,Finland,paid
+ORD-01296,Erik Johansen,erik.johansen1296@example.com,keyboard,accessories,5,89.18,2025-09-27,Norway,refunded
+ORD-01297,Isabella Santos,isabella.santos1297@example.com,office_desk,furniture,4,507.04,2025-04-15,Philippines,paid
+ORD-01298,Nguyễn Minh Anh,nguyen.minh.anh1298@example.com,desk_chair,furniture,4,667.17,2025-08-09,Vietnam,paid
+ORD-01299,Oleksandr Bondarenko,oleksandr.bondarenko1299@example.com,office_desk,furniture,3,559.59,2025-04-07,Ukraine,refunded
+ORD-01300,Piotr Nowak,piotr.nowak1300@example.com,webcam,electronics,2,120.20,2025-05-15,Poland,paid
+ORD-01301,Nikos Georgiou,nikos.georgiou1301@example.com,graphics_tablet,electronics,2,303.53,2025-12-17,Greece,cancelled
+ORD-01302,Olivia Smith,olivia.smith1302@example.com,laptop,electronics,4,1411.97,2025-06-15,United Kingdom,refunded
+ORD-01303,Oleksandr Bondarenko,oleksandr.bondarenko1303@example.com,docking_station,accessories,4,248.00,2025-11-02,Ukraine,pending
+ORD-01304,Lukas Schneider,lukas.schneider1304@example.com,monitor,electronics,5,390.35,2025-06-20,Germany,paid
+ORD-01305,Amelia Wilson,amelia.wilson1305@example.com,graphics_tablet,electronics,3,334.64,2025-12-10,Australia,paid
+ORD-01306,Aiko Tanaka,aiko.tanaka1306@example.com,desk_chair,furniture,5,693.02,2025-06-04,Japan,refunded
+ORD-01307,Erik Johansen,erik.johansen1307@example.com,keyboard,accessories,5,88.03,2025-04-02,Norway,pending
+ORD-01308,Emre Kaya,emre.kaya1308@example.com,tablet,electronics,4,844.39,2025-08-28,Türkiye,paid
+ORD-01309,Ethan Brown,ethan.brown1309@example.com,usb_hub,accessories,5,44.52,2025-05-14,United Kingdom,paid
+ORD-01310,Amina Yusuf,amina.yusuf1310@example.com,laptop,electronics,2,1499.81,2025-05-24,Nigeria,failed
+ORD-01311,Jakub Horváth,jakub.horvath1311@example.com,desk_chair,furniture,3,692.29,2025-05-16,Slovakia,failed
+ORD-01312,Jakub Horváth,jakub.horvath1312@example.com,graphics_tablet,electronics,2,300.85,2025-09-09,Slovakia,paid
+ORD-01313,Eleni Papadopoulos,eleni.papadopoulos1313@example.com,laptop,electronics,2,1415.67,2025-04-28,Greece,paid
+ORD-01314,María García,maria.garcia1314@example.com,headphones,electronics,3,198.70,2025-08-28,Spain,refunded
+ORD-01315,Camila Silva,camila.silva1315@example.com,graphics_tablet,electronics,4,287.22,2025-07-02,Brazil,cancelled
+ORD-01316,Isabella Santos,isabella.santos1316@example.com,headphones,electronics,1,221.62,2025-03-17,Philippines,paid
+ORD-01317,Sigríður Jónsdóttir,sigriur.jonsdottir1317@example.com,monitor,electronics,2,444.74,2025-04-03,Iceland,paid
+ORD-01318,Noam Levi,noam.levi1318@example.com,office_desk,furniture,3,545.46,2025-12-06,Israel,paid
+ORD-01319,Aiko Tanaka,aiko.tanaka1319@example.com,tablet,electronics,5,749.62,2025-02-09,Japan,paid
+ORD-01320,Liam Tremblay,liam.tremblay1320@example.com,external_ssd,storage,1,175.23,2025-01-14,Canada,pending
+ORD-01321,Rafael Oliveira,rafael.oliveira1321@example.com,webcam,electronics,3,131.88,2025-02-24,Brazil,failed
+ORD-01322,Diego Ramírez,diego.ramirez1322@example.com,laptop,electronics,1,1490.46,2025-12-29,Mexico,cancelled
+ORD-01323,Isabella Santos,isabella.santos1323@example.com,external_ssd,storage,3,167.49,2025-01-03,Philippines,failed
+ORD-01324,Javier Martínez,javier.martinez1324@example.com,external_ssd,storage,5,176.90,2025-06-16,Spain,paid
+ORD-01325,Oleksandr Bondarenko,oleksandr.bondarenko1325@example.com,office_desk,furniture,1,566.05,2025-05-25,Ukraine,failed
+ORD-01326,Étienne Moreau,etienne.moreau1326@example.com,docking_station,accessories,1,241.81,2025-11-05,France,refunded
+ORD-01327,Ethan Brown,ethan.brown1327@example.com,webcam,electronics,3,123.30,2025-07-24,United Kingdom,paid
+ORD-01328,Sofia Rossi,sofia.rossi1328@example.com,office_desk,furniture,2,510.88,2025-07-26,Italy,pending
+ORD-01329,Diego Ramírez,diego.ramirez1329@example.com,monitor,electronics,3,419.38,2025-08-10,Mexico,pending
+ORD-01330,Valentina Rojas,valentina.rojas1330@example.com,usb_hub,accessories,1,47.39,2025-09-20,Chile,paid
+ORD-01331,Mia Anderson,mia.anderson1331@example.com,headphones,electronics,4,209.21,2025-10-16,Canada,refunded
+ORD-01332,Ethan Brown,ethan.brown1332@example.com,mechanical_keyboard,accessories,4,152.22,2025-11-11,United Kingdom,paid
+ORD-01333,Jakub Horváth,jakub.horvath1333@example.com,external_ssd,storage,4,154.25,2025-09-20,Slovakia,failed
+ORD-01334,Miguel Reyes,miguel.reyes1334@example.com,external_ssd,storage,2,168.90,2025-03-21,Philippines,cancelled
+ORD-01335,Olivia Smith,olivia.smith1335@example.com,desk_chair,furniture,4,673.18,2025-09-02,United Kingdom,pending
+ORD-01336,Diego Ramírez,diego.ramirez1336@example.com,keyboard,accessories,3,100.19,2025-09-25,Mexico,refunded
+ORD-01337,Amir Hakim,amir.hakim1337@example.com,smartphone,electronics,1,988.00,2025-01-24,Malaysia,paid
+ORD-01338,Noam Levi,noam.levi1338@example.com,webcam,electronics,4,121.57,2025-12-05,Israel,pending
+ORD-01339,Jón Einarsson,jon.einarsson1339@example.com,desk_chair,furniture,5,634.50,2025-09-15,Iceland,paid
+ORD-01340,Camila Silva,camila.silva1340@example.com,docking_station,accessories,4,227.69,2025-04-04,Brazil,refunded
+ORD-01341,Javier Martínez,javier.martinez1341@example.com,monitor,electronics,4,445.32,2025-06-02,Spain,failed
+ORD-01342,Isabella Santos,isabella.santos1342@example.com,mechanical_keyboard,accessories,4,147.87,2025-05-16,Philippines,failed
+ORD-01343,Piotr Nowak,piotr.nowak1343@example.com,mouse,accessories,2,32.64,2025-11-06,Poland,pending
+ORD-01344,Noah Williams,noah.williams1344@example.com,webcam,electronics,5,119.97,2025-07-22,United States,paid
+ORD-01345,Kenji Sato,kenji.sato1345@example.com,keyboard,accessories,4,94.39,2025-07-27,Japan,cancelled
+ORD-01346,Fatima Zahra,fatima.zahra1346@example.com,smartphone,electronics,5,958.16,2025-12-11,Morocco,refunded
+ORD-01347,Fatima Zahra,fatima.zahra1347@example.com,monitor,electronics,2,395.48,2025-04-08,Morocco,paid
+ORD-01348,Sofia Rossi,sofia.rossi1348@example.com,docking_station,accessories,2,253.79,2025-04-18,Italy,cancelled
+ORD-01349,Lucía Herrera,lucia.herrera1349@example.com,external_ssd,storage,2,163.30,2025-11-17,Mexico,paid
+ORD-01350,Ethan Brown,ethan.brown1350@example.com,desk_chair,furniture,4,641.72,2025-08-05,United Kingdom,paid
+ORD-01351,Camila Silva,camila.silva1351@example.com,keyboard,accessories,2,98.63,2025-08-16,Brazil,cancelled
+ORD-01352,Amelia Wilson,amelia.wilson1352@example.com,laptop,electronics,4,1520.45,2025-04-14,Australia,pending
+ORD-01353,Helena Virtanen,helena.virtanen1353@example.com,laptop,electronics,3,1381.89,2025-11-19,Finland,refunded
+ORD-01354,Marko Jovanović,marko.jovanovic1354@example.com,office_desk,furniture,4,560.48,2025-11-02,Serbia,pending
+ORD-01355,María García,maria.garcia1355@example.com,headphones,electronics,4,209.53,2025-10-30,Spain,cancelled
+ORD-01356,Arjun Mehta,arjun.mehta1356@example.com,docking_station,accessories,1,241.09,2025-08-05,India,failed
+ORD-01357,Anna Müller,anna.muller1357@example.com,desk_chair,furniture,4,722.34,2025-03-01,Germany,cancelled
+ORD-01358,Sigríður Jónsdóttir,sigriur.jonsdottir1358@example.com,headphones,electronics,4,193.90,2025-05-28,Iceland,paid
+ORD-01359,Amelia Wilson,amelia.wilson1359@example.com,usb_hub,accessories,4,43.07,2025-04-23,Australia,failed
+ORD-01360,Miguel Reyes,miguel.reyes1360@example.com,keyboard,accessories,3,98.39,2025-07-19,Philippines,refunded
+ORD-01361,Ingrid Hansen,ingrid.hansen1361@example.com,mechanical_keyboard,accessories,4,151.95,2025-03-24,Norway,paid
+ORD-01362,Nur Aisyah,nur.aisyah1362@example.com,docking_station,accessories,1,246.41,2025-03-08,Malaysia,paid
+ORD-01363,Andrei Ionescu,andrei.ionescu1363@example.com,keyboard,accessories,5,94.88,2025-08-01,Romania,cancelled
+ORD-01364,Fatima Zahra,fatima.zahra1364@example.com,mouse,accessories,2,35.32,2025-01-10,Morocco,failed
+ORD-01365,Seo-yeon Park,seo.yeon.park1365@example.com,usb_hub,accessories,2,42.66,2025-09-15,South Korea,paid
+ORD-01366,Anna Müller,anna.muller1366@example.com,usb_hub,accessories,4,42.22,2025-04-27,Germany,paid
+ORD-01367,Priya Sharma,priya.sharma1367@example.com,headphones,electronics,3,226.59,2025-07-01,India,paid
+ORD-01368,Nguyễn Minh Anh,nguyen.minh.anh1368@example.com,graphics_tablet,electronics,2,327.53,2025-09-21,Vietnam,paid
+ORD-01369,Claire Dubois,claire.dubois1369@example.com,graphics_tablet,electronics,4,324.83,2025-02-26,France,paid
+ORD-01370,Noah Williams,noah.williams1370@example.com,office_desk,furniture,5,500.43,2025-02-23,United States,paid
+ORD-01371,Rafael Oliveira,rafael.oliveira1371@example.com,office_desk,furniture,2,575.51,2025-03-22,Brazil,pending
+ORD-01372,Eleni Papadopoulos,eleni.papadopoulos1372@example.com,mechanical_keyboard,accessories,5,144.96,2025-02-20,Greece,paid
+ORD-01373,Ingrid Hansen,ingrid.hansen1373@example.com,usb_hub,accessories,2,42.29,2025-04-14,Norway,cancelled
+ORD-01374,Marko Jovanović,marko.jovanovic1374@example.com,mechanical_keyboard,accessories,1,139.09,2025-08-31,Serbia,failed
+ORD-01375,Nur Aisyah,nur.aisyah1375@example.com,tablet,electronics,2,737.57,2025-07-10,Malaysia,refunded
+ORD-01376,Ingrid Hansen,ingrid.hansen1376@example.com,external_ssd,storage,2,155.80,2025-09-29,Norway,refunded
+ORD-01377,Arjun Mehta,arjun.mehta1377@example.com,keyboard,accessories,4,93.68,2025-07-29,India,cancelled
+ORD-01378,Ingrid Hansen,ingrid.hansen1378@example.com,laptop,electronics,4,1414.94,2025-01-06,Norway,paid
+ORD-01379,Olivia Smith,olivia.smith1379@example.com,usb_hub,accessories,3,44.29,2025-03-26,United Kingdom,refunded
+ORD-01380,Étienne Moreau,etienne.moreau1380@example.com,webcam,electronics,1,133.33,2025-11-25,France,paid
+ORD-01381,Étienne Moreau,etienne.moreau1381@example.com,external_ssd,storage,5,177.48,2025-08-03,France,refunded
+ORD-01382,Fatima Zahra,fatima.zahra1382@example.com,docking_station,accessories,3,255.71,2025-01-05,Morocco,pending
+ORD-01383,Lucía Herrera,lucia.herrera1383@example.com,docking_station,accessories,4,237.93,2025-04-16,Mexico,cancelled
+ORD-01384,Sigríður Jónsdóttir,sigriur.jonsdottir1384@example.com,graphics_tablet,electronics,4,323.66,2025-06-04,Iceland,paid
+ORD-01385,María García,maria.garcia1385@example.com,tablet,electronics,3,776.10,2025-03-06,Spain,pending
+ORD-01386,Oleksandr Bondarenko,oleksandr.bondarenko1386@example.com,monitor,electronics,5,423.48,2025-09-24,Ukraine,failed
+ORD-01387,Merve Yılmaz,merve.ylmaz1387@example.com,laptop,electronics,1,1593.68,2025-10-04,Türkiye,pending
+ORD-01388,Mei Lin,mei.lin1388@example.com,office_desk,furniture,3,559.57,2025-09-16,China,paid
+ORD-01389,Étienne Moreau,etienne.moreau1389@example.com,office_desk,furniture,3,519.24,2025-09-17,France,failed
+ORD-01390,Rafael Oliveira,rafael.oliveira1390@example.com,laptop,electronics,1,1487.70,2025-10-21,Brazil,paid
+ORD-01391,Isabella Santos,isabella.santos1391@example.com,usb_hub,accessories,2,47.20,2025-10-25,Philippines,paid
+ORD-01392,Sigríður Jónsdóttir,sigriur.jonsdottir1392@example.com,desk_chair,furniture,3,698.16,2025-10-21,Iceland,paid
+ORD-01393,Freja Nielsen,freja.nielsen1393@example.com,tablet,electronics,2,740.10,2025-09-22,Denmark,paid
+ORD-01394,Ingrid Hansen,ingrid.hansen1394@example.com,headphones,electronics,1,198.12,2025-08-06,Norway,refunded
+ORD-01395,Olivia Smith,olivia.smith1395@example.com,monitor,electronics,1,414.95,2025-03-08,United Kingdom,cancelled
+ORD-01396,Oleksandr Bondarenko,oleksandr.bondarenko1396@example.com,headphones,electronics,1,205.61,2025-09-27,Ukraine,refunded
+ORD-01397,Helena Virtanen,helena.virtanen1397@example.com,office_desk,furniture,3,547.28,2025-11-22,Finland,refunded
+ORD-01398,Eleni Papadopoulos,eleni.papadopoulos1398@example.com,docking_station,accessories,4,248.90,2025-08-02,Greece,paid
+ORD-01399,Lucía Herrera,lucia.herrera1399@example.com,tablet,electronics,2,788.07,2025-08-23,Mexico,paid
+ORD-01400,Noam Levi,noam.levi1400@example.com,office_desk,furniture,5,507.00,2025-04-19,Israel,cancelled
+ORD-01401,Amelia Wilson,amelia.wilson1401@example.com,laptop,electronics,2,1606.58,2025-07-09,Australia,paid
+ORD-01402,Ana Petrović,ana.petrovic1402@example.com,monitor,electronics,1,411.24,2025-05-29,Serbia,paid
+ORD-01403,Diego Ramírez,diego.ramirez1403@example.com,monitor,electronics,3,406.89,2025-07-11,Mexico,pending
+ORD-01404,Amir Hakim,amir.hakim1404@example.com,headphones,electronics,1,219.78,2025-03-14,Malaysia,refunded
+ORD-01405,Claire Dubois,claire.dubois1405@example.com,graphics_tablet,electronics,3,329.30,2025-04-21,France,paid
+ORD-01406,Mia Anderson,mia.anderson1406@example.com,laptop,electronics,1,1511.41,2025-02-04,Canada,paid
+ORD-01407,Marko Jovanović,marko.jovanovic1407@example.com,headphones,electronics,5,203.61,2025-08-20,Serbia,failed
+ORD-01408,Freja Nielsen,freja.nielsen1408@example.com,headphones,electronics,5,197.66,2025-03-12,Denmark,cancelled
+ORD-01409,Nikos Georgiou,nikos.georgiou1409@example.com,external_ssd,storage,4,155.73,2025-06-16,Greece,paid
+ORD-01410,Ana Petrović,ana.petrovic1410@example.com,webcam,electronics,2,138.33,2025-06-23,Serbia,paid
+ORD-01411,Eleni Papadopoulos,eleni.papadopoulos1411@example.com,docking_station,accessories,3,245.60,2025-03-26,Greece,paid
+ORD-01412,Youssef El Amrani,youssef.el.amrani1412@example.com,tablet,electronics,1,808.19,2025-02-13,Morocco,paid
+ORD-01413,Claire Dubois,claire.dubois1413@example.com,smartphone,electronics,5,931.30,2025-09-01,France,paid
+ORD-01414,Rafael Oliveira,rafael.oliveira1414@example.com,external_ssd,storage,5,156.55,2025-01-10,Brazil,pending
+ORD-01415,Iryna Kovalenko,iryna.kovalenko1415@example.com,mouse,accessories,5,34.69,2025-10-01,Ukraine,failed
+ORD-01416,Matti Korhonen,matti.korhonen1416@example.com,smartphone,electronics,1,978.66,2025-01-12,Finland,failed
+ORD-01417,Jakub Horváth,jakub.horvath1417@example.com,keyboard,accessories,4,87.77,2025-09-28,Slovakia,failed
+ORD-01418,Freja Nielsen,freja.nielsen1418@example.com,desk_chair,furniture,1,638.07,2025-02-20,Denmark,paid
+ORD-01419,Nur Aisyah,nur.aisyah1419@example.com,keyboard,accessories,2,91.28,2025-02-15,Malaysia,paid
+ORD-01420,Youssef El Amrani,youssef.el.amrani1420@example.com,webcam,electronics,2,120.83,2025-06-16,Morocco,paid
+ORD-01421,Luca Bianchi,luca.bianchi1421@example.com,docking_station,accessories,1,232.24,2025-02-20,Italy,failed
+ORD-01422,Lucía Herrera,lucia.herrera1422@example.com,webcam,electronics,3,124.97,2025-03-03,Mexico,paid
+ORD-01423,Andrei Ionescu,andrei.ionescu1423@example.com,mouse,accessories,5,35.48,2025-09-10,Romania,refunded
+ORD-01424,Camila Silva,camila.silva1424@example.com,desk_chair,furniture,1,660.24,2025-10-11,Brazil,refunded
+ORD-01425,Anna Müller,anna.muller1425@example.com,headphones,electronics,1,206.89,2025-04-30,Germany,paid
+ORD-01426,Nguyễn Minh Anh,nguyen.minh.anh1426@example.com,tablet,electronics,5,812.13,2025-05-07,Vietnam,paid
+ORD-01427,Fatima Zahra,fatima.zahra1427@example.com,smartphone,electronics,4,971.53,2025-11-22,Morocco,paid
+ORD-01428,Lucía Herrera,lucia.herrera1428@example.com,usb_hub,accessories,5,48.49,2025-05-06,Mexico,refunded
+ORD-01429,Nikos Georgiou,nikos.georgiou1429@example.com,laptop,electronics,1,1575.03,2025-11-14,Greece,pending
+ORD-01430,Emre Kaya,emre.kaya1430@example.com,laptop,electronics,1,1604.04,2025-09-04,Türkiye,pending
+ORD-01431,Min-jun Kim,min.jun.kim1431@example.com,office_desk,furniture,4,583.13,2025-11-20,South Korea,paid
+ORD-01432,Noam Levi,noam.levi1432@example.com,desk_chair,furniture,1,643.16,2025-10-01,Israel,paid
+ORD-01433,Fatima Zahra,fatima.zahra1433@example.com,monitor,electronics,4,433.33,2025-03-13,Morocco,pending
+ORD-01434,Jakub Horváth,jakub.horvath1434@example.com,mouse,accessories,5,35.03,2025-06-12,Slovakia,failed
+ORD-01435,Seo-yeon Park,seo.yeon.park1435@example.com,mechanical_keyboard,accessories,4,139.73,2025-12-06,South Korea,failed
+ORD-01436,Sipho Dlamini,sipho.dlamini1436@example.com,mouse,accessories,4,37.57,2025-06-18,South Africa,paid
+ORD-01437,Matías Fernández,matias.fernandez1437@example.com,external_ssd,storage,1,167.87,2025-01-03,Chile,paid
+ORD-01438,Katarzyna Kowalska,katarzyna.kowalska1438@example.com,webcam,electronics,5,138.22,2025-12-27,Poland,cancelled
+ORD-01439,Helena Virtanen,helena.virtanen1439@example.com,tablet,electronics,1,826.32,2025-11-29,Finland,paid
+ORD-01440,Luca Bianchi,luca.bianchi1440@example.com,graphics_tablet,electronics,4,318.54,2025-06-30,Italy,refunded
+ORD-01441,Jón Einarsson,jon.einarsson1441@example.com,webcam,electronics,2,137.05,2025-12-23,Iceland,paid
+ORD-01442,Rafael Oliveira,rafael.oliveira1442@example.com,headphones,electronics,3,224.66,2025-08-16,Brazil,paid
+ORD-01443,Priya Sharma,priya.sharma1443@example.com,docking_station,accessories,1,249.92,2025-12-15,India,failed
+ORD-01444,Elena Popescu,elena.popescu1444@example.com,monitor,electronics,5,428.42,2025-04-24,Romania,paid
+ORD-01445,Liam Tremblay,liam.tremblay1445@example.com,usb_hub,accessories,1,43.42,2025-12-27,Canada,paid
+ORD-01446,Aiko Tanaka,aiko.tanaka1446@example.com,mouse,accessories,4,32.82,2025-05-23,Japan,cancelled
+ORD-01447,Emre Kaya,emre.kaya1447@example.com,tablet,electronics,2,810.20,2025-10-17,Türkiye,paid
+ORD-01448,Anna Müller,anna.muller1448@example.com,smartphone,electronics,2,1018.57,2025-03-07,Germany,pending
+ORD-01449,Arjun Mehta,arjun.mehta1449@example.com,graphics_tablet,electronics,5,321.35,2025-05-21,India,paid
+ORD-01450,Sofia Rossi,sofia.rossi1450@example.com,docking_station,accessories,5,244.40,2025-12-15,Italy,cancelled
+ORD-01451,Aiko Tanaka,aiko.tanaka1451@example.com,webcam,electronics,1,137.36,2025-06-15,Japan,refunded
+ORD-01452,Ana Petrović,ana.petrovic1452@example.com,desk_chair,furniture,1,699.60,2025-08-27,Serbia,cancelled
+ORD-01453,Ingrid Hansen,ingrid.hansen1453@example.com,tablet,electronics,1,838.51,2025-04-25,Norway,paid
+ORD-01454,Trần Quốc Bảo,tran.quoc.bao1454@example.com,graphics_tablet,electronics,4,311.61,2025-06-11,Vietnam,paid
+ORD-01455,Helena Virtanen,helena.virtanen1455@example.com,mouse,accessories,3,32.66,2025-10-20,Finland,paid
+ORD-01456,Priya Sharma,priya.sharma1456@example.com,docking_station,accessories,4,257.58,2025-05-08,India,paid
+ORD-01457,Emre Kaya,emre.kaya1457@example.com,usb_hub,accessories,3,41.85,2025-11-17,Türkiye,paid
+ORD-01458,Luca Bianchi,luca.bianchi1458@example.com,headphones,electronics,4,220.35,2025-10-31,Italy,failed
+ORD-01459,Min-jun Kim,min.jun.kim1459@example.com,mouse,accessories,1,34.85,2025-06-24,South Korea,paid
+ORD-01460,Thandiwe Ndlovu,thandiwe.ndlovu1460@example.com,tablet,electronics,2,846.06,2025-11-04,South Africa,cancelled
+ORD-01461,Emma Johnson,emma.johnson1461@example.com,external_ssd,storage,4,167.08,2025-02-13,United States,paid
+ORD-01462,María García,maria.garcia1462@example.com,webcam,electronics,3,138.11,2025-12-22,Spain,paid
+ORD-01463,Valentina Rojas,valentina.rojas1463@example.com,laptop,electronics,4,1393.15,2025-11-09,Chile,refunded
+ORD-01464,Anna Müller,anna.muller1464@example.com,monitor,electronics,1,423.98,2025-05-31,Germany,refunded
+ORD-01465,Matti Korhonen,matti.korhonen1465@example.com,monitor,electronics,5,436.93,2025-04-30,Finland,paid
+ORD-01466,Isabella Santos,isabella.santos1466@example.com,webcam,electronics,4,136.14,2025-11-14,Philippines,paid
+ORD-01467,Sipho Dlamini,sipho.dlamini1467@example.com,external_ssd,storage,1,163.79,2025-06-18,South Africa,paid
+ORD-01468,Noah Williams,noah.williams1468@example.com,monitor,electronics,1,426.40,2025-02-04,United States,paid
+ORD-01469,Valentina Rojas,valentina.rojas1469@example.com,external_ssd,storage,5,158.57,2025-08-04,Chile,cancelled
+ORD-01470,Eleni Papadopoulos,eleni.papadopoulos1470@example.com,keyboard,accessories,2,89.49,2025-01-23,Greece,paid
+ORD-01471,Valentina Rojas,valentina.rojas1471@example.com,desk_chair,furniture,5,673.02,2025-11-30,Chile,failed
+ORD-01472,Youssef El Amrani,youssef.el.amrani1472@example.com,smartphone,electronics,5,1023.20,2025-03-17,Morocco,cancelled
+ORD-01473,Youssef El Amrani,youssef.el.amrani1473@example.com,smartphone,electronics,3,947.24,2025-01-05,Morocco,paid
+ORD-01474,Étienne Moreau,etienne.moreau1474@example.com,mouse,accessories,5,36.79,2025-10-14,France,paid
+ORD-01475,Zuzana Nováková,zuzana.novakova1475@example.com,usb_hub,accessories,2,48.43,2025-11-24,Slovakia,paid
+ORD-01476,Anna Müller,anna.muller1476@example.com,usb_hub,accessories,2,46.21,2025-12-22,Germany,cancelled
+ORD-01477,Thandiwe Ndlovu,thandiwe.ndlovu1477@example.com,office_desk,furniture,5,545.71,2025-06-21,South Africa,pending
+ORD-01478,Marko Jovanović,marko.jovanovic1478@example.com,usb_hub,accessories,2,42.15,2025-01-22,Serbia,cancelled
+ORD-01479,Priya Sharma,priya.sharma1479@example.com,graphics_tablet,electronics,1,316.88,2025-12-21,India,paid
+ORD-01480,Miguel Reyes,miguel.reyes1480@example.com,smartphone,electronics,2,939.08,2025-06-19,Philippines,refunded
+ORD-01481,Iryna Kovalenko,iryna.kovalenko1481@example.com,webcam,electronics,2,136.78,2025-01-04,Ukraine,failed
+ORD-01482,Kenji Sato,kenji.sato1482@example.com,monitor,electronics,3,388.42,2025-02-28,Japan,paid
+ORD-01483,Amir Hakim,amir.hakim1483@example.com,headphones,electronics,2,214.41,2025-07-04,Malaysia,paid
+ORD-01484,Luca Bianchi,luca.bianchi1484@example.com,mouse,accessories,2,33.79,2025-04-23,Italy,pending
+ORD-01485,Katarzyna Kowalska,katarzyna.kowalska1485@example.com,usb_hub,accessories,5,43.17,2025-04-11,Poland,paid
+ORD-01486,Katarzyna Kowalska,katarzyna.kowalska1486@example.com,office_desk,furniture,3,575.48,2025-01-11,Poland,paid
+ORD-01487,Freja Nielsen,freja.nielsen1487@example.com,external_ssd,storage,1,160.73,2025-04-18,Denmark,pending
+ORD-01488,Isabella Santos,isabella.santos1488@example.com,mouse,accessories,3,36.73,2025-12-05,Philippines,paid
+ORD-01489,Jakub Horváth,jakub.horvath1489@example.com,graphics_tablet,electronics,1,291.08,2025-03-08,Slovakia,paid
+ORD-01490,Elena Popescu,elena.popescu1490@example.com,tablet,electronics,4,814.57,2025-06-12,Romania,refunded
+ORD-01491,Wei Zhang,wei.zhang1491@example.com,graphics_tablet,electronics,1,323.05,2025-10-28,China,paid
+ORD-01492,Amir Hakim,amir.hakim1492@example.com,mechanical_keyboard,accessories,2,141.00,2025-01-28,Malaysia,pending
+ORD-01493,Valentina Rojas,valentina.rojas1493@example.com,office_desk,furniture,5,580.47,2025-09-08,Chile,paid
+ORD-01494,Olivia Smith,olivia.smith1494@example.com,mechanical_keyboard,accessories,4,151.75,2025-11-11,United Kingdom,paid
+ORD-01495,Emre Kaya,emre.kaya1495@example.com,tablet,electronics,4,821.77,2025-11-27,Türkiye,failed
+ORD-01496,Liam Tremblay,liam.tremblay1496@example.com,tablet,electronics,4,749.43,2025-12-31,Canada,failed
+ORD-01497,Jack Thompson,jack.thompson1497@example.com,docking_station,accessories,4,238.99,2025-10-25,Australia,refunded
+ORD-01498,María García,maria.garcia1498@example.com,mouse,accessories,2,37.21,2025-08-20,Spain,paid
+ORD-01499,Helena Virtanen,helena.virtanen1499@example.com,mouse,accessories,3,34.58,2025-07-13,Finland,paid
+ORD-01500,Erik Johansen,erik.johansen1500@example.com,desk_chair,furniture,5,634.82,2025-02-13,Norway,pending

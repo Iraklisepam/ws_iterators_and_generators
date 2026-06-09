@@ -1,0 +1,9 @@
+# python
+__pycache__/
+*.pyc
+# vscode
+.vscode/
+.venv
+.pytest_cache/
+# mypy
+.mypy_cache/
