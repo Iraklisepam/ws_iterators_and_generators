@@ -30,35 +30,39 @@ class Orders:
         # TODO: return a Orders iterator
         raise NotImplementedError("TODO: return OrdersIterator instance")
 
+
 class OrdersIterator:
     """Stateful iterator over CSV-like lines."""
 
     def __init__(self, lines: Iterator[str]) -> None:
         # TODO: save the lines and initialize the cursor
         raise NotImplementedError("TODO: save the lines and initialize the cursor")
-    
+
     def __iter__(self) -> OrdersIterator:
         # TODO: an iterator must return itself
         raise NotImplementedError("TODO: return self")
-        
+
     @staticmethod
     def _line_parser(line: str, index: int) -> Order:
-        # TODO: 
+        # TODO:
         # implement line parser that converts a line to an Order instance
-        # Handle Exception if the line is not in the expected format, 
+        # Handle Exception if the line is not in the expected format,
         # print exception message and return an Order instance with line_error=True
-        raise NotImplementedError("TODO: implement line parser that converts a line to an Order instance")
+        raise NotImplementedError(
+            "TODO: implement line parser that converts a line to an Order instance"
+        )
 
     def __next__(self) -> Order:
         # TODO:
         # Return the next order.
         raise NotImplementedError("TODO: Return the next order")
-    
+
 
 def paid_sales(orders: Orders) -> Iterator[Order]:
     """Yield only paid orders."""
     # TODO: implement as a generator
     raise NotImplementedError("TODO: implement as a generator")
+
 
 def above_threshold(
     orders: Iterable[Order],
