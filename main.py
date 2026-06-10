@@ -9,5 +9,5 @@ if __name__ == '__main__':
         paid_orders = paid_sales(orders)
         above_threshold_orders = above_threshold(paid_orders, threshold=5500)
         reported_orders = list(above_threshold_orders)
-        for order in above_threshold_orders:
+        for order in reported_orders:
              print(order)

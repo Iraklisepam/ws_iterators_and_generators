@@ -27,38 +27,42 @@ class Orders:
         self._iter_lines = lines
 
     def __iter__(self) -> Iterator[Order]:
-        # TODO: return a Orders iterator
-        raise NotImplementedError("TODO: return OrdersIterator instance")
+        return OrdersIterator(self._iter_lines)
 
 class OrdersIterator:
     """Stateful iterator over CSV-like lines."""
 
     def __init__(self, lines: Iterator[str]) -> None:
-        # TODO: save the lines and initialize the cursor
-        raise NotImplementedError("TODO: save the lines and initialize the cursor")
+        self._lines=lines
+        self._cursor = 0
     
     def __iter__(self) -> OrdersIterator:
-        # TODO: an iterator must return itself
-        raise NotImplementedError("TODO: return self")
+        return self
         
     @staticmethod
     def _line_parser(line: str, index: int) -> Order:
-        # TODO: 
-        # implement line parser that converts a line to an Order instance
-        # Handle Exception if the line is not in the expected format, 
-        # print exception message and return an Order instance with line_error=True
-        raise NotImplementedError("TODO: implement line parser that converts a line to an Order instance")
+        # hope I got the role of index right
+        _id = order_id=customer_name=customer_email=product=category=amount=unit_price=order_date=country=status = ''
+        try:
+            l=list(map(lambda x: x.strip(), line.split(',')))
+            order_id, customer_name, customer_email, product, category, amount, unit_price, order_date, country, status =  \
+            l[0], l[1], l[2], l[3], l[4], int(l[5]), float(l[-4]), l[-3], l[-2], l[-1]
+            return Order(index, order_id, customer_name, customer_email, product, category, amount, unit_price, order_date, country, status)
+        except (ValueError, Exception) as e:
+            print(e.__cause__)
+            return Order(index, order_id, customer_name, customer_email, product, category, amount, unit_price, order_date, country, status, True)
+
 
     def __next__(self) -> Order:
-        # TODO:
-        # Return the next order.
-        raise NotImplementedError("TODO: Return the next order")
+        self._cursor += 1
+        return self._line_parser(next(self._lines), self._cursor-1)
     
 
 def paid_sales(orders: Orders) -> Iterator[Order]:
     """Yield only paid orders."""
-    # TODO: implement as a generator
-    raise NotImplementedError("TODO: implement as a generator")
+    for order in orders:
+        if order.status == "paid":
+            yield order
 
 def above_threshold(
     orders: Iterable[Order],
@@ -66,7 +70,9 @@ def above_threshold(
 ) -> Iterator[Order]:
     """Yield only orders with an <price * amount> greater than or equal to threshold."""
     # TODO: implement as a generator
-    raise NotImplementedError("TODO: implement as a generator")
+    for order in orders:
+        if order.amount * order.unit_price >= threshold:
+            yield order
 
 
 def report_all_sales(
@@ -76,6 +82,7 @@ def report_all_sales(
     """Report total amount and total revenue for paid orders above threshold."""
     # FIX: this function has a bug, the total_order_count is always 0
     selected = above_threshold(paid_sales(orders), threshold=threshold)
-    total_sum = sum(order.amount * order.unit_price for order in selected)
-    total_order_count = len(list(selected))
-    return (total_order_count, total_sum)
+    items = list(selected)
+    total_sum = sum(order.amount * order.unit_price for order in items)
+    total_order_count = len(items)
+    return total_order_count, total_sum
