@@ -33,7 +33,7 @@ class OrdersIterator:
     """Stateful iterator over CSV-like lines."""
 
     def __init__(self, lines: Iterator[str]) -> None:
-        self._lines = iter(lines)
+        self._lines = lines
         self._cursor = 0
     
     def __iter__(self) -> OrdersIterator:
